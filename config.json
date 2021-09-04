@@ -947,9 +947,214 @@
             "strength":1,
             "name":"Guest - Default",
             "color":"#2e4053"
+        },
+        "409438656206471188": {
+            "strength":10,
+            "name":"Fondateur - PokeDraco",
+            "color":"#641e16"
+        },
+        "437698430631149569": {
+            "strength":9,
+            "name":"Admin - PokeDraco",
+            "color":"#7b241c"
+        },
+        "527185224858075146": {
+            "strength":8,
+            "name":"Responsable Staff - PokeDraco",
+            "color":"#512e5f"
+        },
+        "839119387734310924": {
+            "strength":7,
+            "name":"Responsable Twitch - PokeDraco",
+            "color":"#512e5f"
+        },
+        "423482279977811969": {
+            "strength":6,
+            "name":"Staff - PokeDraco",
+            "color":"#145a32"
+        },
+        "790593706540662785": {
+            "strength":5,
+            "name":"Staff Test - PokeDraco",
+            "color":"#2ecc71"
+        },
+        "anim": {
+            "strength":4,
+            "name":"Animateur - PokeDraco",
+            "color":"#2e86c1"
+        },
+        "574969046336929802": {
+            "strength":3,
+            "name":"Modérateur Twitch - PokeDraco",
+            "color":"#d4ac0d"
+        },
+        "816637760001146880": {
+            "strength":3,
+            "name":"Modérateur Twitch Test - PokeDraco",
+            "color":"#d4ac0d"
+        },
+        "843594286808956948": {
+            "strength":3,
+            "name":"Développeur - PokeDraco",
+            "color":"#d4ac0d"
+        },
+        "822161741474431057": {
+            "strength":3,
+            "name":"Monteur - PokeDraco",
+            "color":"#d4ac0d"
+        },
+        "409451602794119178": {
+            "strength":3,
+            "name":"Assistant - PokeDraco",
+            "color":"#d4ac0d"
+        },
+        "842120351335841862": {
+            "strength":2,
+            "name":"Ancien Staff - PokeDraco",
+            "color":"#839192"
+        },
+        "844020915817021460": {
+            "strength":1,
+            "name":"Friend - PokeDraco",
+            "color":"#2e4053"
+        },
+        "409444035413934110": {
+            "strength":1,
+            "name":"Friend - PokeDraco",
+            "color":"#2e4053"
         }
     },
     "users":{
+        "708468157878370305":{
+            "guilds":{
+                "388412311431282688":{
+                    "pseudo":"Hisato",
+                    "strength":"2",
+                    "name":"Ancien Staff - PokeDraco",
+                    "color":"#839192"
+                }
+            }
+        },
+        "759136412108587028":{
+            "guilds":{
+                "388412311431282688":{
+                    "pseudo":"ragnar",
+                    "strength":"2",
+                    "name":"Ancien Staff - PokeDraco",
+                    "color":"#839192"
+                }
+            }
+        },
+        "433963223314595846":{
+            "guilds":{
+                "388412311431282688":{
+                    "pseudo":"Diablo_",
+                    "strength":"2",
+                    "name":"Ancien Staff - PokeDraco",
+                    "color":"#839192"
+                }
+            }
+        },
+        "670691087307767857":{
+            "guilds":{
+                "388412311431282688":{
+                    "pseudo":"LZ❤Noctix",
+                    "strength":"2",
+                    "name":"Ancien Staff - PokeDraco",
+                    "color":"#839192"
+                }
+            }
+        },
+        "452596067574349824":{
+            "guilds":{
+                "388412311431282688":{
+                    "pseudo":"RetalOne",
+                    "strength":"2",
+                    "name":"Ancien Staff - PokeDraco",
+                    "color":"#839192"
+                }
+            }
+        },
+        "752081055422611496":{
+            "guilds":{
+                "388412311431282688":{
+                    "pseudo":"Natsu",
+                    "strength":"2",
+                    "name":"Ancien Staff - PokeDraco",
+                    "color":"#839192"
+                }
+            }
+        },
+        "605461044382400513":{
+            "guilds":{
+                "388412311431282688":{
+                    "pseudo":"𝙆𝙖𝙢𝙮",
+                    "strength":"2",
+                    "name":"Ancien Staff - PokeDraco",
+                    "color":"#839192"
+                }
+            }
+        },
+        "300904535231168512":{
+            "guilds":{
+                "388412311431282688":{
+                    "pseudo":"baba2d9",
+                    "strength":"2",
+                    "name":"Ancien Staff - PokeDraco",
+                    "color":"#839192"
+                }
+            }
+        },
+        "639785373463085059":{
+            "guilds":{
+                "388412311431282688":{
+                    "pseudo":"Guigui",
+                    "strength":"2",
+                    "name":"Ancien Staff - PokeDraco",
+                    "color":"#839192"
+                }
+            }
+        },
+        "506095392052477975":{
+            "guilds":{
+                "388412311431282688":{
+                    "pseudo":"Mattia",
+                    "strength":"2",
+                    "name":"Ancien Staff - PokeDraco",
+                    "color":"#839192"
+                }
+            }
+        },
+        "557923083319508993":{
+            "guilds":{
+                "388412311431282688":{
+                    "pseudo":"Flipatongg_",
+                    "strength":"2",
+                    "name":"Ancien Staff - PokeDraco",
+                    "color":"#839192"
+                }
+            }
+        },
+        "465887527228932097":{
+            "guilds":{
+                "388412311431282688":{
+                    "pseudo":"Notos | Jibril",
+                    "strength":"2",
+                    "name":"Ancien Staff - PokeDraco",
+                    "color":"#839192"
+                }
+            }
+        },
+        "636589258706124800":{
+            "guilds":{
+                "388412311431282688":{
+                    "pseudo":"Knyzeeer",
+                    "strength":"2",
+                    "name":"Ancien Staff - PokeDraco",
+                    "color":"#839192"
+                }
+            }
+        },
         "723143236436361227":{
             "guilds":{
                 "665142866452021268":{
