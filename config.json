@@ -602,6 +602,46 @@
             "strength":1,
             "name":"VIP - Modération France",
             "color":"#2e4053"
+        },
+        "548593331953860619": {
+            "strength":7,
+            "name":"Admin - TalentDiscord",
+            "color":"#7b241c"
+        },
+        "838434687578931222": {
+            "strength":6,
+            "name":"Dev Bot - TalentDiscord",
+            "color":"#7b241c"
+        },
+        "833288302408761365": {
+            "strength":5,
+            "name":"Responsable Anim - TalentDiscord",
+            "color":"#512e5f"
+        },
+        "833288296821161994": {
+            "strength":3,
+            "name":"Responsable Juré - TalentDiscord",
+            "color":"#512e5f"
+        },
+        "833288298356015104": {
+            "strength":5,
+            "name":"Staff - TalentDiscord",
+            "color":"#2ecc71"
+        },
+        "833288304224501800": {
+            "strength":4,
+            "name":"Animateur - TalentDiscord",
+            "color":"#2e86c1"
+        },
+        "833288306459934720": {
+            "strength":2,
+            "name":"Juré - TalentDiscord",
+            "color":"#d4ac0d"
+        },
+        "833288340941439047": {
+            "strength":1,
+            "name":"VIP/Friend - TalentDiscord",
+            "color":"#2e4053"
         }
     },
     "users":{
