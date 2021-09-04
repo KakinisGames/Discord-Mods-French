@@ -182,6 +182,61 @@
             "strength":1,
             "name":"Friend - RedSkyll",
             "color":"#2e4053"
+        },
+        "699204373414281256": {
+            "strength":10,
+            "name":"Fondateur - FantaShop",
+            "color":"#641e16"
+        },
+        "699335302002638899": {
+            "strength":9,
+            "name":"Admin - FantaShop",
+            "color":"#7b241c"
+        },
+        "775415608107728937": {
+            "strength":8,
+            "name":"Responsable - FantaShop",
+            "color":"#512e5f"
+        },
+        "772037159464206346": {
+            "strength":8,
+            "name":"Responsable Dev - FantaShop",
+            "color":"#512e5f"
+        },
+        "861370044114141184": {
+            "strength":6,
+            "name":"Modérateur - FantaShop",
+            "color":"#2ecc71"
+        },
+        "861370050748219392": {
+            "strength":4,
+            "name":"Animateur - FantaShop",
+            "color":"#2e86c1"
+        },
+        "861370046336466954": {
+            "strength":3,
+            "name":"Helpeur - FantaShop",
+            "color":"#d4ac0d"
+        },
+        "844449292612796426": {
+            "strength":2,
+            "name":"Dev + - FantaShop",
+            "color":"#d4ac0d"
+        },
+        "861370049763606538": {
+            "strength":2,
+            "name":"Dev - FantaShop",
+            "color":"#d4ac0d"
+        },
+        "861370051839000596": {
+            "strength":2,
+            "name":"Créateur - FantaShop",
+            "color":"#d4ac0d"
+        },
+        "861370048161120267": {
+            "strength":2,
+            "name":"Rédacteur - FantaShop",
+            "color":"#d4ac0d"
         }
     },
     "users":{
