@@ -111,6 +111,42 @@
             "strength":1,
             "name":"Partenaire - 0Rion Project",
             "color":"#2e4053"
+        },
+        "619894831283568665": {
+            "strength":9,
+            "name":"Bot Owner - InvitLogger",
+            "color":"#7b241c"
+        },
+        "770290209668464660": {
+            "strength":6,
+            "name":"Modérateur - InvitLogger",
+            "color":"#145a32"
+        },
+        "620635611946024960": {
+            "strength":4,
+            "name":"SupportTeam - InvitLogger",
+            "color":"#2ecc71"
+        },
+        "621764566837231621": {
+            "strength":3,
+            "name":"Traducteur - InvitLogger",
+            "color":"#d4ac0d"
+        },
+        "652635342545092618": {
+            "strength":1,
+            "name":"VIP - InvitLogger",
+            "color":"#2e4053"
+        }
+    },
+    "users":{
+        "551765934071742490":{
+            "guilds":{
+                "693826034902237214":{
+                    "strength":"2",
+                    "name":"Ancien Staff - 0Rion Project",
+                    "color":"#e0e0d1"
+                }
+            }
         }
     }
 }
