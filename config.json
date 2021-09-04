@@ -565,7 +565,42 @@
         },
         "483816962154037282": {
             "strength":1,
-            "name":"VIP/Friend - Squeezie",
+            "name":"VIP - Squeezie",
+            "color":"#2e4053"
+        },
+        "845268553082601513": {
+            "strength":8,
+            "name":"Admin - Modération France",
+            "color":"#7b241c"
+        },
+        "845246476103712798": {
+            "strength":7,
+            "name":"Responsable - Modération France",
+            "color":"#512e5f"
+        },
+        "845245711838347276": {
+            "strength":6,
+            "name":"Modérateur - Modération France",
+            "color":"#2ecc71"
+        },
+        "854776046423769088": {
+            "strength":4,
+            "name":"Animateur - Modération France",
+            "color":"#2e86c1"
+        },
+        "845246101812150292": {
+            "strength":3,
+            "name":"Assistant - Modération France",
+            "color":"#d4ac0d"
+        },
+        "846470210776727582": {
+            "strength":3,
+            "name":"Dev - Modération France",
+            "color":"#d4ac0d"
+        },
+        "846108382489739304": {
+            "strength":1,
+            "name":"VIP - Modération France",
             "color":"#2e4053"
         }
     },
