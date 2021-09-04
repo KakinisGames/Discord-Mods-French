@@ -837,6 +837,71 @@
             "strength":2,
             "name":"Ancien Staff - Chill FR",
             "color":"#839192"
+        },
+        "840963777088192532": {
+            "strength":9,
+            "name":"Admin - Sommet Création",
+            "color":"#7b241c"
+        },
+        "840963779764158474": {
+            "strength":8,
+            "name":"Responsable Staff - Sommet Création",
+            "color":"#512e5f"
+        },
+        "857647933747101757": {
+            "strength":8,
+            "name":"Responsable Discord - Sommet Création",
+            "color":"#512e5f"
+        },
+        "840963783597752341": {
+            "strength":8,
+            "name":"Responsable Animation - Sommet Création",
+            "color":"#512e5f"
+        },
+        "846061480897544214": {
+            "strength":8,
+            "name":"Gestion Manager - Sommet Création",
+            "color":"#512e5f"
+        },
+        "846059352636653598": {
+            "strength":7,
+            "name":"Modérateur + - Sommet Création",
+            "color":"#145a32"
+        },
+        "840963781172920331": {
+            "strength":6,
+            "name":"Modérateur - Sommet Création",
+            "color":"#2ecc71"
+        },
+        "846059363033546774": {
+            "strength":5,
+            "name":"ModérateurTest - Sommet Création",
+            "color":"#2ecc71"
+        },
+        "840963786919903282": {
+            "strength":4,
+            "name":"Animateur - Sommet Création",
+            "color":"#2e86c1"
+        },
+        "840963787695849472": {
+            "strength":3,
+            "name":"Assistant - Sommet Création",
+            "color":"#d4ac0d"
+        },
+        "840963789553270815": {
+            "strength":3,
+            "name":"Jury - Sommet Création",
+            "color":"#d4ac0d"
+        },
+        "840963805617061908": {
+            "strength":1,
+            "name":"Amis - Sommet Création",
+            "color":"#2e4053"
+        },
+        "842790638737948694": {
+            "strength":1,
+            "name":"Partenaire - Sommet Création",
+            "color":"#2e4053"
         }
     },
     "users":{
