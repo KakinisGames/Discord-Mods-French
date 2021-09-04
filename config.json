@@ -462,6 +462,36 @@
             "strength":1,
             "name":"Partenaire - Paladium",
             "color":"#2e4053"
+        },
+        "483816830004232222": {
+            "strength":7,
+            "name":"Fondateur - Diabolofeat35",
+            "color":"#641e16"
+        },
+        "652238629581619212": {
+            "strength":6,
+            "name":"Admin - Diabolofeat35",
+            "color":"#7b241c"
+        },
+        "811701360789422172": {
+            "strength":4,
+            "name":"Super-Modérateur - Diabolofeat35",
+            "color":"#145a32"
+        },
+        "483928188196749312": {
+            "strength":3,
+            "name":"Modérateur - Diabolofeat35",
+            "color":"#2ecc71"
+        },
+        "879957275735900250": {
+            "strength":1,
+            "name":"Monteur - Diabolofeat35",
+            "color":"#2e4053"
+        },
+        "483817139900514327": {
+            "strength":1,
+            "name":"Friend - Diabolofeat35",
+            "color":"#2e4053"
         }
     },
     "users":{
@@ -486,6 +516,15 @@
         "387996247182802954":{
             "guilds":{
                 "356386012819226625":{
+                    "strength":"2",
+                    "name":"Ancien Staff - Palladium",
+                    "color":"#839192"
+                }
+            }
+        },
+        "368782799928295436":{
+            "guilds":{
+                "482631676032319489":{
                     "strength":"2",
                     "name":"Ancien Staff - Palladium",
                     "color":"#839192"
