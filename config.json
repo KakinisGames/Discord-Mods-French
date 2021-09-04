@@ -1022,9 +1022,104 @@
             "strength":1,
             "name":"Friend - PokeDraco",
             "color":"#2e4053"
+        },
+        "816426433068269639": {
+            "strength":9,
+            "name":"Admin - AideJeune",
+            "color":"#7b241c"
+        },
+        "816780249500090368": {
+            "strength":8,
+            "name":"Responsable - AideJeune",
+            "color":"#512e5f"
+        },
+        "875468761799491644": {
+            "strength":8,
+            "name":"RH - AideJeune",
+            "color":"#512e5f"
+        },
+        "808949531051425823": {
+            "strength":8,
+            "name":"Référent Support - AideJeune",
+            "color":"#512e5f"
+        },
+        "808989508879908864": {
+            "strength":6,
+            "name":"Modérateur - AideJeune",
+            "color":"#2ecc71"
+        },
+        "830809035716165643": {
+            "strength":6,
+            "name":"Mod Perm - AideJeune",
+            "color":"#2ecc71"
+        },
+        "810318329667518474": {
+            "strength":4,
+            "name":"Animateur - AideJeune",
+            "color":"#2e86c1"
+        },
+        "810538918817562635": {
+            "strength":3,
+            "name":"Support - AideJeune",
+            "color":"#d4ac0d"
+        },
+        "816441671462027274": {
+            "strength":2,
+            "name":"Graphiste - AideJeune",
+            "color":"#d4ac0d"
+        },
+        "847155304394522625": {
+            "strength":2,
+            "name":"Publicité Aide Jeune - AideJeune",
+            "color":"#d4ac0d"
+        },
+        "816637843408814100": {
+            "strength":3,
+            "name":"Développeur - AideJeune",
+            "color":"#d4ac0d"
+        },
+        "825807465274146827": {
+            "strength":1,
+            "name":"Partenaire - AideJeune",
+            "color":"#2e4053"
+        },
+        "834084841552084992": {
+            "strength":1,
+            "name":"Ambasadeur - AideJeune",
+            "color":"#2e4053"
         }
     },
     "users":{
+        "468157760773685258":{
+            "guilds":{
+                "808802480170729532":{
+                    "pseudo":"Fr0steu",
+                    "strength":"2",
+                    "name":"Ancien Staff - Aide Jeune",
+                    "color":"#839192"
+                }
+            }
+        },
+        "343737595836235776":{
+            "guilds":{
+                "808802480170729532":{
+                    "pseudo":"Noa",
+                    "strength":"2",
+                    "name":"Ancien Staff - Aide Jeune",
+                    "color":"#839192"
+                }
+            }
+        },
+        "808802480170729532":{
+            "guilds":{
+                "808802480170729532":{
+                    "pseudo":"Noa",
+                    "strength":"2",
+                    "name":"Ancien Staff - Aide Jeune",
+                    "color":"#839192"
+                }
+            }
+        },
         "708468157878370305":{
             "guilds":{
                 "388412311431282688":{
