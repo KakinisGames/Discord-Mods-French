@@ -792,6 +792,51 @@
             "strength":1,
             "name":"Partenaire - Discord France",
             "color":"#2e4053"
+        },
+        "840974640058466304": {
+            "strength":8,
+            "name":"Créateur - Chill FR",
+            "color":"#7b241c"
+        },
+        "840974642218926091": {
+            "strength":7,
+            "name":"Responsable - Chill FR",
+            "color":"#512e5f"
+        },
+        "858626634319265793": {
+            "strength":6,
+            "name":"Conseillé - Chill FR",
+            "color":"#145a32"
+        },
+        "840974643250069534": {
+            "strength":6,
+            "name":"Modérateur - Chill FR",
+            "color":"#2ecc71"
+        },
+        "840974671180070924": {
+            "strength":5,
+            "name":"Confiance - Chill FR",
+            "color":"#2ecc71"
+        },
+        "853570414600912906": {
+            "strength":4,
+            "name":"Animateur - Chill FR",
+            "color":"#2e86c1"
+        },
+        "840974644013695007": {
+            "strength":3,
+            "name":"Guide - Chill FR",
+            "color":"#d4ac0d"
+        },
+        "840974667417124894": {
+            "strength":1,
+            "name":"Partenaire - Chill FR",
+            "color":"#2e4053"
+        },
+        "840974667857920081": {
+            "strength":1,
+            "name":"Célébrité - Chill FR",
+            "color":"#2e4053"
         }
     },
     "users":{
