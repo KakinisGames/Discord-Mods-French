@@ -342,6 +342,56 @@
             "strength":1,
             "name":"Amis - FlyZ3r",
             "color":"#2e4053"
+        },
+        "768887341547913226": {
+            "strength":10,
+            "name":"Fondateur - Kaatsup",
+            "color":"#641e16"
+        },
+        "768887346979930112": {
+            "strength":8,
+            "name":"Admin - Kaatsup",
+            "color":"#7b241c"
+        },
+        "768887345457790996": {
+            "strength":9,
+            "name":"Manageur - Kaatsup",
+            "color":"#512e5f"
+        },
+        "768887347680247809": {
+            "strength":7,
+            "name":"Modérateur - Kaatsup",
+            "color":"#145a32"
+        },
+        "768887349421015041": {
+            "strength":6,
+            "name":"Modérateur-Test - Kaatsup",
+            "color":"#2ecc71"
+        },
+        "809921917909860363": {
+            "strength":4,
+            "name":"Animateur - Kaatsup",
+            "color":"#2e86c1"
+        },
+        "768887348494336001": {
+            "strength":3,
+            "name":"Mod Twitch - Kaatsup",
+            "color":"#d4ac0d"
+        },
+        "853762966457548860": {
+            "strength":2,
+            "name":"Mod Twitch Test - Kaatsup",
+            "color":"#d4ac0d"
+        },
+        "768887346283413505": {
+            "strength":2,
+            "name":"Staff - Kaatsup",
+            "color":"#d4ac0d"
+        },
+        "768887352999149618": {
+            "strength":1,
+            "name":"VIP/Friend - Kaatsup",
+            "color":"#2e4053"
         }
     },
     "users":{
@@ -359,6 +409,15 @@
                 "510096798497374225":{
                     "strength":"2",
                     "name":"Ancien Staff - Khundar",
+                    "color":"#839192"
+                }
+            }
+        },
+        "387996247182802954":{
+            "guilds":{
+                "356386012819226625":{
+                    "strength":"2",
+                    "name":"Ancien Staff - Palladium",
                     "color":"#839192"
                 }
             }
