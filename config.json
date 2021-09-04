@@ -687,9 +687,194 @@
             "strength":1,
             "name":"Friend - Multicort",
             "color":"#2e4053"
+        },
+        "fond": {
+            "strength":9,
+            "name":"Fondateur - Mcfly & Carlito",
+            "color":"#641e16"
+        },
+        "665168424330067969": {
+            "strength":8,
+            "name":"Admin - Mcfly & Carlito",
+            "color":"#7b241c"
+        },
+        "672763830278815745": {
+            "strength":7,
+            "name":"Responsable Mod - Mcfly & Carlito",
+            "color":"#512e5f"
+        },
+        "702566875393032352": {
+            "strength":7,
+            "name":"Responsable Anim - Mcfly & Carlito",
+            "color":"#512e5f"
+        },
+        "808860345699270686": {
+            "strength":6,
+            "name":"Responsable Partenaire - Mcfly & Carlito",
+            "color":"#512e5f"
+        },
+        "666616180529692713": {
+            "strength":5,
+            "name":"Modérateur - Mcfly & Carlito",
+            "color":"#2ecc71"
+        },
+        "674377124437557302": {
+            "strength":4,
+            "name":"Animateur - Mcfly & Carlito",
+            "color":"#2e86c1"
+        },
+        "830089867916214293": {
+            "strength":3,
+            "name":"Helpeur - Mcfly & Carlito",
+            "color":"#d4ac0d"
+        },
+        "775192836718460938": {
+            "strength":3,
+            "name":"Illustrateur - Mcfly & Carlito",
+            "color":"#d4ac0d"
+        },
+        "806590090531831808": {
+            "strength":2,
+            "name":"Ancien Staff - Mcfly & Carlito",
+            "color":"#839192"
+        },
+        "vip/friend": {
+            "strength":1,
+            "name":"VIP/Friend - Mcfly & Carlito",
+            "color":"#2e4053"
         }
     },
     "users":{
+        "723143236436361227":{
+            "guilds":{
+                "665142866452021268":{
+                    "pseudo":"Nakama",
+                    "strength":"2",
+                    "name":"Ancien Staff - Mcfly & Carlito",
+                    "color":"#839192"
+                }
+            }
+        },
+        "631467865484296203":{
+            "guilds":{
+                "665142866452021268":{
+                    "pseudo":"Bibi",
+                    "strength":"2",
+                    "name":"Ancien Staff - Mcfly & Carlito",
+                    "color":"#839192"
+                }
+            }
+        },
+        "178840668305752065":{
+            "guilds":{
+                "665142866452021268":{
+                    "pseudo":"MaLbaK",
+                    "strength":"2",
+                    "name":"Ancien Staff - Mcfly & Carlito",
+                    "color":"#839192"
+                }
+            }
+        },
+        "798838842400440330":{
+            "guilds":{
+                "665142866452021268":{
+                    "pseudo":"Swizzer",
+                    "strength":"2",
+                    "name":"Ancien Staff - Mcfly & Carlito",
+                    "color":"#839192"
+                }
+            }
+        },
+        "210712552412282881":{
+            "guilds":{
+                "665142866452021268":{
+                    "pseudo":"Cédric",
+                    "strength":"2",
+                    "name":"Ancien Staff - Mcfly & Carlito",
+                    "color":"#839192"
+                }
+            }
+        },
+        "224286479537405954":{
+            "guilds":{
+                "665142866452021268":{
+                    "pseudo":"Louwi",
+                    "strength":"2",
+                    "name":"Ancien Staff - Mcfly & Carlito",
+                    "color":"#839192"
+                }
+            }
+        },
+        "568596788483850240":{
+            "guilds":{
+                "665142866452021268":{
+                    "pseudo":"Guizmo5647",
+                    "strength":"2",
+                    "name":"Ancien Staff - Mcfly & Carlito",
+                    "color":"#839192"
+                }
+            }
+        },
+        "125291458415558656":{
+            "guilds":{
+                "665142866452021268":{
+                    "pseudo":"Coxibatte",
+                    "strength":"2",
+                    "name":"Ancien Staff - Mcfly & Carlito",
+                    "color":"#839192"
+                }
+            }
+        },
+        "544257852429303858":{
+            "guilds":{
+                "665142866452021268":{
+                    "pseudo":"[Melvin]",
+                    "strength":"2",
+                    "name":"Ancien Staff - Mcfly & Carlito",
+                    "color":"#839192"
+                }
+            }
+        },
+        "390934512973905922":{
+            "guilds":{
+                "665142866452021268":{
+                    "pseudo":"Sashô",
+                    "strength":"2",
+                    "name":"Ancien Staff - Mcfly & Carlito",
+                    "color":"#839192"
+                }
+            }
+        },
+        "203250636924518400":{
+            "guilds":{
+                "665142866452021268":{
+                    "pseudo":"Kodai",
+                    "strength":"2",
+                    "name":"Ancien Staff - Mcfly & Carlito",
+                    "color":"#839192"
+                }
+            }
+        },
+        "400677352356708353":{
+            "guilds":{
+                "665142866452021268":{
+                    "pseudo":"ℳ𝒆𝓶𝓹𝓱𝓲𝓼#1111",
+                    "strength":"2",
+                    "name":"Ancien Staff - Mcfly & Carlito",
+                    "color":"#839192"
+                }
+            }
+        },
+        "485549647943958528":{
+            "guilds":{
+                "665142866452021268":{
+                    "pseudo":"Robîn",
+                    "strength":"2",
+                    "name":"Ancien Staff - Mcfly & Carlito",
+                    "color":"#839192"
+                }
+            }
+        },
         "551765934071742490":{
             "guilds":{
                 "693826034902237214":{
