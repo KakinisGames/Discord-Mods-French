@@ -277,6 +277,41 @@
             "strength":1,
             "name":"VIP - Slash FR",
             "color":"#2e4053"
+        },
+        "510099127867146261": {
+            "strength":7,
+            "name":"Fondateur - Khundar",
+            "color":"#7b241c"
+        },
+        "510099576154357780": {
+            "strength":9,
+            "name":"Admin - Khundar",
+            "color":"#7b241c"
+        },
+        "510099158817046558": {
+            "strength":8,
+            "name":"Responsable - Khundar",
+            "color":"#512e5f"
+        },
+        "615521948298117150": {
+            "strength":6,
+            "name":"Modérateur - Khundar",
+            "color":"#2ecc71"
+        },
+        "anim": {
+            "strength":4,
+            "name":"Animateur - Khundar",
+            "color":"#2e86c1"
+        },
+        "helper": {
+            "strength":3,
+            "name":"Helpeur - Khundar",
+            "color":"#d4ac0d"
+        },
+        "vip/friend": {
+            "strength":1,
+            "name":"VIP/Friend - Khundar",
+            "color":"#2e4053"
         }
     },
     "users":{
@@ -285,6 +320,15 @@
                 "693826034902237214":{
                     "strength":"2",
                     "name":"Ancien Staff - 0Rion Project",
+                    "color":"#839192"
+                }
+            }
+        },
+        "319722270232805376":{
+            "guilds":{
+                "510096798497374225":{
+                    "strength":"2",
+                    "name":"Ancien Staff - Khundar",
                     "color":"#839192"
                 }
             }
