@@ -642,6 +642,51 @@
             "strength":1,
             "name":"VIP/Friend - TalentDiscord",
             "color":"#2e4053"
+        },
+        "450336185253101568": {
+            "strength":9,
+            "name":"Fondateur - Multicort",
+            "color":"#641e16"
+        },
+        "747550096425615521": {
+            "strength":8,
+            "name":"Resp Discord - Multicort",
+            "color":"#7b241c"
+        },
+        "803658438071943238": {
+            "strength":7,
+            "name":"Responsable Mod - Multicort",
+            "color":"#512e5f"
+        },
+        "832370165337161759": {
+            "strength":7,
+            "name":"Responsable Anim - Multicort",
+            "color":"#512e5f"
+        },
+        "721418835764314145": {
+            "strength":6,
+            "name":"Modérateur + - Multicort",
+            "color":"#145a32"
+        },
+        "721419253932228669": {
+            "strength":5,
+            "name":"Modérateur - Multicort",
+            "color":"#2ecc71"
+        },
+        "747830720793411745": {
+            "strength":4,
+            "name":"Animateur - Multicort",
+            "color":"#2e86c1"
+        },
+        "450333778423054336": {
+            "strength":3,
+            "name":"Modérateur Live - Multicort",
+            "color":"#d4ac0d"
+        },
+        "485717459404324866": {
+            "strength":1,
+            "name":"Friend - Multicort",
+            "color":"#2e4053"
         }
     },
     "users":{
