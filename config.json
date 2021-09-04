@@ -40,5 +40,27 @@
             "name":"VIP/Friend - Default",
             "color":"#2e4053"
         }
+    },
+    "roles":{
+        "568899369764388875": {
+            "strength":9,
+            "name":"Admin - DiscordTesters",
+            "color":"#7b241c"
+        },
+        "440322144593772545": {
+            "strength":8,
+            "name":"Modérateur - DiscordTesters",
+            "color":"#512e5f"
+        },
+        "440330249826205696": {
+            "strength":6,
+            "name":"BugAdmin - DiscordTesters",
+            "color":"#2ecc71"
+        },
+        "695797931055382549": {
+            "strength":4,
+            "name":"JRMod - DiscordTesters",
+            "color":"#2e86c1"
+        }
     }
 }
