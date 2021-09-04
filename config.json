@@ -902,6 +902,51 @@
             "strength":1,
             "name":"Partenaire - Sommet Création",
             "color":"#2e4053"
+        },
+        "606815024216014869": {
+            "strength":9,
+            "name":"Admin - InoxTag",
+            "color":"#7b241c"
+        },
+        "606830953859383306": {
+            "strength":8,
+            "name":"Responsable - InoxTag",
+            "color":"#512e5f"
+        },
+        "606829825054736395": {
+            "strength":6,
+            "name":"Modérateur - InoxTag",
+            "color":"#2ecc71"
+        },
+        "682213201450237990": {
+            "strength":7,
+            "name":"Developpeur - InoxTag",
+            "color":"#2ecc71"
+        },
+        "606829369591070759": {
+            "strength":5,
+            "name":"Animateur - Default",
+            "color":"#2e86c1"
+        },
+        "819274900052901888": {
+            "strength":4,
+            "name":"Modérateur YT - Default",
+            "color":"#2ecc71"
+        },
+        "835639812820172831": {
+            "strength":4,
+            "name":"Modérateur Twitch - Default",
+            "color":"#2ecc71"
+        },
+        "878910831407005696": {
+            "strength":3,
+            "name":"Créative Team - Default",
+            "color":"#d4ac0d"
+        },
+        "606830419073302538": {
+            "strength":1,
+            "name":"Guest - Default",
+            "color":"#2e4053"
         }
     },
     "users":{
