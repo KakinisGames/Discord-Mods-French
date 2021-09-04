@@ -297,21 +297,6 @@
             "strength":6,
             "name":"Modérateur - Khundar",
             "color":"#2ecc71"
-        },
-        "anim": {
-            "strength":4,
-            "name":"Animateur - Khundar",
-            "color":"#2e86c1"
-        },
-        "helper": {
-            "strength":3,
-            "name":"Helpeur - Khundar",
-            "color":"#d4ac0d"
-        },
-        "vip/friend": {
-            "strength":1,
-            "name":"VIP/Friend - Khundar",
-            "color":"#2e4053"
         }
     },
     "users":{
