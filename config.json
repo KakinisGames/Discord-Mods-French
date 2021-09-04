@@ -91,6 +91,26 @@
             "strength":1,
             "name":"Trusted - Unosial",
             "color":"#2e4053"
+        },
+        "779019376870686740": {
+            "strength":9,
+            "name":"Admin - 0Rion Project",
+            "color":"#7b241c"
+        },
+        "796479084154716180": {
+            "strength":8,
+            "name":"Responsable - 0Rion Project",
+            "color":"#512e5f"
+        },
+        "796479711194644581": {
+            "strength":6,
+            "name":"Staff - 0Rion Project",
+            "color":"#2ecc71"
+        },
+        "790528546384510986": {
+            "strength":1,
+            "name":"Partenaire - 0Rion Project",
+            "color":"#2e4053"
         }
     }
 }
