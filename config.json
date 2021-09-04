@@ -732,11 +732,6 @@
             "strength":2,
             "name":"Ancien Staff - Mcfly & Carlito",
             "color":"#839192"
-        },
-        "vip/friend": {
-            "strength":1,
-            "name":"VIP/Friend - Mcfly & Carlito",
-            "color":"#2e4053"
         }
     },
     "users":{
