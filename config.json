@@ -297,6 +297,51 @@
             "strength":6,
             "name":"Modérateur - Khundar",
             "color":"#2ecc71"
+        },
+        "309768938617569291": {
+            "strength":10,
+            "name":"Fondateur - Default",
+            "color":"#641e16"
+        },
+        "824733685398896710": {
+            "strength":9,
+            "name":"Admin - FlyZ3r",
+            "color":"#7b241c"
+        },
+        "611462101734785045": {
+            "strength":8,
+            "name":"Responsable - FlyZ3r",
+            "color":"#512e5f"
+        },
+        "414887589275762689": {
+            "strength":6,
+            "name":"Modérateur - FlyZ3r",
+            "color":"#2ecc71"
+        },
+        "688475183173861503": {
+            "strength":4,
+            "name":"Animateur - FlyZ3r",
+            "color":"#2e86c1"
+        },
+        "813873752709660723": {
+            "strength":3,
+            "name":"Dev - FlyZ3r",
+            "color":"#d4ac0d"
+        },
+        "824983888996335618": {
+            "strength":2,
+            "name":"Staff - FlyZ3r",
+            "color":"#d4ac0d"
+        },
+        "Ancien Staff": {
+            "strength":2,
+            "name":"Ancien Staff - FlyZ3r",
+            "color":"#839192"
+        },
+        "357221088935018500": {
+            "strength":1,
+            "name":"Amis - FlyZ3r",
+            "color":"#2e4053"
         }
     },
     "users":{
