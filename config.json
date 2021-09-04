@@ -333,11 +333,6 @@
             "name":"Staff - FlyZ3r",
             "color":"#d4ac0d"
         },
-        "Ancien Staff": {
-            "strength":2,
-            "name":"Ancien Staff - FlyZ3r",
-            "color":"#839192"
-        },
         "357221088935018500": {
             "strength":1,
             "name":"Amis - FlyZ3r",
@@ -391,6 +386,81 @@
         "768887352999149618": {
             "strength":1,
             "name":"VIP/Friend - Kaatsup",
+            "color":"#2e4053"
+        },
+        "356395293790437376": {
+            "strength":9,
+            "name":"Admin - Paladium",
+            "color":"#7b241c"
+        },
+        "356395154904449025": {
+            "strength":8,
+            "name":"Responsable - Paladium",
+            "color":"#512e5f"
+        },
+        "772756938731552789": {
+            "strength":8,
+            "name":"Super-Modérateur Discord - Paladium",
+            "color":"#145a32"
+        },
+        "393179023074787338": {
+            "strength":7,
+            "name":"Super-Modérateur - Paladium",
+            "color":"#145a32"
+        },
+        "476561902076559363": {
+            "strength":6,
+            "name":"Modérateur Discord - Paladium",
+            "color":"#2ecc71"
+        },
+        "356390364699164672": {
+            "strength":5,
+            "name":"Dev - Paladium",
+            "color":"#2ecc71"
+        },
+        "818167366130204723": {
+            "strength":4,
+            "name":"Modérateur Forum - Paladium",
+            "color":"#2ecc71"
+        },
+        "356394765589151747": {
+            "strength":4,
+            "name":"Modérateur - Paladium",
+            "color":"#2ecc71"
+        },
+        "818623967732563978": {
+            "strength":3,
+            "name":"Animateur - Paladium",
+            "color":"#2e86c1"
+        },
+        "818167369456812083": {
+            "strength":3,
+            "name":"Builder - Paladium",
+            "color":"#d4ac0d"
+        },
+        "818167390461755422": {
+            "strength":3,
+            "name":"Graphiste - Paladium",
+            "color":"#d4ac0d"
+        },
+        "818167373109657610": {
+            "strength":3,
+            "name":"Rédacteur - Paladium",
+            "color":"#d4ac0d"
+        },
+        "818183513006014474": {
+            "strength":3,
+            "name":"Création - Paladium",
+            "color":"#d4ac0d"
+        },
+        "356399419802779660": {
+            "strength":2,
+            "name":"Ancien Staff - Paladium",
+            "color":"#839192"
+        },
+        "356426707567378432": {
+            "strength":1,
+            "name":"Partenaire - Paladium",
             "color":"#2e4053"
         }
     },
