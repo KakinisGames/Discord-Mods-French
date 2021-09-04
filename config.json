@@ -61,6 +61,36 @@
             "strength":4,
             "name":"JRMod - DiscordTesters",
             "color":"#2e86c1"
+        },
+        "811276574065950751": {
+            "strength":10,
+            "name":"Fondateur - Unosial",
+            "color":"#641e16"
+        },
+        "827876186033225790": {
+            "strength":8,
+            "name":"Responsable - Unosial",
+            "color":"#512e5f"
+        },
+        "461950084393861140": {
+            "strength":7,
+            "name":"Développeur - Unosial",
+            "color":"#145a32"
+        },
+        "455755103014617098": {
+            "strength":6,
+            "name":"Staff - Unosial",
+            "color":"#2ecc71"
+        },
+        "811280970371432486": {
+            "strength":1,
+            "name":"VIP - Unosial",
+            "color":"#2e4053"
+        },
+        "541694284361891962": {
+            "strength":1,
+            "name":"Trusted - Unosial",
+            "color":"#2e4053"
         }
     }
 }
