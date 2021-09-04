@@ -832,6 +832,11 @@
             "strength":1,
             "name":"Célébrité - Chill FR",
             "color":"#2e4053"
+        },
+        "751599299980165250": {
+            "strength":2,
+            "name":"Ancien Staff - Chill FR",
+            "color":"#839192"
         }
     },
     "users":{
