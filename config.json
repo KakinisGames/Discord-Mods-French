@@ -1,0 +1,44 @@
+{
+    "default":{
+        "fond": {
+            "strength":10,
+            "name":"Fondateur - Default",
+            "color":"#641e16"
+        },
+        "admin": {
+            "strength":9,
+            "name":"Admin - Default",
+            "color":"#7b241c"
+        },
+        "reponsable": {
+            "strength":8,
+            "name":"Responsable - Default",
+            "color":"#512e5f"
+        },
+        "super-mod": {
+            "strength":7,
+            "name":"Super-Modérateur - Default",
+            "color":"#145a32"
+        },
+        "mod": {
+            "strength":6,
+            "name":"Modérateur - Default",
+            "color":"#2ecc71"
+        },
+        "anim": {
+            "strength":4,
+            "name":"Animateur - Default",
+            "color":"#2e86c1"
+        },
+        "helper": {
+            "strength":3,
+            "name":"Helpeur - Default",
+            "color":"#d4ac0d"
+        },
+        "vip/friend": {
+            "strength":1,
+            "name":"VIP/Friend - Default",
+            "color":"#2e4053"
+        }
+    }
+}
