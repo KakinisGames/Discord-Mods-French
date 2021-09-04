@@ -732,6 +732,26 @@
             "strength":2,
             "name":"Ancien Staff - Mcfly & Carlito",
             "color":"#839192"
+        },
+        "833078829660504095": {
+            "strength":7,
+            "name":"Fuze - FuzeEvent",
+            "color":"#7b241c"
+        },
+        "833067934699749378": {
+            "strength":6,
+            "name":"Gestion - FuzeEvent",
+            "color":"#512e5f"
+        },
+        "853282343064961055": {
+            "strength":4,
+            "name":"Modérateur - FuzeEvent",
+            "color":"#2ecc71"
+        },
+        "872635515256602664": {
+            "strength":2,
+            "name":"Graphiste - FuzeEvent",
+            "color":"#d4ac0d"
         }
     },
     "users":{
