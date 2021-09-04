@@ -162,7 +162,7 @@
             "name":"Modérateur - RedSkyll",
             "color":"#2ecc71"
         },
-        "anim": {
+        "0": {
             "info":"ID inconnue - à voir plus tard",
             "strength":4,
             "name":"Animateur - RedSkyll",
@@ -492,6 +492,61 @@
             "strength":1,
             "name":"Friend - Diabolofeat35",
             "color":"#2e4053"
+        },
+        "350192254885036032": {
+            "strength":10,
+            "name":"Fondateur - FuzeIII",
+            "color":"#641e16"
+        },
+        "721334170470711357": {
+            "strength":9,
+            "name":"Superviseur - FuzeIII",
+            "color":"#641e16"
+        },
+        "356175534050508801": {
+            "strength":8,
+            "name":"Admin - FuzeIII",
+            "color":"#7b241c"
+        },
+        "703667054284243094": {
+            "strength":8,
+            "name":"Dev - FuzeIII",
+            "color":"#7b241c"
+        },
+        "719939063712448593": {
+            "strength":7,
+            "name":"Responsable - FuzeIII",
+            "color":"#512e5f"
+        },
+        "401833007427616768": {
+            "strength":6,
+            "name":"Modérateur Certifié - FuzeIII",
+            "color":"#145a32"
+        },
+        "350188777232400386": {
+            "strength":5,
+            "name":"Modérateur Non Certifié - FuzeIII",
+            "color":"#2ecc71"
+        },
+        "645306953542795279": {
+            "strength":4,
+            "name":"Animateur - FuzeIII",
+            "color":"#2e86c1"
+        },
+        "882606791404445727": {
+            "strength":3,
+            "name":"Pause Staff - FuzeIII",
+            "color":"#839192"
+        },
+        "365210102199877643": {
+            "strength":2,
+            "name":"Ancien Staff - FuzeIII",
+            "color":"#839192"
+        },
+        "350186062401896460": {
+            "strength":1,
+            "name":"Friend - FuzeIII",
+            "color":"#2e4053"
         }
     },
     "users":{
@@ -527,6 +582,763 @@
                 "482631676032319489":{
                     "strength":"2",
                     "name":"Ancien Staff - Palladium",
+                    "color":"#839192"
+                }
+            }
+        },
+        "435054903996579841":{
+            "guilds":{
+                "482631676032319489":{
+                    "pseudo":"Biprini",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "244556128044843008":{
+            "guilds":{
+                "482631676032319489":{
+                    "pseudo":"Esteban",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "257531875227074571":{
+            "guilds":{
+                "482631676032319489":{
+                    "pseudo":"Sir",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "275390015746342914":{
+            "guilds":{
+                "482631676032319489":{
+                    "pseudo":"Zoldru",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                },
+                "356386012819226625":{
+                    "pseudo":"Zoldru",
+                    "strength":"2",
+                    "name":"Ancien Staff - Paladium",
+                    "color":"#839192"
+                }
+            }
+        },
+        "241616253364600833":{
+            "guilds":{
+                "482631676032319489":{
+                    "pseudo":"AlexT",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "378814514935889920":{
+            "guilds":{
+                "482631676032319489":{
+                    "pseudo":"Noctali",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "492586624878641153":{
+            "guilds":{
+                "482631676032319489":{
+                    "pseudo":"Frigiel , ce bg (sayo)",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "656636507666382928":{
+            "guilds":{
+                "482631676032319489":{
+                    "pseudo":"Xederma",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "376005461075427331":{
+            "guilds":{
+                "482631676032319489":{
+                    "pseudo":"Waroth",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "652235918463336480":{
+            "guilds":{
+                "482631676032319489":{
+                    "pseudo":"Fishy",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "548102399621857300":{
+            "guilds":{
+                "482631676032319489":{
+                    "pseudo":"TwiDev",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "529015046076891152":{
+            "guilds":{
+                "482631676032319489":{
+                    "pseudo":"ternetul",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "604968867806314497":{
+            "guilds":{
+                "482631676032319489":{
+                    "pseudo":"Lulla c'est la plus gentille",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "486561945575489536":{
+            "guilds":{
+                "482631676032319489":{
+                    "pseudo":"Skatestla",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "456847994311016448":{
+            "guilds":{
+                "482631676032319489":{
+                    "pseudo":"ROMAX_M",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "692796849245126708":{
+            "guilds":{
+                "482631676032319489":{
+                    "pseudo":"Meticuleux",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "381187903629557769":{
+            "guilds":{
+                "482631676032319489":{
+                    "pseudo":"Flos",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "436265339404419082":{
+            "guilds":{
+                "482631676032319489":{
+                    "pseudo":"Absent reviens le 21 Août",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "529015046076891152":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"AstralOpithèque",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "706280843051532401":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Léopard",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "404234510524481548":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Elsidir",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "384250971301347329":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Romain",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "516973332680409089":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"lara_breizh",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "254946754640740352":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Aimliloke",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "236173372424192001":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Nekyox",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "709170819086942272":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Oka",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "304282243164274689":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Crysphène",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "282209641990193152":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Arawin",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "281255818182262784":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Citronaute",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "264485248455278592":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Djjo68",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "235133534761779200":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Metaloul",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "349161037557268481":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Tatane",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "291549678187708425":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"charly griveaux",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "453846844666150924":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Ruki",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+
+        "280646077013688321":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"papercrak",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "410521475502702593":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"sugo",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "333229500072460288":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"SkyWors",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "390484011765596171":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Griphyx",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "357562776509743105":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Monsieur No/binouze",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "596435232274513992":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Jus D'ananas",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "224615209623486464":{
+            "guilds":{
+                "356386012819226625":{
+                    "pseudo":"Viking5754",
+                    "strength":"2",
+                    "name":"Ancien Staff - Paladium",
+                    "color":"#839192"
+                }
+            }
+        },
+        "214010858936729600":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Mej",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "531052053934506004":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Silky",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "163756938482417668":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Strikes",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "447506351560589312":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Dwreamz",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "698060883162562611":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"The Kid",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "414426838140715009":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Lina~",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "254738660392435713":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"To8ik_",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "132851151979806720":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Noubouille",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "270215970088288256":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Shuvi Ram",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "344986698951950336":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Tharegorn",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "143457592230805505":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Hugo",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "221678548715307008":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"SugarElement",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "381848755122601994":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"ReD",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "180375237727223808":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Ybu",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "298908574728323075":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Bobine",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "289969318601424917":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Sirius",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "195969020917317633":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Franky1803",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "207619820831768576":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Panno",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "234760237528121354":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Eni",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "287583441585700865":{
+            "guilds":{
+                "287583441585700865":{
+                    "pseudo":"Victor",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "201794923819696128":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Coucoude",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "235144026435616768":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Calkhiah",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "264828250897776650":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"DaGoSei",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "355346269482254337":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Dorian",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "212168342050439169":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Nitoxym",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "285732045223755778":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Chimorin",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "402146518464725003":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Vicalf",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "394559616002031617":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Biscuiite",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "420250671468511243":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"MatthisGN",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "351813999752511498":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Kant",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "196031325310943242":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Sishette",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "329724574176509962":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Minotor",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "310417096431501313":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"TerryTop",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                }
+            }
+        },
+        "510878870082158603":{
+            "guilds":{
+                "460095566702182420":{
+                    "pseudo":"Rockid",
+                    "strength":"2",
+                    "name":"Ancien Staff - FuzeIII",
                     "color":"#839192"
                 }
             }
