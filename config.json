@@ -752,6 +752,46 @@
             "strength":2,
             "name":"Graphiste - FuzeEvent",
             "color":"#d4ac0d"
+        },
+        "435138673370202123": {
+            "strength":9,
+            "name":"Admin - Discord France",
+            "color":"#7b241c"
+        },
+        "441899345785389058": {
+            "strength":8,
+            "name":"Responsable Recrutement - Discord France",
+            "color":"#512e5f"
+        },
+        "445201298296668161": {
+            "strength":8,
+            "name":"Responsable Discord - Discord France",
+            "color":"#512e5f"
+        },
+        "441899345785389058": {
+            "strength":7,
+            "name":"Responsable - Discord France",
+            "color":"#512e5f"
+        },
+        "435139350380937216": {
+            "strength":5,
+            "name":"Modérateur - Discord France",
+            "color":"#2ecc71"
+        },
+        "435150177825718294": {
+            "strength":3,
+            "name":"Rédacteur - Discord France",
+            "color":"#d4ac0d"
+        },
+        "435139591658405908": {
+            "strength":4,
+            "name":"Développeur - Discord France",
+            "color":"#d4ac0d"
+        },
+        "435140170204053514": {
+            "strength":1,
+            "name":"Partenaire - Discord France",
+            "color":"#2e4053"
         }
     },
     "users":{
