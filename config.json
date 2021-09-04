@@ -35,6 +35,11 @@
             "name":"Helpeur - Default",
             "color":"#d4ac0d"
         },
+        "Ancien Staff": {
+            "strength":2,
+            "name":"Ancien Staff - Default",
+            "color":"#839192"
+        },
         "vip/friend": {
             "strength":1,
             "name":"VIP/Friend - Default",
@@ -141,6 +146,42 @@
             "strength":1,
             "name":"VIP - InvitLogger",
             "color":"#2e4053"
+        },
+        "495508740896718849": {
+            "strength":9,
+            "name":"Admin - RedSkyll",
+            "color":"#7b241c"
+        },
+        "669254922512105482": {
+            "strength":8,
+            "name":"Responsable - RedSkyll",
+            "color":"#512e5f"
+        },
+        "483919094190702602": {
+            "strength":6,
+            "name":"Modérateur - RedSkyll",
+            "color":"#2ecc71"
+        },
+        "anim": {
+            "info":"ID inconnue - à voir plus tard",
+            "strength":4,
+            "name":"Animateur - RedSkyll",
+            "color":"#2e86c1"
+        },
+        "841040373639413831": {
+            "strength":6,
+            "name":"Modérateur Twitch- RedSkyll",
+            "color":"#2ecc71"
+        },
+        "720641810761908225": {
+            "strength":2,
+            "name":"Ancien Staff",
+            "color":"#839192"
+        },
+        "597738737799135232": {
+            "strength":1,
+            "name":"Friend - RedSkyll",
+            "color":"#2e4053"
         }
     },
     "users":{
@@ -149,7 +190,7 @@
                 "693826034902237214":{
                     "strength":"2",
                     "name":"Ancien Staff - 0Rion Project",
-                    "color":"#e0e0d1"
+                    "color":"#839192"
                 }
             }
         }
