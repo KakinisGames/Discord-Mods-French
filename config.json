@@ -237,6 +237,46 @@
             "strength":2,
             "name":"Rédacteur - FantaShop",
             "color":"#d4ac0d"
+        },
+        "304659595304108035": {
+            "strength":9,
+            "name":"Admin - Slash FR",
+            "color":"#7b241c"
+        },
+        "581212419318218856": {
+            "strength":8,
+            "name":"Responsable - Slash FR",
+            "color":"#512e5f"
+        },
+        "285718015121686528": {
+            "strength":6,
+            "name":"Modérateur - Slash FR",
+            "color":"#2ecc71"
+        },
+        "751110495070847056": {
+            "strength":4,
+            "name":"Animateur - Slash FR",
+            "color":"#2e86c1"
+        },
+        "532949924749377546": {
+            "strength":3,
+            "name":"Helpeur - Slash FR",
+            "color":"#d4ac0d"
+        },
+        "883270184327053342": {
+            "strength":2,
+            "name":"Rédacteur - Slash FR",
+            "color":"#d4ac0d"
+        },
+        "640990966622191626": {
+            "strength":2,
+            "name":"Développeur - Slash FR",
+            "color":"#d4ac0d"
+        },
+        "754289559747166249": {
+            "strength":1,
+            "name":"VIP - Slash FR",
+            "color":"#2e4053"
         }
     },
     "users":{
