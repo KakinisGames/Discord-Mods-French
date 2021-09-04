@@ -547,6 +547,26 @@
             "strength":1,
             "name":"Friend - FuzeIII",
             "color":"#2e4053"
+        },
+        "434472322796224542": {
+            "strength":7,
+            "name":"Admin - Squeezie",
+            "color":"#7b241c"
+        },
+        "483668946818433024": {
+            "strength":5,
+            "name":"Modérateur - Squeezie",
+            "color":"#145a32"
+        },
+        "675115811672686593": {
+            "strength":3,
+            "name":"Nouveau Modérateur - Squeezie",
+            "color":"#2ecc71"
+        },
+        "483816962154037282": {
+            "strength":1,
+            "name":"VIP/Friend - Squeezie",
+            "color":"#2e4053"
         }
     },
     "users":{
@@ -772,7 +792,7 @@
                 }
             }
         },
-        "529015046076891152":{
+        "460095566702182420":{
             "guilds":{
                 "460095566702182420":{
                     "pseudo":"AstralOpithèque",
@@ -828,6 +848,12 @@
                     "pseudo":"Aimliloke",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                },
+                "434471390653972489":{
+                    "pseudo":"Aimliloke",
+                    "strength":"2",
+                    "name":"Ancien Staff - Squeezie",
                     "color":"#839192"
                 }
             }
