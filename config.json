@@ -2017,6 +2017,41 @@
             "strength":1,
             "name":"Friend - Erisum",
             "color":"#2e4053"
+        },
+        "453957083247804437": {
+            "strength":10,
+            "name":"Créateur - Art",
+            "color":"#641e16"
+        },
+        "672170122458300496": {
+            "strength":9,
+            "name":"Admin - Art",
+            "color":"#7b241c"
+        },
+        "672503720063533086": {
+            "strength":6,
+            "name":"Modérateur - Art",
+            "color":"#2ecc71"
+        },
+        "696316291870490634": {
+            "strength":3,
+            "name":"CM - Art",
+            "color":"#d4ac0d"
+        },
+        "673222436526751748": {
+            "strength":3,
+            "name":"Recruteur Artistique - Art",
+            "color":"#d4ac0d"
+        },
+        "672170234165067780": {
+            "strength":3,
+            "name":"Staff - Art",
+            "color":"#d4ac0d"
+        },
+        "822880077930037258": {
+            "strength":3,
+            "name":"Ambassadeur - Art",
+            "color":"#d4ac0d"
         }
     },
     "users":{
