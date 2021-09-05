@@ -1887,6 +1887,136 @@
             "strength":1,
             "name":"Guest - Neopolis",
             "color":"#2e4053"
+        },
+        "756994043283636264": {
+            "strength":8,
+            "name":"Capitaine - Default",
+            "color":"#641e16"
+        },
+        "448182805755592704": {
+            "strength":7,
+            "name":"Admin - Erisum",
+            "color":"#7b241c"
+        },
+        "756993286991773696": {
+            "strength":6,
+            "name":"Responsable Staff - Erisum",
+            "color":"#512e5f"
+        },
+        "586953966085079060": {
+            "strength":5,
+            "name":"Responsable Support - Erisum",
+            "color":"#512e5f"
+        },
+        "694883096105058325": {
+            "strength":5,
+            "name":"Responsable COM - Erisum",
+            "color":"#512e5f"
+        },
+        "695972424973549608": {
+            "strength":5,
+            "name":"Directeur Artistique - Erisum",
+            "color":"#512e5f"
+        },
+        "756993758901436546": {
+            "strength":6,
+            "name":"Responsable Gameplay- Erisum",
+            "color":"#512e5f"
+        },
+        "721279302888325253": {
+            "strength":6,
+            "name":"Responsable Dev- Erisum",
+            "color":"#512e5f"
+        },
+        "749928769724219432": {
+            "strength":6,
+            "name":"Responsable Infrastructure - Erisum",
+            "color":"#512e5f"
+        },
+        "586952541997105152": {
+            "strength":6,
+            "name":"Responsable Mods - Erisum",
+            "color":"#512e5f"
+        },
+        "626522536296972288": {
+            "strength":5,
+            "name":"Responsable Traduction - Erisum",
+            "color":"#512e5f"
+        },
+        "639129856084279327": {
+            "strength":5,
+            "name":"Responsable Projet - Erisum",
+            "color":"#512e5f"
+        },
+        "586953546856136731": {
+            "strength":5,
+            "name":"Responsable Rédaction - Erisum",
+            "color":"#512e5f"
+        },
+        "678274739344637954": {
+            "strength":5,
+            "name":"Responsable - Erisum",
+            "color":"#512e5f"
+        },
+        "311063414086828032": {
+            "strength":4,
+            "name":"Modérateur - Erisum",
+            "color":"#2ecc71"
+        },
+        "586956238731083806": {
+            "strength":3,
+            "name":"Builder - Erisum",
+            "color":"#d4ac0d"
+        },
+        "678277611801149450": {
+            "strength":2,
+            "name":"Feedback - Erisum",
+            "color":"#d4ac0d"
+        },
+        "311064091139506177": {
+            "strength":2,
+            "name":"Gameplay - Erisum",
+            "color":"#d4ac0d"
+        },
+        "678277223882686467": {
+            "strength":2,
+            "name":"Graphiste - Erisum",
+            "color":"#d4ac0d"
+        },
+        "678278399361548338": {
+            "strength":2,
+            "name":"Traduction - Erisum",
+            "color":"#d4ac0d"
+        },
+        "678277722845216791": {
+            "strength":2,
+            "name":"Rédaction - Erisum",
+            "color":"#d4ac0d"
+        },
+        "313264172773277697": {
+            "strength":3,
+            "name":"Dev - Erisum",
+            "color":"#d4ac0d"
+        },
+        "678267266554396673": {
+            "strength":2,
+            "name":"Erisum Community - Erisum",
+            "color":"#d4ac0d"
+        },
+        "678613916917694484": {
+            "strength":3,
+            "name":"Support - Erisum",
+            "color":"#d4ac0d"
+        },
+        "516019582792630317": {
+            "strength":2,
+            "name":"CM - Erisum",
+            "color":"#d4ac0d"
+        },
+        "438340891430879242": {
+            "strength":1,
+            "name":"Friend - Erisum",
+            "color":"#2e4053"
         }
     },
     "users":{
