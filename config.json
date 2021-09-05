@@ -1315,12 +1315,12 @@
         },
         "495922819457089538": {
             "strength":9,
-            "name":"Owneur - Default",
+            "name":"Owneur - MysticPub",
             "color":"#641e16"
         },
         "495944316674637864": {
             "strength":8,
-            "name":"Admin - Default",
+            "name":"Admin - MysticPub",
             "color":"#7b241c"
         },
         "695351686729957498": {
@@ -1617,6 +1617,66 @@
             "strength":3,
             "name":"Modérateur - Paname",
             "color":"#2ecc71"
+        },
+        "772216295940423690": {
+            "strength":10,
+            "name":"Fondateur - BS Esport",
+            "color":"#641e16"
+        },
+        "708374059913707573": {
+            "strength":9,
+            "name":"Admin - BS Esport",
+            "color":"#7b241c"
+        },
+        "780106507676155928": {
+            "strength":8,
+            "name":"Responsable Bstar - BS Esport",
+            "color":"#512e5f"
+        },
+        "823337178943455272": {
+            "strength":8,
+            "name":"Responsable Esport - BS Esport",
+            "color":"#512e5f"
+        },
+        "843579435213914112": {
+            "strength":8,
+            "name":"Organisation Event - BS Esport",
+            "color":"#512e5f"
+        },
+        "882286122179379344": {
+            "strength":8,
+            "name":"MCP - BS Esport",
+            "color":"#512e5f"
+        },
+        "524528938538500106": {
+            "strength":7,
+            "name":"Président - BS Esport",
+            "color":"#145a32"
+        },
+        "524529185688125450": {
+            "strength":7,
+            "name":"Vice-Président - BS Esport",
+            "color":"#145a32"
+        },
+        "882285010986627113": {
+            "strength":6,
+            "name":"Modérateur - BS Esport",
+            "color":"#2ecc71"
+        },
+        "864484473231376385": {
+            "strength":4,
+            "name":"Resp Sondage - BS Esport",
+            "color":"#2e86c1"
+        },
+        "847223940803068015": {
+            "strength":3,
+            "name":"Staff Esport - BS Esport",
+            "color":"#d4ac0d"
+        },
+        "808289101811810344": {
+            "strength":3,
+            "name":"CM - BS Esport",
+            "color":"#d4ac0d"
         }
     },
     "users":{
