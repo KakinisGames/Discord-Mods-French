@@ -1182,6 +1182,51 @@
             "strength":1,
             "name":"Partenaire - BalanceTonLien",
             "color":"#2e4053"
+        },
+        "731640603074494575": {
+            "strength":9,
+            "name":"Roi - Orna'Space",
+            "color":"#641e16"
+        },
+        "800781250302312488": {
+            "strength":8,
+            "name":"Admin - Orna'Space",
+            "color":"#7b241c"
+        },
+        "872208495204761642": {
+            "strength":7,
+            "name":"Super-Modérateur - Orna'Space",
+            "color":"#145a32"
+        },
+        "731640259321921647": {
+            "strength":6,
+            "name":"Modérateur - Orna'Space",
+            "color":"#2ecc71"
+        },
+        "866033004081315840": {
+            "strength":5,
+            "name":"Modérateur YT - Orna'Space",
+            "color":"#2ecc71"
+        },
+        "731912383731204096": {
+            "strength":4,
+            "name":"Modérateur JR - Orna'Space",
+            "color":"#2ecc71"
+        },
+        "731913052076638258": {
+            "strength":3,
+            "name":"Animateur - Orna'Space",
+            "color":"#2e86c1"
+        },
+        "871037010964529153": {
+            "strength":2,
+            "name":"CM - Orna'Space",
+            "color":"#d4ac0d"
+        },
+        "858800027328577538": {
+            "strength":1,
+            "name":"Rédacteur - Orna'Space",
+            "color":"#d4ac0d"
         }
     },
     "users":{
