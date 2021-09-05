@@ -1794,27 +1794,27 @@
             "color":"#d4ac0d"
         },
         "453957083247804437": {
-            "strength":10,
+            "strength":6,
             "name":"Créateur - Art",
             "color":"#641e16"
         },
         "672170122458300496": {
-            "strength":9,
+            "strength":5,
             "name":"Admin - Art",
             "color":"#7b241c"
         },
         "672503720063533086": {
-            "strength":6,
+            "strength":4,
             "name":"Modérateur - Art",
             "color":"#2ecc71"
         },
         "696316291870490634": {
-            "strength":3,
+            "strength":2,
             "name":"CM - Art",
             "color":"#d4ac0d"
         },
         "673222436526751748": {
-            "strength":3,
+            "strength":2,
             "name":"Recruteur Artistique - Art",
             "color":"#d4ac0d"
         },
@@ -1824,77 +1824,77 @@
             "color":"#d4ac0d"
         },
         "876442963310444585": {
-            "strength":10,
+            "strength":8,
             "name":"Créateur - GenshinFr",
             "color":"#641e16"
         },
         "875032220123938819": {
-            "strength":9,
+            "strength":7,
             "name":"Admin - GenshinFr",
             "color":"#7b241c"
         },
         "881842917566738482": {
-            "strength":8,
+            "strength":6,
             "name":"Gérant Staff - GenshinFr",
             "color":"#512e5f"
         },
         "878646891355705364": {
-            "strength":8,
+            "strength":5,
             "name":"Resp Mod - GenshinFr",
             "color":"#512e5f"
         },
         "878646814327332875": {
-            "strength":8,
+            "strength":5,
             "name":"Resp Helper - GenshinFr",
             "color":"#512e5f"
         },
         "848639530394583040": {
-            "strength":7,
+            "strength":4,
             "name":"Mods - GenshinFr",
             "color":"#145a32"
         },
         "875032222405636126": {
-            "strength":6,
+            "strength":3,
             "name":"Modérateur - GenshinFr",
             "color":"#2ecc71"
         },
         "876447302028492800": {
-            "strength":3,
+            "strength":2,
             "name":"Helpeur - GenshinFr",
             "color":"#d4ac0d"
         },
         "703715302399017020": {
-            "strength":10,
+            "strength":8,
             "name":"Créateur - Publicité FRANCE",
             "color":"#641e16"
         },
         "864626496853245962": {
-            "strength":9,
+            "strength":7,
             "name":"Admin - Publicité FRANCE",
             "color":"#7b241c"
         },
         "869213229958725653": {
-            "strength":9,
+            "strength":7,
             "name":"Administration - Publicité FRANCE",
             "color":"#7b241c"
         },
         "866486335955402792": {
-            "strength":9,
+            "strength":6,
             "name":"Vice Président - Publicité FRANCE",
             "color":"#7b241c"
         },
         "694586295422287893": {
-            "strength":8,
+            "strength":5,
             "name":"Responsable Staff - Publicité FRANCE",
             "color":"#512e5f"
         },
         "668072490815193098": {
-            "strength":6,
+            "strength":4,
             "name":"Modérateur - Publicité FRANCE",
             "color":"#2ecc71"
         },
         "699685932269436949": {
-            "strength":6,
+            "strength":3,
             "name":"ModérateurTest - Publicité FRANCE",
             "color":"#2ecc71"
         },
@@ -1904,34 +1904,99 @@
             "color":"#d4ac0d"
         },
         "668071471100461086": {
-            "strength":3,
+            "strength":2,
             "name":"Staff - Publicité FRANCE",
             "color":"#d4ac0d"
         },
         "478687934351147010": {
-            "strength":9,
+            "strength":7,
             "name":"Admin - 100% Pub",
             "color":"#7b241c"
         },
         "685527595428872238": {
-            "strength":9,
+            "strength":6,
             "name":"Marketing - 100% Pub",
             "color":"#7b241c"
         },
         "478688906267852852": {
-            "strength":7,
+            "strength":5,
             "name":"Modérateur Senior - 100% Pub",
             "color":"#145a32"
         },
         "668927772084797444": {
-            "strength":6,
+            "strength":4,
             "name":"Modérateur Junior - 100% Pub",
             "color":"#2ecc71"
         },
         "640297080413487114": {
-            "strength":4,
+            "strength":3,
             "name":"Partenaire Manager - 100% Pub",
             "color":"#2e86c1"
+        },
+        "652926254739095583": {
+            "strength":8,
+            "name":"Fondateur - Dymensia",
+            "color":"#641e16"
+        },
+        "614401526399762454": {
+            "strength":8,
+            "name":"Fondateur - Dymensia",
+            "color":"#641e16"
+        },
+        "714806731896520746": {
+            "strength":8,
+            "name":"Fondateur - Dymensia",
+            "color":"#641e16"
+        },
+        "730558667719704576": {
+            "strength":7,
+            "name":"Manager - Dymensia",
+            "color":"#512e5f"
+        },
+        "854096845667434507": {
+            "strength":6,
+            "name":"Responsable - Dymensia",
+            "color":"#512e5f"
+        },
+        "854400632324096000": {
+            "strength":6,
+            "name":"Responsable Anim - Dymensia",
+            "color":"#512e5f"
+        },
+        "808806744326799410": {
+            "strength":6,
+            "name":"Responsable Mods - Dymensia",
+            "color":"#512e5f"
+        },
+        "800152656882565160": {
+            "strength":5,
+            "name":"Modérateur - Dymensia",
+            "color":"#2ecc71"
+        },
+        "720327365032673296": {
+            "strength":5,
+            "name":"Modérateur - Dymensia",
+            "color":"#2ecc71"
+        },
+        "759847330173288448s": {
+            "strength":4,
+            "name":"Animateur - Dymensia",
+            "color":"#2e86c1"
+        },
+        "781636530363695104": {
+            "strength":3,
+            "name":"Guide - Dymensia",
+            "color":"#d4ac0d"
+        },
+        "697697961399943200": {
+            "strength":2,
+            "name":"Staff - Dymensia",
+            "color":"#d4ac0d"
+        },
+        "654651226646118419": {
+            "strength":2,
+            "name":"CM - Dymensia",
+            "color":"#d4ac0d"
         }
     }
 }
