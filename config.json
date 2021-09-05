@@ -1227,9 +1227,79 @@
             "strength":1,
             "name":"Rédacteur - Orna'Space",
             "color":"#d4ac0d"
+        },
+        "495922819457089538": {
+            "strength":9,
+            "name":"Owneur - Default",
+            "color":"#641e16"
+        },
+        "495944316674637864": {
+            "strength":8,
+            "name":"Admin - Default",
+            "color":"#7b241c"
+        },
+        "695351686729957498": {
+            "strength":8,
+            "name":"Admin - MysticPub",
+            "color":"#7b241c"
+        },
+        "776112904541044786": {
+            "strength":7,
+            "name":"Staff Manager - MysticPub",
+            "color":"#512e5f"
+        },
+        "533543095401316352": {
+            "strength":6,
+            "name":"Partenaire Manager - MysticPub",
+            "color":"#512e5f"
+        },
+        "780180209986830337": {
+            "strength":5,
+            "name":"Super-Modérateur - MysticPub",
+            "color":"#145a32"
+        },
+        "495944445078929408": {
+            "strength":4,
+            "name":"Modérateur - MysticPub",
+            "color":"#2ecc71"
+        },
+        "543572928353009675": {
+            "strength":3,
+            "name":"Animateur - MysticPub",
+            "color":"#2e86c1"
+        },
+        "495944557071040512": {
+            "strength":2,
+            "name":"Helpeur - MysticPub",
+            "color":"#d4ac0d"
+        },
+        "713793601158643732": {
+            "strength":2,
+            "name":"Dev - MysticPub",
+            "color":"#d4ac0d"
         }
     },
     "users":{
+        "563903608563826698":{
+            "guilds":{
+                "495920248369709076":{
+                    "pseudo":"Møõn",
+                    "strength":"2",
+                    "name":"Ancien Staff - MysticPub",
+                    "color":"#839192"
+                }
+            }
+        },
+        "851940171271241776":{
+            "guilds":{
+                "495920248369709076":{
+                    "pseudo":"慢化剂",
+                    "strength":"2",
+                    "name":"Ancien Staff - MysticPub",
+                    "color":"#839192"
+                }
+            }
+        },
         "379705914824851469":{
             "guilds":{
                 "720578647399989341":{
