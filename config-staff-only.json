@@ -1,7 +1,7 @@
 {
     "description":{
         "description": {
-            "comment":"Version avec Staff Uniquement - Sans Ex Staff / Staff YT Twitch / Amis / VIP / Partenaire"
+            "comment":"Version Complète - Avec Ex Staff / Amis / VIP / Partenaire"
         }
     },
     "default":{
@@ -129,7 +129,12 @@
         },
         "669254922512105482": {
             "strength":8,
-            "name":"Responsable - RedSkyll",
+            "name":"Responsable Staff - RedSkyll",
+            "color":"#512e5f"
+        },
+        "883738129595514890": {
+            "strength":8,
+            "name":"Responsable Twitch - RedSkyll",
             "color":"#512e5f"
         },
         "483919094190702602": {
@@ -142,6 +147,11 @@
             "strength":4,
             "name":"Animateur - RedSkyll",
             "color":"#2e86c1"
+        },
+        "841040373639413831": {
+            "strength":6,
+            "name":"Modérateur Twitch- RedSkyll",
+            "color":"#2ecc71"
         },
         "699204373414281256": {
             "strength":10,
@@ -317,6 +327,16 @@
             "strength":4,
             "name":"Animateur - Kaatsup",
             "color":"#2e86c1"
+        },
+        "768887348494336001": {
+            "strength":3,
+            "name":"Mod Twitch - Kaatsup",
+            "color":"#d4ac0d"
+        },
+        "853762966457548860": {
+            "strength":2,
+            "name":"Mod Twitch Test - Kaatsup",
+            "color":"#d4ac0d"
         },
         "768887346283413505": {
             "strength":2,
@@ -498,6 +518,11 @@
             "name":"Admin - TalentDiscord",
             "color":"#7b241c"
         },
+        "548813790741921792": {
+            "strength":7,
+            "name":"Admin - TalentDiscord",
+            "color":"#7b241c"
+        },
         "838434687578931222": {
             "strength":6,
             "name":"Dev Bot - TalentDiscord",
@@ -516,6 +541,16 @@
         "833288298356015104": {
             "strength":5,
             "name":"Staff - TalentDiscord",
+            "color":"#2ecc71"
+        },
+        "839263157477703700": {
+            "strength":5,
+            "name":"Staff - TalentDiscord",
+            "color":"#2ecc71"
+        },
+        "833288297572073472": {
+            "strength":5,
+            "name":"Bot Perm - TalentDiscord",
             "color":"#2ecc71"
         },
         "833288304224501800": {
@@ -562,6 +597,11 @@
             "strength":4,
             "name":"Animateur - Multicort",
             "color":"#2e86c1"
+        },
+        "450333778423054336": {
+            "strength":3,
+            "name":"Modérateur Live - Multicort",
+            "color":"#d4ac0d"
         },
         "665168424330067969": {
             "strength":8,
@@ -653,9 +693,19 @@
             "name":"Créateur - Chill FR",
             "color":"#7b241c"
         },
+        "842995413384167455": {
+            "strength":8,
+            "name":"Couronne - Chill FR",
+            "color":"#7b241c"
+        },
         "840974642218926091": {
             "strength":7,
             "name":"Responsable - Chill FR",
+            "color":"#512e5f"
+        },
+        "853613397828042782": {
+            "strength":7,
+            "name":"Root - Chill FR",
             "color":"#512e5f"
         },
         "858626634319265793": {
@@ -683,14 +733,34 @@
             "name":"Guide - Chill FR",
             "color":"#d4ac0d"
         },
+        "726535435643519026": {
+            "strength":9,
+            "name":"Admin - Sommet Création",
+            "color":"#7b241c"
+        },
         "840963777088192532": {
             "strength":9,
             "name":"Admin - Sommet Création",
             "color":"#7b241c"
         },
+        "840963782174834758": {
+            "strength":8,
+            "name":"Technicien - Sommet Création",
+            "color":"#7b241c"
+        },
+        "857647958282862592": {
+            "strength":8,
+            "name":"Comptable - Sommet Création",
+            "color":"#7b241c"
+        },
         "840963779764158474": {
             "strength":8,
             "name":"Responsable Staff - Sommet Création",
+            "color":"#512e5f"
+        },
+        "840963783094304800": {
+            "strength":8,
+            "name":"Responsable YT - Sommet Création",
             "color":"#512e5f"
         },
         "857647933747101757": {
@@ -733,18 +803,28 @@
             "name":"Assistant - Sommet Création",
             "color":"#d4ac0d"
         },
+        "843881288700002304": {
+            "strength":3,
+            "name":"Associé - Sommet Création",
+            "color":"#d4ac0d"
+        },
         "840963789553270815": {
             "strength":3,
             "name":"Jury - Sommet Création",
             "color":"#d4ac0d"
         },
-        "606815024216014869": {
+        "606812892003565609": {
             "strength":9,
+            "name":"Gérant - InoxTag",
+            "color":"#7b241c"
+        },
+        "606815024216014869": {
+            "strength":8,
             "name":"Admin - InoxTag",
             "color":"#7b241c"
         },
         "606830953859383306": {
-            "strength":8,
+            "strength":7,
             "name":"Responsable - InoxTag",
             "color":"#512e5f"
         },
@@ -754,7 +834,7 @@
             "color":"#2ecc71"
         },
         "682213201450237990": {
-            "strength":7,
+            "strength":6,
             "name":"Developpeur - InoxTag",
             "color":"#2ecc71"
         },
@@ -762,6 +842,16 @@
             "strength":5,
             "name":"Animateur - InoxTag",
             "color":"#2e86c1"
+        },
+        "819274900052901888": {
+            "strength":4,
+            "name":"Modérateur YT - InoxTag",
+            "color":"#2ecc71"
+        },
+        "835639812820172831": {
+            "strength":4,
+            "name":"Modérateur Twitch - InoxTag",
+            "color":"#2ecc71"
         },
         "878910831407005696": {
             "strength":3,
@@ -802,6 +892,16 @@
             "strength":5,
             "name":"Staff Test - PokeDraco",
             "color":"#2ecc71"
+        },
+        "574969046336929802": {
+            "strength":3,
+            "name":"Modérateur Twitch - PokeDraco",
+            "color":"#d4ac0d"
+        },
+        "816637760001146880": {
+            "strength":3,
+            "name":"Modérateur Twitch Test - PokeDraco",
+            "color":"#d4ac0d"
         },
         "843594286808956948": {
             "strength":3,
@@ -883,6 +983,11 @@
             "name":"Direction - NightmareFR",
             "color":"#7b241c"
         },
+        "803951240533770291": {
+            "strength":8,
+            "name":"Pilier - NightmareFR",
+            "color":"#7b241c"
+        },
         "817367368636432414": {
             "strength":7,
             "name":"Responsable - NightmareFR",
@@ -910,7 +1015,7 @@
         },
         "715910377837428776": {
             "strength":1,
-            "name":"Recru - NightmareFR",
+            "name":"Recrue - NightmareFR",
             "color":"#839192"
         },
         "691244933272830032": {
@@ -923,6 +1028,11 @@
             "name":"Admin - Friend",
             "color":"#7b241c"
         },
+        "832567762979127326": {
+            "strength":5,
+            "name":"Responsable - Friend",
+            "color":"#512e5f"
+        },
         "691244942135263262": {
             "strength":4,
             "name":"Modérateur - Friend",
@@ -932,6 +1042,16 @@
             "strength":2,
             "name":"Animateur - Friend",
             "color":"#2e86c1"
+        },
+        "693800020805419010": {
+            "strength":3,
+            "name":"Helpeur - Friend",
+            "color":"#d4ac0d"
+        },
+        "878364297519050893": {
+            "strength":3,
+            "name":"Graphiste - Friend",
+            "color":"#d4ac0d"
         },
         "724898306400059479": {
             "strength":10,
@@ -1005,12 +1125,12 @@
         },
         "495922819457089538": {
             "strength":9,
-            "name":"Owneur - Default",
+            "name":"Owneur - MysticPub",
             "color":"#641e16"
         },
         "495944316674637864": {
             "strength":8,
-            "name":"Admin - Default",
+            "name":"Admin - MysticPub",
             "color":"#7b241c"
         },
         "695351686729957498": {
@@ -1052,6 +1172,766 @@
             "strength":2,
             "name":"Dev - MysticPub",
             "color":"#d4ac0d"
+        },
+        "473431332425433088": {
+            "strength":6,
+            "name":"Créateur - Eclipse",
+            "color":"#641e16"
+        },
+        "473441009683005452": {
+            "strength":4,
+            "name":"Modérateur - Eclipse",
+            "color":"#2ecc71"
+        },
+        "473227573212610561": {
+            "strength":3,
+            "name":"Staff - Eclipse",
+            "color":"#d4ac0d"
+        },
+        "785948759309025292": {
+            "strength":3,
+            "name":"CM - Eclipse",
+            "color":"#d4ac0d"
+        },
+        "811577048098668561": {
+            "strength":2,
+            "name":"Graphiste - Eclipse",
+            "color":"#d4ac0d"
+        },
+        "688727835958837250": {
+            "strength":8,
+            "name":"Gérant - MiniJeux",
+            "color":"#7b241c"
+        },
+        "756483145729179736": {
+            "strength":6,
+            "name":"Responsable - MiniJeux",
+            "color":"#512e5f"
+        },
+        "756483146584817714": {
+            "strength":6,
+            "name":"Responsable Mods - MiniJeux",
+            "color":"#512e5f"
+        },  
+        "756939940230725652": {
+            "strength":6,
+            "name":"Responsable Anim - MiniJeux",
+            "color":"#512e5f"
+        },  
+        "756483149881671730": {
+            "strength":6,
+            "name":"Responsable Rédaction - MiniJeux",
+            "color":"#512e5f"
+        },  
+        "723981613263880222": {
+            "strength":5,
+            "name":"Permision Jeux - MiniJeux",
+            "color":"#145a32"
+        },
+        "756483148157550613": {
+            "strength":4,
+            "name":"Modérateur - MiniJeux",
+            "color":"#2ecc71"
+        },
+        "594182821329764374": {
+            "strength":3,
+            "name":"Animateur - MiniJeux",
+            "color":"#2e86c1"
+        },
+        "745007283288932424": {
+            "strength":2,
+            "name":"Staff - MiniJeux",
+            "color":"#d4ac0d"
+        },
+        "594866237805428758": {
+            "strength":2,
+            "name":"Partenaire Manager - MiniJeux",
+            "color":"#d4ac0d"
+        },
+        "696406317199392858": {
+            "strength":2,
+            "name":"Rédacteur - MiniJeux",
+            "color":"#d4ac0d"
+        },
+        "689112714307829760": {
+            "strength":2,
+            "name":"Support - MiniJeux",
+            "color":"#d4ac0d"
+        },
+        "740332610613673990": {
+            "strength":2,
+            "name":"Initiateur - MiniJeux",
+            "color":"#d4ac0d"
+        },
+        "856266911355371521": {
+            "strength":8,
+            "name":"Fondateur - Assemblé",
+            "color":"#641e16"
+        },
+        "857254879383126017": {
+            "strength":8,
+            "name":"Fondateur - Assemblé",
+            "color":"#641e16"
+        },
+        "876899342886252564": {
+            "strength":8,
+            "name":"Co-Fondateur - Assemblé",
+            "color":"#641e16"
+        },
+        "876495261969571870": {
+            "strength":7,
+            "name":"Admin Network - Assemblé",
+            "color":"#7b241c"
+        },
+        "854069450383032391": {
+            "strength":7,
+            "name":"Admin - Assemblé",
+            "color":"#7b241c"
+        },
+        "873611188007731220": {
+            "strength":7,
+            "name":"Administration - Assemblé",
+            "color":"#7b241c"
+        },
+        "856597045670576168": {
+            "strength":6,
+            "name":"Haut Staff - Assemblé",
+            "color":"#512e5f"
+        },
+        "854400299366875137": {
+            "strength":5,
+            "name":"Resp Anim - Assemblé",
+            "color":"#512e5f"
+        },
+        "854332334098612234": {
+            "strength":5,
+            "name":"Resp CM - Assemblé",
+            "color":"#512e5f"
+        },
+        "856560171756158996": {
+            "strength":4,
+            "name":"Pole Modérateur - Assemblé",
+            "color":"#2ecc71"
+        },
+        "854070194414551120": {
+            "strength":4,
+            "name":"Modérateur - Assemblé",
+            "color":"#2ecc71"
+        },
+        "857609845669625857": {
+            "strength":3,
+            "name":"Pole Animateur - Assemblé",
+            "color":"#2e86c1"
+        },
+        "854072291876012032": {
+            "strength":2,
+            "name":"CM - Assemblé",
+            "color":"#d4ac0d"
+        },
+        "856554225843437579": {
+            "strength":2,
+            "name":"Pole CM - Assemblé",
+            "color":"#d4ac0d"
+        },
+        "854069581302595614": {
+            "strength":2,
+            "name":"Staff - Assemblé",
+            "color":"#d4ac0d"
+        },
+        "854324571179712522": {
+            "strength":2,
+            "name":"Gérant Mudae - Assemblé",
+            "color":"#d4ac0d"
+        },
+        "876781340173938778": {
+            "strength":2,
+            "name":"Staff Network - Assemblé",
+            "color":"#d4ac0d"
+        },
+        "825454873364529222": {
+            "strength":9,
+            "name":"Créateur - Paname",
+            "color":"#641e16"
+        },
+        "841019124142571600": {
+            "strength":9,
+            "name":"JustCréateur - Paname",
+            "color":"#641e16"
+        },
+        "883160817695084564": {
+            "strength":8,
+            "name":"CoCréateur - Paname",
+            "color":"#641e16"
+        },
+        "862450810424393768": {
+            "strength":8,
+            "name":"Admin - Paname",
+            "color":"#7b241c"
+        },
+        "850316156148383744": {
+            "strength":7,
+            "name":"Bras Droit - Paname",
+            "color":"#7b241c"
+        },
+        "818188805944246273": {
+            "strength":6,
+            "name":"Responsable - Paname",
+            "color":"#512e5f"
+        },
+        "859467699598917683": {
+            "strength":7,
+            "name":"Manager - Paname",
+            "color":"#512e5f"
+        },
+        "784757280117751848": {
+            "strength":7,
+            "name":"Directeur - Paname",
+            "color":"#512e5f"
+        },
+        "869501468032503839": {
+            "strength":6,
+            "name":"Responsable Staff - Paname",
+            "color":"#512e5f"
+        },
+        "831223831217307669": {
+            "strength":6,
+            "name":"CoResponsable - Paname",
+            "color":"#512e5f"
+        },
+        "878962106815361044": {
+            "strength":5,
+            "name":"Superviseur - Paname",
+            "color":"#512e5f"
+        },
+        "857955604764688394": {
+            "strength":5,
+            "name":"Perm 3 - Paname",
+            "color":"#512e5f"
+        },
+        "857955385604440074": {
+            "strength":4,
+            "name":"Perm 2 - Paname",
+            "color":"#145a32"
+        },
+        "857918829716176896": {
+            "strength":2,
+            "name":"Perm 1 - Paname",
+            "color":"#2ecc71"
+        },
+        "868219716198604880": {
+            "strength":3,
+            "name":"Modérateur - Paname",
+            "color":"#2ecc71"
+        },
+        "791681358983462934": {
+            "strength":3,
+            "name":"Modérateur - Paname",
+            "color":"#2ecc71"
+        },
+        "772216295940423690": {
+            "strength":9,
+            "name":"Fondateur - BS Esport",
+            "color":"#641e16"
+        },
+        "708374059913707573": {
+            "strength":8,
+            "name":"Admin - BS Esport",
+            "color":"#7b241c"
+        },
+        "780106507676155928": {
+            "strength":7,
+            "name":"Responsable Bstar - BS Esport",
+            "color":"#512e5f"
+        },
+        "823337178943455272": {
+            "strength":7,
+            "name":"Responsable Esport - BS Esport",
+            "color":"#512e5f"
+        },
+        "843579435213914112": {
+            "strength":6,
+            "name":"Organisation Event - BS Esport",
+            "color":"#512e5f"
+        },
+        "882286122179379344": {
+            "strength":6,
+            "name":"MCP - BS Esport",
+            "color":"#512e5f"
+        },
+        "524528938538500106": {
+            "strength":6,
+            "name":"Président - BS Esport",
+            "color":"#145a32"
+        },
+        "524529185688125450": {
+            "strength":5,
+            "name":"Vice-Président - BS Esport",
+            "color":"#145a32"
+        },
+        "882285010986627113": {
+            "strength":4,
+            "name":"Modérateur - BS Esport",
+            "color":"#2ecc71"
+        },
+        "864484473231376385": {
+            "strength":3,
+            "name":"Resp Sondage - BS Esport",
+            "color":"#2e86c1"
+        },
+        "847223940803068015": {
+            "strength":2,
+            "name":"Staff Esport - BS Esport",
+            "color":"#d4ac0d"
+        },
+        "808289101811810344": {
+            "strength":2,
+            "name":"CM - BS Esport",
+            "color":"#d4ac0d"
+        },
+        "698682176102727720": {
+            "strength":6,
+            "name":"Fondateur - Azuria",
+            "color":"#641e16"
+        },
+        "698682176685998120": {
+            "strength":5,
+            "name":"Technicien - Azuria",
+            "color":"#7b241c"
+        },
+        "717415050092216351": {
+            "strength":5,
+            "name":"Admin - Azuria",
+            "color":"#7b241c"
+        },
+        "698682178019786912": {
+            "strength":4,
+            "name":"Modérateur - Azuria",
+            "color":"#2ecc71"
+        },
+        "698682179277815908": {
+            "strength":2,
+            "name":"Graphiste - Azuria",
+            "color":"#2e86c1"
+        },
+        "698682179927932978": {
+            "strength":3,
+            "name":"Staff - Azuria",
+            "color":"#d4ac0d"
+        },
+        "868943745125589003": {
+            "strength":7,
+            "name":"Fondateur - Default",
+            "color":"#641e16"
+        },
+        "881296788026454067": {
+            "strength":6,
+            "name":"Admin - Default",
+            "color":"#7b241c"
+        },
+        "868943746128044153": {
+            "strength":5,
+            "name":"Responsable - Default",
+            "color":"#512e5f"
+        },
+        "872190850724143134": {
+            "strength":4,
+            "name":"Modérateur - Default",
+            "color":"#2ecc71"
+        },
+        "872225622036992031": {
+            "strength":2,
+            "name":"CM - QuavoCrew",
+            "color":"#d4ac0d"
+        },
+        "402586934595158027": {
+            "strength":9,
+            "name":"Admin+ - Erazion",
+            "color":"#641e16"
+        },
+        "777653814118580275": {
+            "strength":8,
+            "name":"Admin - Erazion",
+            "color":"#7b241c"
+        },
+        "777654933515272242": {
+            "strength":7,
+            "name":"GameMaster - Erazion",
+            "color":"#512e5f"
+        },
+        "777655393815756840": {
+            "strength":6,
+            "name":"Super-Modérateur - Erazion",
+            "color":"#145a32"
+        },
+        "777656013133840385": {
+            "strength":5,
+            "name":"Modérateur - Erazion",
+            "color":"#2ecc71"
+        },
+        "778696098566242304": {
+            "strength":3,
+            "name":"Builder - Erazion",
+            "color":"#2e86c1"
+        },
+        "777656819526271006": {
+            "strength":2,
+            "name":"Staff - Erazion",
+            "color":"#2e86c1"
+        },
+        "778696104341405696": {
+            "strength":3,
+            "name":"Graphiste - Erazion",
+            "color":"#2e86c1"
+        },
+        "778696106531094569": {
+            "strength":3,
+            "name":"Rédacteur - Erazion",
+            "color":"#2e86c1"
+        },
+        "778696101884198952": {
+            "strength":4,
+            "name":"Dev - Erazion",
+            "color":"#2e86c1"
+        },
+        "778696110550155304": {
+            "strength":3,
+            "name":"Modeler - Erazion",
+            "color":"#2e86c1"
+        },
+        "778696108356141067": {
+            "strength":3,
+            "name":"Trail Maker - Erazion",
+            "color":"#2e86c1"
+        },
+        "778695845872795698": {
+            "strength":3,
+            "name":"Editor - Erazion",
+            "color":"#2e86c1"
+        },
+        "856596130552348702": {
+            "strength":3,
+            "name":"Monteur - Erazion",
+            "color":"#2e86c1"
+        },
+        "777656124211724289": {
+            "strength":3,
+            "name":"Helpeur - Erazion",
+            "color":"#d4ac0d"
+        },
+        "777656650055155772": {
+            "strength":2,
+            "name":"CM - Erazion",
+            "color":"#d4ac0d"
+        },
+        "551864500911996931": {
+            "strength":10,
+            "name":"Team Neopolis - Neopolis",
+            "color":"#641e16"
+        },
+        "727538973370744853": {
+            "strength":9,
+            "name":"Manager - Neopolis",
+            "color":"#7b241c"
+        },
+        "689826658802204687": {
+            "strength":8,
+            "name":"Admin - Neopolis",
+            "color":"#7b241c"
+        },
+        "871116123477803081": {
+            "strength":7,
+            "name":"Responsable Mod- Neopolis",
+            "color":"#512e5f"
+        },
+        "845308133512970250": {
+            "strength":6,
+            "name":"Super-Modérateur - Neopolis",
+            "color":"#145a32"
+        },
+        "813802522744717332": {
+            "strength":5,
+            "name":"Modérateur Discord - Neopolis",
+            "color":"#145a32"
+        },
+        "817394173237788713": {
+            "strength":4,
+            "name":"Modérateur IG - Neopolis",
+            "color":"#2ecc71"
+        },
+        "845034836825210880": {
+            "strength":3,
+            "name":"Staff - Neopolis",
+            "color":"#2ecc71"
+        },
+        "727437774570913802": {
+            "strength":3,
+            "name":"Guide - Neopolis",
+            "color":"#d4ac0d"
+        },
+        "756994043283636264": {
+            "strength":8,
+            "name":"Capitaine - Default",
+            "color":"#641e16"
+        },
+        "448182805755592704": {
+            "strength":7,
+            "name":"Admin - Erisum",
+            "color":"#7b241c"
+        },
+        "756993286991773696": {
+            "strength":6,
+            "name":"Responsable Staff - Erisum",
+            "color":"#512e5f"
+        },
+        "586953966085079060": {
+            "strength":5,
+            "name":"Responsable Support - Erisum",
+            "color":"#512e5f"
+        },
+        "694883096105058325": {
+            "strength":5,
+            "name":"Responsable COM - Erisum",
+            "color":"#512e5f"
+        },
+        "695972424973549608": {
+            "strength":5,
+            "name":"Directeur Artistique - Erisum",
+            "color":"#512e5f"
+        },
+        "756993758901436546": {
+            "strength":6,
+            "name":"Responsable Gameplay- Erisum",
+            "color":"#512e5f"
+        },
+        "721279302888325253": {
+            "strength":6,
+            "name":"Responsable Dev- Erisum",
+            "color":"#512e5f"
+        },
+        "749928769724219432": {
+            "strength":6,
+            "name":"Responsable Infrastructure - Erisum",
+            "color":"#512e5f"
+        },
+        "586952541997105152": {
+            "strength":6,
+            "name":"Responsable Mods - Erisum",
+            "color":"#512e5f"
+        },
+        "626522536296972288": {
+            "strength":5,
+            "name":"Responsable Traduction - Erisum",
+            "color":"#512e5f"
+        },
+        "639129856084279327": {
+            "strength":5,
+            "name":"Responsable Projet - Erisum",
+            "color":"#512e5f"
+        },
+        "586953546856136731": {
+            "strength":5,
+            "name":"Responsable Rédaction - Erisum",
+            "color":"#512e5f"
+        },
+        "678274739344637954": {
+            "strength":5,
+            "name":"Responsable - Erisum",
+            "color":"#512e5f"
+        },
+        "311063414086828032": {
+            "strength":4,
+            "name":"Modérateur - Erisum",
+            "color":"#2ecc71"
+        },
+        "586956238731083806": {
+            "strength":3,
+            "name":"Builder - Erisum",
+            "color":"#d4ac0d"
+        },
+        "678277611801149450": {
+            "strength":2,
+            "name":"Feedback - Erisum",
+            "color":"#d4ac0d"
+        },
+        "311064091139506177": {
+            "strength":2,
+            "name":"Gameplay - Erisum",
+            "color":"#d4ac0d"
+        },
+        "678277223882686467": {
+            "strength":2,
+            "name":"Graphiste - Erisum",
+            "color":"#d4ac0d"
+        },
+        "678278399361548338": {
+            "strength":2,
+            "name":"Traduction - Erisum",
+            "color":"#d4ac0d"
+        },
+        "678277722845216791": {
+            "strength":2,
+            "name":"Rédaction - Erisum",
+            "color":"#d4ac0d"
+        },
+        "313264172773277697": {
+            "strength":3,
+            "name":"Dev - Erisum",
+            "color":"#d4ac0d"
+        },
+        "678267266554396673": {
+            "strength":2,
+            "name":"Erisum Community - Erisum",
+            "color":"#d4ac0d"
+        },
+        "678613916917694484": {
+            "strength":3,
+            "name":"Support - Erisum",
+            "color":"#d4ac0d"
+        },
+        "516019582792630317": {
+            "strength":2,
+            "name":"CM - Erisum",
+            "color":"#d4ac0d"
+        },
+        "453957083247804437": {
+            "strength":10,
+            "name":"Créateur - Art",
+            "color":"#641e16"
+        },
+        "672170122458300496": {
+            "strength":9,
+            "name":"Admin - Art",
+            "color":"#7b241c"
+        },
+        "672503720063533086": {
+            "strength":6,
+            "name":"Modérateur - Art",
+            "color":"#2ecc71"
+        },
+        "696316291870490634": {
+            "strength":3,
+            "name":"CM - Art",
+            "color":"#d4ac0d"
+        },
+        "673222436526751748": {
+            "strength":3,
+            "name":"Recruteur Artistique - Art",
+            "color":"#d4ac0d"
+        },
+        "672170234165067780": {
+            "strength":3,
+            "name":"Staff - Art",
+            "color":"#d4ac0d"
+        },
+        "876442963310444585": {
+            "strength":10,
+            "name":"Créateur - GenshinFr",
+            "color":"#641e16"
+        },
+        "875032220123938819": {
+            "strength":9,
+            "name":"Admin - GenshinFr",
+            "color":"#7b241c"
+        },
+        "881842917566738482": {
+            "strength":8,
+            "name":"Gérant Staff - GenshinFr",
+            "color":"#512e5f"
+        },
+        "878646891355705364": {
+            "strength":8,
+            "name":"Resp Mod - GenshinFr",
+            "color":"#512e5f"
+        },
+        "878646814327332875": {
+            "strength":8,
+            "name":"Resp Helper - GenshinFr",
+            "color":"#512e5f"
+        },
+        "848639530394583040": {
+            "strength":7,
+            "name":"Mods - GenshinFr",
+            "color":"#145a32"
+        },
+        "875032222405636126": {
+            "strength":6,
+            "name":"Modérateur - GenshinFr",
+            "color":"#2ecc71"
+        },
+        "876447302028492800": {
+            "strength":3,
+            "name":"Helpeur - GenshinFr",
+            "color":"#d4ac0d"
+        },
+        "703715302399017020": {
+            "strength":10,
+            "name":"Créateur - Publicité FRANCE",
+            "color":"#641e16"
+        },
+        "864626496853245962": {
+            "strength":9,
+            "name":"Admin - Publicité FRANCE",
+            "color":"#7b241c"
+        },
+        "869213229958725653": {
+            "strength":9,
+            "name":"Administration - Publicité FRANCE",
+            "color":"#7b241c"
+        },
+        "866486335955402792": {
+            "strength":9,
+            "name":"Vice Président - Publicité FRANCE",
+            "color":"#7b241c"
+        },
+        "694586295422287893": {
+            "strength":8,
+            "name":"Responsable Staff - Publicité FRANCE",
+            "color":"#512e5f"
+        },
+        "668072490815193098": {
+            "strength":6,
+            "name":"Modérateur - Publicité FRANCE",
+            "color":"#2ecc71"
+        },
+        "699685932269436949": {
+            "strength":6,
+            "name":"ModérateurTest - Publicité FRANCE",
+            "color":"#2ecc71"
+        },
+        "683770833784799471": {
+            "strength":3,
+            "name":"Dev - Publicité FRANCE",
+            "color":"#d4ac0d"
+        },
+        "668071471100461086": {
+            "strength":3,
+            "name":"Staff - Publicité FRANCE",
+            "color":"#d4ac0d"
+        },
+        "478687934351147010": {
+            "strength":9,
+            "name":"Admin - 100% Pub",
+            "color":"#7b241c"
+        },
+        "685527595428872238": {
+            "strength":9,
+            "name":"Marketing - 100% Pub",
+            "color":"#7b241c"
+        },
+        "478688906267852852": {
+            "strength":7,
+            "name":"Modérateur Senior - 100% Pub",
+            "color":"#145a32"
+        },
+        "668927772084797444": {
+            "strength":6,
+            "name":"Modérateur Junior - 100% Pub",
+            "color":"#2ecc71"
+        },
+        "640297080413487114": {
+            "strength":4,
+            "name":"Partenaire Manager - 100% Pub",
+            "color":"#2e86c1"
         }
     }
 }
