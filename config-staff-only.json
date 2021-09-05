@@ -862,6 +862,196 @@
             "strength":3,
             "name":"Développeur - AideJeune",
             "color":"#d4ac0d"
+        },
+        "817367369155608576": {
+            "strength":9,
+            "name":"Equipe - NightmareFR",
+            "color":"#641e16"
+        },
+        "648867907597762561": {
+            "strength":9,
+            "name":"Com Manager - NightmareFR",
+            "color":"#641e16"
+        },
+        "800959519617449995": {
+            "strength":10,
+            "name":"Fondateur - NightmareFR",
+            "color":"#641e16"
+        },
+        "746874402746007604": {
+            "strength":8,
+            "name":"Direction - NightmareFR",
+            "color":"#7b241c"
+        },
+        "817367368636432414": {
+            "strength":7,
+            "name":"Responsable - NightmareFR",
+            "color":"#512e5f"
+        },
+        "804521137098588170": {
+            "strength":6,
+            "name":"Adjoint - NightmareFR",
+            "color":"#145a32"
+        },
+        "817401893025742898": {
+            "strength":5,
+            "name":"Modérateur - NightmareFR",
+            "color":"#2ecc71"
+        },
+        "827583541986066472": {
+            "strength":3,
+            "name":"Animateur - NightmareFR",
+            "color":"#2e86c1"
+        },
+        "817367364119166988": {
+            "strength":2,
+            "name":"Helpeur - NightmareFR",
+            "color":"#d4ac0d"
+        },
+        "715910377837428776": {
+            "strength":1,
+            "name":"Recru - NightmareFR",
+            "color":"#839192"
+        },
+        "691244933272830032": {
+            "strength":7,
+            "name":"Créatrice - Friend",
+            "color":"#641e16"
+        },
+        "691244940302221322": {
+            "strength":6,
+            "name":"Admin - Friend",
+            "color":"#7b241c"
+        },
+        "691244942135263262": {
+            "strength":4,
+            "name":"Modérateur - Friend",
+            "color":"#2ecc71"
+        },
+        "704725364466778242": {
+            "strength":2,
+            "name":"Animateur - Friend",
+            "color":"#2e86c1"
+        },
+        "724898306400059479": {
+            "strength":10,
+            "name":"Fondateur - BalanceTonLien",
+            "color":"#641e16"
+        },
+        "809859484473360437": {
+            "strength":9,
+            "name":"Admin - BalanceTonLien",
+            "color":"#7b241c"
+        },
+        "720581607924432916": {
+            "strength":6,
+            "name":"Modérateur - BalanceTonLien",
+            "color":"#2ecc71"
+        },
+        "820232467222757388": {
+            "strength":3,
+            "name":"Marketing + - BalanceTonLien",
+            "color":"#d4ac0d"
+        },
+        "720584044672450620": {
+            "strength":3,
+            "name":"Marketing - BalanceTonLien",
+            "color":"#d4ac0d"
+        },
+        "731640603074494575": {
+            "strength":9,
+            "name":"Roi - Orna'Space",
+            "color":"#641e16"
+        },
+        "800781250302312488": {
+            "strength":8,
+            "name":"Admin - Orna'Space",
+            "color":"#7b241c"
+        },
+        "872208495204761642": {
+            "strength":7,
+            "name":"Super-Modérateur - Orna'Space",
+            "color":"#145a32"
+        },
+        "731640259321921647": {
+            "strength":6,
+            "name":"Modérateur - Orna'Space",
+            "color":"#2ecc71"
+        },
+        "866033004081315840": {
+            "strength":5,
+            "name":"Modérateur YT - Orna'Space",
+            "color":"#2ecc71"
+        },
+        "731912383731204096": {
+            "strength":4,
+            "name":"Modérateur JR - Orna'Space",
+            "color":"#2ecc71"
+        },
+        "731913052076638258": {
+            "strength":3,
+            "name":"Animateur - Orna'Space",
+            "color":"#2e86c1"
+        },
+        "871037010964529153": {
+            "strength":2,
+            "name":"CM - Orna'Space",
+            "color":"#d4ac0d"
+        },
+        "858800027328577538": {
+            "strength":1,
+            "name":"Rédacteur - Orna'Space",
+            "color":"#d4ac0d"
+        },
+        "495922819457089538": {
+            "strength":9,
+            "name":"Owneur - Default",
+            "color":"#641e16"
+        },
+        "495944316674637864": {
+            "strength":8,
+            "name":"Admin - Default",
+            "color":"#7b241c"
+        },
+        "695351686729957498": {
+            "strength":8,
+            "name":"Admin - MysticPub",
+            "color":"#7b241c"
+        },
+        "776112904541044786": {
+            "strength":7,
+            "name":"Staff Manager - MysticPub",
+            "color":"#512e5f"
+        },
+        "533543095401316352": {
+            "strength":6,
+            "name":"Partenaire Manager - MysticPub",
+            "color":"#512e5f"
+        },
+        "780180209986830337": {
+            "strength":5,
+            "name":"Super-Modérateur - MysticPub",
+            "color":"#145a32"
+        },
+        "495944445078929408": {
+            "strength":4,
+            "name":"Modérateur - MysticPub",
+            "color":"#2ecc71"
+        },
+        "543572928353009675": {
+            "strength":3,
+            "name":"Animateur - MysticPub",
+            "color":"#2e86c1"
+        },
+        "495944557071040512": {
+            "strength":2,
+            "name":"Helpeur - MysticPub",
+            "color":"#d4ac0d"
+        },
+        "713793601158643732": {
+            "strength":2,
+            "name":"Dev - MysticPub",
+            "color":"#d4ac0d"
         }
     }
 }
