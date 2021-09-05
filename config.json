@@ -1148,6 +1148,11 @@
             "name":"Admin - Friend",
             "color":"#7b241c"
         },
+        "832567762979127326": {
+            "strength":5,
+            "name":"Responsable - Friend",
+            "color":"#512e5f"
+        },
         "691244942135263262": {
             "strength":4,
             "name":"Modérateur - Friend",
@@ -1157,6 +1162,11 @@
             "strength":2,
             "name":"Animateur - Friend",
             "color":"#2e86c1"
+        },
+        "693800020805419010": {
+            "strength":3,
+            "name":"Helpeur - Friend",
+            "color":"#d4ac0d"
         },
         "724898306400059479": {
             "strength":10,
