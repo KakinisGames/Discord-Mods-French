@@ -1827,6 +1827,66 @@
             "strength":1,
             "name":"Partenaire - Erazion",
             "color":"#2e4053"
+        },
+        "551864500911996931": {
+            "strength":10,
+            "name":"Team Neopolis - Neopolis",
+            "color":"#641e16"
+        },
+        "727538973370744853": {
+            "strength":9,
+            "name":"Manager - Neopolis",
+            "color":"#7b241c"
+        },
+        "689826658802204687": {
+            "strength":8,
+            "name":"Admin - Neopolis",
+            "color":"#7b241c"
+        },
+        "871116123477803081": {
+            "strength":7,
+            "name":"Responsable Mod- Neopolis",
+            "color":"#512e5f"
+        },
+        "845308133512970250": {
+            "strength":6,
+            "name":"Super-Modérateur - Neopolis",
+            "color":"#145a32"
+        },
+        "813802522744717332": {
+            "strength":5,
+            "name":"Modérateur Discord - Neopolis",
+            "color":"#145a32"
+        },
+        "817394173237788713": {
+            "strength":4,
+            "name":"Modérateur IG - Neopolis",
+            "color":"#2ecc71"
+        },
+        "845034836825210880": {
+            "strength":3,
+            "name":"Staff - Neopolis",
+            "color":"#2ecc71"
+        },
+        "727437774570913802": {
+            "strength":3,
+            "name":"Guide - Neopolis",
+            "color":"#d4ac0d"
+        },
+        "631434248481669130": {
+            "strength":2,
+            "name":"Ancien Staff - Neopolis",
+            "color":"#839192"
+        },
+        "842070761279193138": {
+            "strength":1,
+            "name":"VIP - Neopolis",
+            "color":"#2e4053"
+        },
+        "841764763117289533": {
+            "strength":1,
+            "name":"Guest - Neopolis",
+            "color":"#2e4053"
         }
     },
     "users":{
