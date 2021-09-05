@@ -1619,87 +1619,87 @@
             "color":"#2ecc71"
         },
         "772216295940423690": {
-            "strength":10,
+            "strength":9,
             "name":"Fondateur - BS Esport",
             "color":"#641e16"
         },
         "708374059913707573": {
-            "strength":9,
+            "strength":8,
             "name":"Admin - BS Esport",
             "color":"#7b241c"
         },
         "780106507676155928": {
-            "strength":8,
+            "strength":7,
             "name":"Responsable Bstar - BS Esport",
             "color":"#512e5f"
         },
         "823337178943455272": {
-            "strength":8,
+            "strength":7,
             "name":"Responsable Esport - BS Esport",
             "color":"#512e5f"
         },
         "843579435213914112": {
-            "strength":8,
+            "strength":6,
             "name":"Organisation Event - BS Esport",
             "color":"#512e5f"
         },
         "882286122179379344": {
-            "strength":8,
+            "strength":6,
             "name":"MCP - BS Esport",
             "color":"#512e5f"
         },
         "524528938538500106": {
-            "strength":7,
+            "strength":6,
             "name":"Président - BS Esport",
             "color":"#145a32"
         },
         "524529185688125450": {
-            "strength":7,
+            "strength":5,
             "name":"Vice-Président - BS Esport",
             "color":"#145a32"
         },
         "882285010986627113": {
-            "strength":6,
+            "strength":4,
             "name":"Modérateur - BS Esport",
             "color":"#2ecc71"
         },
         "864484473231376385": {
-            "strength":4,
+            "strength":3,
             "name":"Resp Sondage - BS Esport",
             "color":"#2e86c1"
         },
         "847223940803068015": {
-            "strength":3,
+            "strength":2,
             "name":"Staff Esport - BS Esport",
             "color":"#d4ac0d"
         },
         "808289101811810344": {
-            "strength":3,
+            "strength":2,
             "name":"CM - BS Esport",
             "color":"#d4ac0d"
         },
         "698682176102727720": {
-            "strength":10,
+            "strength":6,
             "name":"Fondateur - Azuria",
             "color":"#641e16"
         },
         "698682176685998120": {
-            "strength":9,
+            "strength":5,
             "name":"Technicien - Azuria",
             "color":"#7b241c"
         },
         "717415050092216351": {
-            "strength":9,
+            "strength":5,
             "name":"Admin - Azuria",
             "color":"#7b241c"
         },
         "698682178019786912": {
-            "strength":6,
+            "strength":4,
             "name":"Modérateur - Azuria",
             "color":"#2ecc71"
         },
         "698682179277815908": {
-            "strength":4,
+            "strength":2,
             "name":"Graphiste - Azuria",
             "color":"#2e86c1"
         },
@@ -1707,9 +1707,74 @@
             "strength":3,
             "name":"Staff - Azuria",
             "color":"#d4ac0d"
+        },
+        "868943745125589003": {
+            "strength":7,
+            "name":"Fondateur - Default",
+            "color":"#641e16"
+        },
+        "881296788026454067": {
+            "strength":6,
+            "name":"Admin - Default",
+            "color":"#7b241c"
+        },
+        "868943746128044153": {
+            "strength":5,
+            "name":"Responsable - Default",
+            "color":"#512e5f"
+        },
+        "872190850724143134": {
+            "strength":4,
+            "name":"Modérateur - Default",
+            "color":"#2ecc71"
+        },
+        "anim": {
+            "strength":3,
+            "name":"Animateur - QuavoCrew",
+            "color":"#2e86c1"
+        },
+        "872225622036992031": {
+            "strength":2,
+            "name":"CM - QuavoCrew",
+            "color":"#d4ac0d"
+        },
+        "872203770262614056": {
+            "strength":1,
+            "name":"VIP - QuavoCrew",
+            "color":"#2e4053"
         }
     },
     "users":{
+        "254880285747838976":{
+            "guilds":{
+                "865283930168360982":{
+                    "pseudo":"Lanbròuille",
+                    "strength":"2",
+                    "name":"Ancien Staff - QuavoCrew",
+                    "color":"#839192"
+                }
+            }
+        },
+        "732334287273066587":{
+            "guilds":{
+                "865283930168360982":{
+                    "pseudo":"Teppp",
+                    "strength":"2",
+                    "name":"Ancien Staff - QuavoCrew",
+                    "color":"#839192"
+                }
+            }
+        },
+        "819168522646061056":{
+            "guilds":{
+                "865283930168360982":{
+                    "pseudo":"Slowness",
+                    "strength":"2",
+                    "name":"Ancien Staff - QuavoCrew",
+                    "color":"#839192"
+                }
+            }
+        },
         "563903608563826698":{
             "guilds":{
                 "495920248369709076":{
