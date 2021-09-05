@@ -1,0 +1,1057 @@
+{
+    "description":{
+        "description": {
+            "comment":"Version sans Ex Staff - Sans Ex Staff"
+        }
+    },
+    "default":{
+        "fond": {
+            "strength":10,
+            "name":"Fondateur - Default",
+            "color":"#641e16"
+        },
+        "admin": {
+            "strength":9,
+            "name":"Admin - Default",
+            "color":"#7b241c"
+        },
+        "reponsable": {
+            "strength":8,
+            "name":"Responsable - Default",
+            "color":"#512e5f"
+        },
+        "super-mod": {
+            "strength":7,
+            "name":"Super-Modérateur - Default",
+            "color":"#145a32"
+        },
+        "mod": {
+            "strength":6,
+            "name":"Modérateur - Default",
+            "color":"#2ecc71"
+        },
+        "anim": {
+            "strength":4,
+            "name":"Animateur - Default",
+            "color":"#2e86c1"
+        },
+        "helper": {
+            "strength":3,
+            "name":"Helpeur - Default",
+            "color":"#d4ac0d"
+        },
+        "vip/friend": {
+            "strength":1,
+            "name":"VIP/Friend - Default",
+            "color":"#2e4053"
+        }
+    },
+    "roles":{
+        "568899369764388875": {
+            "strength":9,
+            "name":"Admin - DiscordTesters",
+            "color":"#7b241c"
+        },
+        "440322144593772545": {
+            "strength":8,
+            "name":"Modérateur - DiscordTesters",
+            "color":"#512e5f"
+        },
+        "440330249826205696": {
+            "strength":6,
+            "name":"BugAdmin - DiscordTesters",
+            "color":"#2ecc71"
+        },
+        "695797931055382549": {
+            "strength":4,
+            "name":"JRMod - DiscordTesters",
+            "color":"#2e86c1"
+        },
+        "811276574065950751": {
+            "strength":10,
+            "name":"Fondateur - Unosial",
+            "color":"#641e16"
+        },
+        "827876186033225790": {
+            "strength":8,
+            "name":"Responsable - Unosial",
+            "color":"#512e5f"
+        },
+        "461950084393861140": {
+            "strength":7,
+            "name":"Développeur - Unosial",
+            "color":"#145a32"
+        },
+        "694899379903135754": {
+            "strength":7,
+            "name":"CM - Unosial",
+            "color":"#145a32"
+        },
+        "455755103014617098": {
+            "strength":6,
+            "name":"Staff - Unosial",
+            "color":"#2ecc71"
+        },
+        "811280970371432486": {
+            "strength":1,
+            "name":"VIP - Unosial",
+            "color":"#2e4053"
+        },
+        "541694284361891962": {
+            "strength":1,
+            "name":"Trusted - Unosial",
+            "color":"#2e4053"
+        },
+        "779019376870686740": {
+            "strength":9,
+            "name":"Admin - 0Rion Project",
+            "color":"#7b241c"
+        },
+        "796479084154716180": {
+            "strength":8,
+            "name":"Responsable - 0Rion Project",
+            "color":"#512e5f"
+        },
+        "796479711194644581": {
+            "strength":6,
+            "name":"Staff - 0Rion Project",
+            "color":"#2ecc71"
+        },
+        "790528546384510986": {
+            "strength":1,
+            "name":"Partenaire - 0Rion Project",
+            "color":"#2e4053"
+        },
+        "619894831283568665": {
+            "strength":9,
+            "name":"Bot Owner - InvitLogger",
+            "color":"#7b241c"
+        },
+        "770290209668464660": {
+            "strength":6,
+            "name":"Modérateur - InvitLogger",
+            "color":"#145a32"
+        },
+        "620635611946024960": {
+            "strength":4,
+            "name":"SupportTeam - InvitLogger",
+            "color":"#2ecc71"
+        },
+        "621764566837231621": {
+            "strength":3,
+            "name":"Traducteur - InvitLogger",
+            "color":"#d4ac0d"
+        },
+        "652635342545092618": {
+            "strength":1,
+            "name":"VIP - InvitLogger",
+            "color":"#2e4053"
+        },
+        "495508740896718849": {
+            "strength":9,
+            "name":"Admin - RedSkyll",
+            "color":"#7b241c"
+        },
+        "669254922512105482": {
+            "strength":8,
+            "name":"Responsable - RedSkyll",
+            "color":"#512e5f"
+        },
+        "483919094190702602": {
+            "strength":6,
+            "name":"Modérateur - RedSkyll",
+            "color":"#2ecc71"
+        },
+        "0": {
+            "info":"ID inconnue - à voir plus tard",
+            "strength":4,
+            "name":"Animateur - RedSkyll",
+            "color":"#2e86c1"
+        },
+        "841040373639413831": {
+            "strength":6,
+            "name":"Modérateur Twitch- RedSkyll",
+            "color":"#2ecc71"
+        },
+        "597738737799135232": {
+            "strength":1,
+            "name":"Friend - RedSkyll",
+            "color":"#2e4053"
+        },
+        "699204373414281256": {
+            "strength":10,
+            "name":"Fondateur - FantaShop",
+            "color":"#641e16"
+        },
+        "699335302002638899": {
+            "strength":9,
+            "name":"Admin - FantaShop",
+            "color":"#7b241c"
+        },
+        "775415608107728937": {
+            "strength":8,
+            "name":"Responsable - FantaShop",
+            "color":"#512e5f"
+        },
+        "772037159464206346": {
+            "strength":8,
+            "name":"Responsable Dev - FantaShop",
+            "color":"#512e5f"
+        },
+        "861370044114141184": {
+            "strength":6,
+            "name":"Modérateur - FantaShop",
+            "color":"#2ecc71"
+        },
+        "861370050748219392": {
+            "strength":4,
+            "name":"Animateur - FantaShop",
+            "color":"#2e86c1"
+        },
+        "861370046336466954": {
+            "strength":3,
+            "name":"Helpeur - FantaShop",
+            "color":"#d4ac0d"
+        },
+        "844449292612796426": {
+            "strength":2,
+            "name":"Dev + - FantaShop",
+            "color":"#d4ac0d"
+        },
+        "861370049763606538": {
+            "strength":2,
+            "name":"Dev - FantaShop",
+            "color":"#d4ac0d"
+        },
+        "861370051839000596": {
+            "strength":2,
+            "name":"Créateur - FantaShop",
+            "color":"#d4ac0d"
+        },
+        "861370048161120267": {
+            "strength":2,
+            "name":"Rédacteur - FantaShop",
+            "color":"#d4ac0d"
+        },
+        "304659595304108035": {
+            "strength":9,
+            "name":"Admin - Slash FR",
+            "color":"#7b241c"
+        },
+        "581212419318218856": {
+            "strength":8,
+            "name":"Responsable - Slash FR",
+            "color":"#512e5f"
+        },
+        "285718015121686528": {
+            "strength":6,
+            "name":"Modérateur - Slash FR",
+            "color":"#2ecc71"
+        },
+        "751110495070847056": {
+            "strength":4,
+            "name":"Animateur - Slash FR",
+            "color":"#2e86c1"
+        },
+        "532949924749377546": {
+            "strength":3,
+            "name":"Helpeur - Slash FR",
+            "color":"#d4ac0d"
+        },
+        "883270184327053342": {
+            "strength":2,
+            "name":"Rédacteur - Slash FR",
+            "color":"#d4ac0d"
+        },
+        "640990966622191626": {
+            "strength":2,
+            "name":"Développeur - Slash FR",
+            "color":"#d4ac0d"
+        },
+        "754289559747166249": {
+            "strength":1,
+            "name":"VIP - Slash FR",
+            "color":"#2e4053"
+        },
+        "510099127867146261": {
+            "strength":7,
+            "name":"Fondateur - Khundar",
+            "color":"#7b241c"
+        },
+        "510099576154357780": {
+            "strength":9,
+            "name":"Admin - Khundar",
+            "color":"#7b241c"
+        },
+        "510099158817046558": {
+            "strength":8,
+            "name":"Responsable - Khundar",
+            "color":"#512e5f"
+        },
+        "615521948298117150": {
+            "strength":6,
+            "name":"Modérateur - Khundar",
+            "color":"#2ecc71"
+        },
+        "309768938617569291": {
+            "strength":10,
+            "name":"Fondateur - Default",
+            "color":"#641e16"
+        },
+        "824733685398896710": {
+            "strength":9,
+            "name":"Admin - FlyZ3r",
+            "color":"#7b241c"
+        },
+        "611462101734785045": {
+            "strength":8,
+            "name":"Responsable - FlyZ3r",
+            "color":"#512e5f"
+        },
+        "414887589275762689": {
+            "strength":6,
+            "name":"Modérateur - FlyZ3r",
+            "color":"#2ecc71"
+        },
+        "688475183173861503": {
+            "strength":4,
+            "name":"Animateur - FlyZ3r",
+            "color":"#2e86c1"
+        },
+        "813873752709660723": {
+            "strength":3,
+            "name":"Dev - FlyZ3r",
+            "color":"#d4ac0d"
+        },
+        "824983888996335618": {
+            "strength":2,
+            "name":"Staff - FlyZ3r",
+            "color":"#d4ac0d"
+        },
+        "357221088935018500": {
+            "strength":1,
+            "name":"Amis - FlyZ3r",
+            "color":"#2e4053"
+        },
+        "768887341547913226": {
+            "strength":10,
+            "name":"Fondateur - Kaatsup",
+            "color":"#641e16"
+        },
+        "768887346979930112": {
+            "strength":8,
+            "name":"Admin - Kaatsup",
+            "color":"#7b241c"
+        },
+        "768887345457790996": {
+            "strength":9,
+            "name":"Manageur - Kaatsup",
+            "color":"#512e5f"
+        },
+        "768887347680247809": {
+            "strength":7,
+            "name":"Modérateur - Kaatsup",
+            "color":"#145a32"
+        },
+        "768887349421015041": {
+            "strength":6,
+            "name":"Modérateur-Test - Kaatsup",
+            "color":"#2ecc71"
+        },
+        "809921917909860363": {
+            "strength":4,
+            "name":"Animateur - Kaatsup",
+            "color":"#2e86c1"
+        },
+        "768887348494336001": {
+            "strength":3,
+            "name":"Mod Twitch - Kaatsup",
+            "color":"#d4ac0d"
+        },
+        "853762966457548860": {
+            "strength":2,
+            "name":"Mod Twitch Test - Kaatsup",
+            "color":"#d4ac0d"
+        },
+        "768887346283413505": {
+            "strength":2,
+            "name":"Staff - Kaatsup",
+            "color":"#d4ac0d"
+        },
+        "768887352999149618": {
+            "strength":1,
+            "name":"VIP/Friend - Kaatsup",
+            "color":"#2e4053"
+        },
+        "356395293790437376": {
+            "strength":9,
+            "name":"Admin - Paladium",
+            "color":"#7b241c"
+        },
+        "356395154904449025": {
+            "strength":8,
+            "name":"Responsable - Paladium",
+            "color":"#512e5f"
+        },
+        "772756938731552789": {
+            "strength":8,
+            "name":"Super-Modérateur Discord - Paladium",
+            "color":"#145a32"
+        },
+        "393179023074787338": {
+            "strength":7,
+            "name":"Super-Modérateur - Paladium",
+            "color":"#145a32"
+        },
+        "476561902076559363": {
+            "strength":6,
+            "name":"Modérateur Discord - Paladium",
+            "color":"#2ecc71"
+        },
+        "356390364699164672": {
+            "strength":5,
+            "name":"Dev - Paladium",
+            "color":"#2ecc71"
+        },
+        "818167366130204723": {
+            "strength":4,
+            "name":"Modérateur Forum - Paladium",
+            "color":"#2ecc71"
+        },
+        "356394765589151747": {
+            "strength":4,
+            "name":"Modérateur - Paladium",
+            "color":"#2ecc71"
+        },
+        "818623967732563978": {
+            "strength":3,
+            "name":"Animateur - Paladium",
+            "color":"#2e86c1"
+        },
+        "818167369456812083": {
+            "strength":3,
+            "name":"Builder - Paladium",
+            "color":"#d4ac0d"
+        },
+        "818167390461755422": {
+            "strength":3,
+            "name":"Graphiste - Paladium",
+            "color":"#d4ac0d"
+        },
+        "818167373109657610": {
+            "strength":3,
+            "name":"Rédacteur - Paladium",
+            "color":"#d4ac0d"
+        },
+        "818183513006014474": {
+            "strength":3,
+            "name":"Création - Paladium",
+            "color":"#d4ac0d"
+        },
+        "356426707567378432": {
+            "strength":1,
+            "name":"Partenaire - Paladium",
+            "color":"#2e4053"
+        },
+        "483816830004232222": {
+            "strength":7,
+            "name":"Fondateur - Diabolofeat35",
+            "color":"#641e16"
+        },
+        "652238629581619212": {
+            "strength":6,
+            "name":"Admin - Diabolofeat35",
+            "color":"#7b241c"
+        },
+        "811701360789422172": {
+            "strength":4,
+            "name":"Super-Modérateur - Diabolofeat35",
+            "color":"#145a32"
+        },
+        "483928188196749312": {
+            "strength":3,
+            "name":"Modérateur - Diabolofeat35",
+            "color":"#2ecc71"
+        },
+        "879957275735900250": {
+            "strength":1,
+            "name":"Monteur - Diabolofeat35",
+            "color":"#2e4053"
+        },
+        "483817139900514327": {
+            "strength":1,
+            "name":"Friend - Diabolofeat35",
+            "color":"#2e4053"
+        },
+        "350192254885036032": {
+            "strength":10,
+            "name":"Fondateur - FuzeIII",
+            "color":"#641e16"
+        },
+        "721334170470711357": {
+            "strength":9,
+            "name":"Superviseur - FuzeIII",
+            "color":"#641e16"
+        },
+        "356175534050508801": {
+            "strength":8,
+            "name":"Admin - FuzeIII",
+            "color":"#7b241c"
+        },
+        "703667054284243094": {
+            "strength":8,
+            "name":"Dev - FuzeIII",
+            "color":"#7b241c"
+        },
+        "719939063712448593": {
+            "strength":7,
+            "name":"Responsable - FuzeIII",
+            "color":"#512e5f"
+        },
+        "401833007427616768": {
+            "strength":6,
+            "name":"Modérateur Certifié - FuzeIII",
+            "color":"#145a32"
+        },
+        "350188777232400386": {
+            "strength":5,
+            "name":"Modérateur Non Certifié - FuzeIII",
+            "color":"#2ecc71"
+        },
+        "645306953542795279": {
+            "strength":4,
+            "name":"Animateur - FuzeIII",
+            "color":"#2e86c1"
+        },
+        "882606791404445727": {
+            "strength":3,
+            "name":"Pause Staff - FuzeIII",
+            "color":"#839192"
+        },
+        "350186062401896460": {
+            "strength":1,
+            "name":"Friend - FuzeIII",
+            "color":"#2e4053"
+        },
+        "434472322796224542": {
+            "strength":7,
+            "name":"Admin - Squeezie",
+            "color":"#7b241c"
+        },
+        "483668946818433024": {
+            "strength":5,
+            "name":"Modérateur - Squeezie",
+            "color":"#145a32"
+        },
+        "675115811672686593": {
+            "strength":3,
+            "name":"Nouveau Modérateur - Squeezie",
+            "color":"#2ecc71"
+        },
+        "483816962154037282": {
+            "strength":1,
+            "name":"VIP - Squeezie",
+            "color":"#2e4053"
+        },
+        "845268553082601513": {
+            "strength":8,
+            "name":"Admin - Modération France",
+            "color":"#7b241c"
+        },
+        "845246476103712798": {
+            "strength":7,
+            "name":"Responsable - Modération France",
+            "color":"#512e5f"
+        },
+        "845245711838347276": {
+            "strength":6,
+            "name":"Modérateur - Modération France",
+            "color":"#2ecc71"
+        },
+        "854776046423769088": {
+            "strength":4,
+            "name":"Animateur - Modération France",
+            "color":"#2e86c1"
+        },
+        "845246101812150292": {
+            "strength":3,
+            "name":"Assistant - Modération France",
+            "color":"#d4ac0d"
+        },
+        "846470210776727582": {
+            "strength":3,
+            "name":"Dev - Modération France",
+            "color":"#d4ac0d"
+        },
+        "846108382489739304": {
+            "strength":1,
+            "name":"VIP - Modération France",
+            "color":"#2e4053"
+        },
+        "548593331953860619": {
+            "strength":7,
+            "name":"Admin - TalentDiscord",
+            "color":"#7b241c"
+        },
+        "838434687578931222": {
+            "strength":6,
+            "name":"Dev Bot - TalentDiscord",
+            "color":"#7b241c"
+        },
+        "833288302408761365": {
+            "strength":5,
+            "name":"Responsable Anim - TalentDiscord",
+            "color":"#512e5f"
+        },
+        "833288296821161994": {
+            "strength":3,
+            "name":"Responsable Juré - TalentDiscord",
+            "color":"#512e5f"
+        },
+        "833288298356015104": {
+            "strength":5,
+            "name":"Staff - TalentDiscord",
+            "color":"#2ecc71"
+        },
+        "833288304224501800": {
+            "strength":4,
+            "name":"Animateur - TalentDiscord",
+            "color":"#2e86c1"
+        },
+        "833288306459934720": {
+            "strength":2,
+            "name":"Juré - TalentDiscord",
+            "color":"#d4ac0d"
+        },
+        "833288340941439047": {
+            "strength":1,
+            "name":"VIP/Friend - TalentDiscord",
+            "color":"#2e4053"
+        },
+        "450336185253101568": {
+            "strength":9,
+            "name":"Fondateur - Multicort",
+            "color":"#641e16"
+        },
+        "747550096425615521": {
+            "strength":8,
+            "name":"Resp Discord - Multicort",
+            "color":"#7b241c"
+        },
+        "803658438071943238": {
+            "strength":7,
+            "name":"Responsable Mod - Multicort",
+            "color":"#512e5f"
+        },
+        "832370165337161759": {
+            "strength":7,
+            "name":"Responsable Anim - Multicort",
+            "color":"#512e5f"
+        },
+        "721418835764314145": {
+            "strength":6,
+            "name":"Modérateur + - Multicort",
+            "color":"#145a32"
+        },
+        "721419253932228669": {
+            "strength":5,
+            "name":"Modérateur - Multicort",
+            "color":"#2ecc71"
+        },
+        "747830720793411745": {
+            "strength":4,
+            "name":"Animateur - Multicort",
+            "color":"#2e86c1"
+        },
+        "450333778423054336": {
+            "strength":3,
+            "name":"Modérateur Live - Multicort",
+            "color":"#d4ac0d"
+        },
+        "485717459404324866": {
+            "strength":1,
+            "name":"Friend - Multicort",
+            "color":"#2e4053"
+        },
+        "665168424330067969": {
+            "strength":8,
+            "name":"Admin - Mcfly & Carlito",
+            "color":"#7b241c"
+        },
+        "672763830278815745": {
+            "strength":7,
+            "name":"Responsable Mod - Mcfly & Carlito",
+            "color":"#512e5f"
+        },
+        "702566875393032352": {
+            "strength":7,
+            "name":"Responsable Anim - Mcfly & Carlito",
+            "color":"#512e5f"
+        },
+        "808860345699270686": {
+            "strength":6,
+            "name":"Responsable Partenaire - Mcfly & Carlito",
+            "color":"#512e5f"
+        },
+        "666616180529692713": {
+            "strength":5,
+            "name":"Modérateur - Mcfly & Carlito",
+            "color":"#2ecc71"
+        },
+        "674377124437557302": {
+            "strength":4,
+            "name":"Animateur - Mcfly & Carlito",
+            "color":"#2e86c1"
+        },
+        "830089867916214293": {
+            "strength":3,
+            "name":"Helpeur - Mcfly & Carlito",
+            "color":"#d4ac0d"
+        },
+        "775192836718460938": {
+            "strength":3,
+            "name":"Illustrateur - Mcfly & Carlito",
+            "color":"#d4ac0d"
+        },
+        "833078829660504095": {
+            "strength":7,
+            "name":"Fuze - FuzeEvent",
+            "color":"#7b241c"
+        },
+        "833067934699749378": {
+            "strength":6,
+            "name":"Gestion - FuzeEvent",
+            "color":"#512e5f"
+        },
+        "853282343064961055": {
+            "strength":4,
+            "name":"Modérateur - FuzeEvent",
+            "color":"#2ecc71"
+        },
+        "872635515256602664": {
+            "strength":2,
+            "name":"Graphiste - FuzeEvent",
+            "color":"#d4ac0d"
+        },
+        "435138673370202123": {
+            "strength":8,
+            "name":"Admin - Discord France",
+            "color":"#7b241c"
+        },
+        "441899345785389058": {
+            "strength":7,
+            "name":"Responsable Recrutement - Discord France",
+            "color":"#512e5f"
+        },
+        "445201298296668161": {
+            "strength":7,
+            "name":"Responsable Discord - Discord France",
+            "color":"#512e5f"
+        },
+        "435139350380937216": {
+            "strength":5,
+            "name":"Modérateur - Discord France",
+            "color":"#2ecc71"
+        },
+        "435150177825718294": {
+            "strength":3,
+            "name":"Rédacteur - Discord France",
+            "color":"#d4ac0d"
+        },
+        "435139591658405908": {
+            "strength":4,
+            "name":"Développeur - Discord France",
+            "color":"#d4ac0d"
+        },
+        "435140170204053514": {
+            "strength":1,
+            "name":"Partenaire - Discord France",
+            "color":"#2e4053"
+        },
+        "840974640058466304": {
+            "strength":8,
+            "name":"Créateur - Chill FR",
+            "color":"#7b241c"
+        },
+        "840974642218926091": {
+            "strength":7,
+            "name":"Responsable - Chill FR",
+            "color":"#512e5f"
+        },
+        "858626634319265793": {
+            "strength":6,
+            "name":"Conseillé - Chill FR",
+            "color":"#145a32"
+        },
+        "840974643250069534": {
+            "strength":6,
+            "name":"Modérateur - Chill FR",
+            "color":"#2ecc71"
+        },
+        "840974671180070924": {
+            "strength":5,
+            "name":"Confiance - Chill FR",
+            "color":"#2ecc71"
+        },
+        "853570414600912906": {
+            "strength":4,
+            "name":"Animateur - Chill FR",
+            "color":"#2e86c1"
+        },
+        "840974644013695007": {
+            "strength":3,
+            "name":"Guide - Chill FR",
+            "color":"#d4ac0d"
+        },
+        "840974667417124894": {
+            "strength":1,
+            "name":"Partenaire - Chill FR",
+            "color":"#2e4053"
+        },
+        "840974667857920081": {
+            "strength":1,
+            "name":"Célébrité - Chill FR",
+            "color":"#2e4053"
+        },
+        "840963777088192532": {
+            "strength":9,
+            "name":"Admin - Sommet Création",
+            "color":"#7b241c"
+        },
+        "840963779764158474": {
+            "strength":8,
+            "name":"Responsable Staff - Sommet Création",
+            "color":"#512e5f"
+        },
+        "857647933747101757": {
+            "strength":8,
+            "name":"Responsable Discord - Sommet Création",
+            "color":"#512e5f"
+        },
+        "840963783597752341": {
+            "strength":8,
+            "name":"Responsable Animation - Sommet Création",
+            "color":"#512e5f"
+        },
+        "846061480897544214": {
+            "strength":8,
+            "name":"Gestion Manager - Sommet Création",
+            "color":"#512e5f"
+        },
+        "846059352636653598": {
+            "strength":7,
+            "name":"Modérateur + - Sommet Création",
+            "color":"#145a32"
+        },
+        "840963781172920331": {
+            "strength":6,
+            "name":"Modérateur - Sommet Création",
+            "color":"#2ecc71"
+        },
+        "846059363033546774": {
+            "strength":5,
+            "name":"ModérateurTest - Sommet Création",
+            "color":"#2ecc71"
+        },
+        "840963786919903282": {
+            "strength":4,
+            "name":"Animateur - Sommet Création",
+            "color":"#2e86c1"
+        },
+        "840963787695849472": {
+            "strength":3,
+            "name":"Assistant - Sommet Création",
+            "color":"#d4ac0d"
+        },
+        "840963789553270815": {
+            "strength":3,
+            "name":"Jury - Sommet Création",
+            "color":"#d4ac0d"
+        },
+        "840963805617061908": {
+            "strength":1,
+            "name":"Amis - Sommet Création",
+            "color":"#2e4053"
+        },
+        "842790638737948694": {
+            "strength":1,
+            "name":"Partenaire - Sommet Création",
+            "color":"#2e4053"
+        },
+        "606815024216014869": {
+            "strength":9,
+            "name":"Admin - InoxTag",
+            "color":"#7b241c"
+        },
+        "606830953859383306": {
+            "strength":8,
+            "name":"Responsable - InoxTag",
+            "color":"#512e5f"
+        },
+        "606829825054736395": {
+            "strength":6,
+            "name":"Modérateur - InoxTag",
+            "color":"#2ecc71"
+        },
+        "682213201450237990": {
+            "strength":7,
+            "name":"Developpeur - InoxTag",
+            "color":"#2ecc71"
+        },
+        "606829369591070759": {
+            "strength":5,
+            "name":"Animateur - Default",
+            "color":"#2e86c1"
+        },
+        "819274900052901888": {
+            "strength":4,
+            "name":"Modérateur YT - Default",
+            "color":"#2ecc71"
+        },
+        "835639812820172831": {
+            "strength":4,
+            "name":"Modérateur Twitch - Default",
+            "color":"#2ecc71"
+        },
+        "878910831407005696": {
+            "strength":3,
+            "name":"Créative Team - Default",
+            "color":"#d4ac0d"
+        },
+        "606830419073302538": {
+            "strength":1,
+            "name":"Guest - Default",
+            "color":"#2e4053"
+        },
+        "409438656206471188": {
+            "strength":10,
+            "name":"Fondateur - PokeDraco",
+            "color":"#641e16"
+        },
+        "437698430631149569": {
+            "strength":9,
+            "name":"Admin - PokeDraco",
+            "color":"#7b241c"
+        },
+        "527185224858075146": {
+            "strength":8,
+            "name":"Responsable Staff - PokeDraco",
+            "color":"#512e5f"
+        },
+        "839119387734310924": {
+            "strength":7,
+            "name":"Responsable Twitch - PokeDraco",
+            "color":"#512e5f"
+        },
+        "423482279977811969": {
+            "strength":6,
+            "name":"Staff - PokeDraco",
+            "color":"#145a32"
+        },
+        "790593706540662785": {
+            "strength":5,
+            "name":"Staff Test - PokeDraco",
+            "color":"#2ecc71"
+        },
+        "anim": {
+            "strength":4,
+            "name":"Animateur - PokeDraco",
+            "color":"#2e86c1"
+        },
+        "574969046336929802": {
+            "strength":3,
+            "name":"Modérateur Twitch - PokeDraco",
+            "color":"#d4ac0d"
+        },
+        "816637760001146880": {
+            "strength":3,
+            "name":"Modérateur Twitch Test - PokeDraco",
+            "color":"#d4ac0d"
+        },
+        "843594286808956948": {
+            "strength":3,
+            "name":"Développeur - PokeDraco",
+            "color":"#d4ac0d"
+        },
+        "822161741474431057": {
+            "strength":3,
+            "name":"Monteur - PokeDraco",
+            "color":"#d4ac0d"
+        },
+        "844020915817021460": {
+            "strength":1,
+            "name":"Friend - PokeDraco",
+            "color":"#2e4053"
+        },
+        "409444035413934110": {
+            "strength":1,
+            "name":"Friend - PokeDraco",
+            "color":"#2e4053"
+        },
+        "816426433068269639": {
+            "strength":9,
+            "name":"Admin - AideJeune",
+            "color":"#7b241c"
+        },
+        "816780249500090368": {
+            "strength":8,
+            "name":"Responsable - AideJeune",
+            "color":"#512e5f"
+        },
+        "875468761799491644": {
+            "strength":8,
+            "name":"RH - AideJeune",
+            "color":"#512e5f"
+        },
+        "808949531051425823": {
+            "strength":8,
+            "name":"Référent Support - AideJeune",
+            "color":"#512e5f"
+        },
+        "808989508879908864": {
+            "strength":6,
+            "name":"Modérateur - AideJeune",
+            "color":"#2ecc71"
+        },
+        "830809035716165643": {
+            "strength":6,
+            "name":"Mod Perm - AideJeune",
+            "color":"#2ecc71"
+        },
+        "810318329667518474": {
+            "strength":4,
+            "name":"Animateur - AideJeune",
+            "color":"#2e86c1"
+        },
+        "810538918817562635": {
+            "strength":3,
+            "name":"Support - AideJeune",
+            "color":"#d4ac0d"
+        },
+        "816441671462027274": {
+            "strength":2,
+            "name":"Graphiste - AideJeune",
+            "color":"#d4ac0d"
+        },
+        "847155304394522625": {
+            "strength":2,
+            "name":"Publicité Aide Jeune - AideJeune",
+            "color":"#d4ac0d"
+        },
+        "816637843408814100": {
+            "strength":3,
+            "name":"Développeur - AideJeune",
+            "color":"#d4ac0d"
+        },
+        "825807465274146827": {
+            "strength":1,
+            "name":"Partenaire - AideJeune",
+            "color":"#2e4053"
+        },
+        "834084841552084992": {
+            "strength":1,
+            "name":"Ambasadeur - AideJeune",
+            "color":"#2e4053"
+        }
+    }
+}
