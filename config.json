@@ -1155,52 +1155,32 @@
         },
         "724898306400059479": {
             "strength":10,
-            "name":"Fondateur - Default",
+            "name":"Fondateur - BalanceTonLien",
             "color":"#641e16"
         },
         "809859484473360437": {
             "strength":9,
-            "name":"Admin - Default",
+            "name":"Admin - BalanceTonLien",
             "color":"#7b241c"
-        },
-        "reponsable": {
-            "strength":8,
-            "name":"Responsable - Default",
-            "color":"#512e5f"
-        },
-        "super-mod": {
-            "strength":7,
-            "name":"Super-Modérateur - Default",
-            "color":"#145a32"
         },
         "720581607924432916": {
             "strength":6,
-            "name":"Modérateur - Default",
+            "name":"Modérateur - BalanceTonLien",
             "color":"#2ecc71"
-        },
-        "anim": {
-            "strength":4,
-            "name":"Animateur - Default",
-            "color":"#2e86c1"
         },
         "820232467222757388": {
             "strength":3,
-            "name":"Marketing + - Default",
+            "name":"Marketing + - BalanceTonLien",
             "color":"#d4ac0d"
         },
         "720584044672450620": {
             "strength":3,
-            "name":"Marketing - Default",
+            "name":"Marketing - BalanceTonLien",
             "color":"#d4ac0d"
-        },
-        "Ancien Staff": {
-            "strength":2,
-            "name":"Ancien Staff - Default",
-            "color":"#839192"
         },
         "814157779447054446": {
             "strength":1,
-            "name":"Partenaire - Default",
+            "name":"Partenaire - BalanceTonLien",
             "color":"#2e4053"
         }
     },
@@ -1241,6 +1221,11 @@
                     "pseudo":"Neptuune's",
                     "strength":"2",
                     "name":"Ancien Staff - BalanceTonLien",
+                    "color":"#839192"
+                },
+                "693826034902237214":{
+                    "strength":"2",
+                    "name":"Ancien Staff - 0Rion Project",
                     "color":"#839192"
                 }
             }
@@ -1531,15 +1516,6 @@
                     "pseudo":"Robîn",
                     "strength":"2",
                     "name":"Ancien Staff - Mcfly & Carlito",
-                    "color":"#839192"
-                }
-            }
-        },
-        "551765934071742490":{
-            "guilds":{
-                "693826034902237214":{
-                    "strength":"2",
-                    "name":"Ancien Staff - 0Rion Project",
                     "color":"#839192"
                 }
             }
