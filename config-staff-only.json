@@ -803,11 +803,6 @@
             "name":"Staff Test - PokeDraco",
             "color":"#2ecc71"
         },
-        "anim": {
-            "strength":4,
-            "name":"Animateur - PokeDraco",
-            "color":"#2e86c1"
-        },
         "843594286808956948": {
             "strength":3,
             "name":"Développeur - PokeDraco",
