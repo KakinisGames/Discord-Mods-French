@@ -1387,6 +1387,71 @@
             "strength":2,
             "name":"Graphiste - Eclipse",
             "color":"#d4ac0d"
+        },
+        "688727835958837250": {
+            "strength":9,
+            "name":"Gérant - MiniJeux",
+            "color":"#7b241c"
+        },
+        "756483145729179736": {
+            "strength":8,
+            "name":"Responsable - MiniJeux",
+            "color":"#512e5f"
+        },
+        "756483146584817714": {
+            "strength":8,
+            "name":"Responsable Mods - MiniJeux",
+            "color":"#512e5f"
+        },  
+        "756939940230725652": {
+            "strength":8,
+            "name":"Responsable Anim - MiniJeux",
+            "color":"#512e5f"
+        },  
+        "756483149881671730": {
+            "strength":8,
+            "name":"Responsable Rédaction - MiniJeux",
+            "color":"#512e5f"
+        },  
+        "723981613263880222": {
+            "strength":7,
+            "name":"Permision Jeux - MiniJeux",
+            "color":"#145a32"
+        },
+        "756483148157550613": {
+            "strength":6,
+            "name":"Modérateur - MiniJeux",
+            "color":"#2ecc71"
+        },
+        "594182821329764374": {
+            "strength":4,
+            "name":"Animateur - MiniJeux",
+            "color":"#2e86c1"
+        },
+        "745007283288932424": {
+            "strength":3,
+            "name":"Staff - MiniJeux",
+            "color":"#d4ac0d"
+        },
+        "594866237805428758": {
+            "strength":3,
+            "name":"Partenaire Manager - MiniJeux",
+            "color":"#d4ac0d"
+        },
+        "696406317199392858": {
+            "strength":3,
+            "name":"Rédacteur - MiniJeux",
+            "color":"#d4ac0d"
+        },
+        "689112714307829760": {
+            "strength":3,
+            "name":"Support - Default",
+            "color":"#d4ac0d"
+        },
+        "740332610613673990": {
+            "strength":3,
+            "name":"Initiateur - Default",
+            "color":"#d4ac0d"
         }
     },
     "users":{
