@@ -1452,6 +1452,91 @@
             "strength":3,
             "name":"Initiateur - Default",
             "color":"#d4ac0d"
+        },
+        "856266911355371521": {
+            "strength":10,
+            "name":"Fondateur - Assemblé",
+            "color":"#641e16"
+        },
+        "857254879383126017": {
+            "strength":10,
+            "name":"Fondateur - Assemblé",
+            "color":"#641e16"
+        },
+        "876899342886252564": {
+            "strength":10,
+            "name":"Co-Fondateur - Assemblé",
+            "color":"#641e16"
+        },
+        "876495261969571870": {
+            "strength":9,
+            "name":"Admin Network - Assemblé",
+            "color":"#7b241c"
+        },
+        "854069450383032391": {
+            "strength":9,
+            "name":"Admin - Assemblé",
+            "color":"#7b241c"
+        },
+        "873611188007731220": {
+            "strength":9,
+            "name":"Administration - Assemblé",
+            "color":"#7b241c"
+        },
+        "856597045670576168": {
+            "strength":8,
+            "name":"Haut Staff - Assemblé",
+            "color":"#512e5f"
+        },
+        "854400299366875137": {
+            "strength":8,
+            "name":"Resp Anim - Assemblé",
+            "color":"#512e5f"
+        },
+        "854332334098612234": {
+            "strength":8,
+            "name":"Resp CM - Assemblé",
+            "color":"#512e5f"
+        },
+        "856560171756158996": {
+            "strength":6,
+            "name":"Pole Modérateur - Assemblé",
+            "color":"#2ecc71"
+        },
+        "854070194414551120": {
+            "strength":6,
+            "name":"Modérateur - Assemblé",
+            "color":"#2ecc71"
+        },
+        "857609845669625857": {
+            "strength":4,
+            "name":"Pole Animateur - Assemblé",
+            "color":"#2e86c1"
+        },
+        "854072291876012032": {
+            "strength":3,
+            "name":"CM - Assemblé",
+            "color":"#d4ac0d"
+        },
+        "856554225843437579": {
+            "strength":3,
+            "name":"Pole CM - Assemblé",
+            "color":"#d4ac0d"
+        },
+        "854069581302595614": {
+            "strength":3,
+            "name":"Staff - Assemblé",
+            "color":"#d4ac0d"
+        },
+        "854324571179712522": {
+            "strength":3,
+            "name":"Gérant Mudae - Assemblé",
+            "color":"#d4ac0d"
+        },
+        "876781340173938778": {
+            "strength":3,
+            "name":"Staff Network - Assemblé",
+            "color":"#d4ac0d"
         }
     },
     "users":{
