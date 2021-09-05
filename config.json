@@ -1362,6 +1362,31 @@
             "strength":2,
             "name":"Dev - MysticPub",
             "color":"#d4ac0d"
+        },
+        "473431332425433088": {
+            "strength":6,
+            "name":"Créateur - Eclipse",
+            "color":"#641e16"
+        },
+        "473441009683005452": {
+            "strength":4,
+            "name":"Modérateur - Eclipse",
+            "color":"#2ecc71"
+        },
+        "473227573212610561": {
+            "strength":3,
+            "name":"Staff - Eclipse",
+            "color":"#d4ac0d"
+        },
+        "785948759309025292": {
+            "strength":3,
+            "name":"CM - Eclipse",
+            "color":"#d4ac0d"
+        },
+        "811577048098668561": {
+            "strength":2,
+            "name":"Graphiste - Eclipse",
+            "color":"#d4ac0d"
         }
     },
     "users":{
