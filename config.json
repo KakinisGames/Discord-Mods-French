@@ -2052,6 +2052,46 @@
             "strength":3,
             "name":"Ambassadeur - Art",
             "color":"#d4ac0d"
+        },
+        "876442963310444585": {
+            "strength":10,
+            "name":"Créateur - GenshinFr",
+            "color":"#641e16"
+        },
+        "875032220123938819": {
+            "strength":9,
+            "name":"Admin - GenshinFr",
+            "color":"#7b241c"
+        },
+        "881842917566738482": {
+            "strength":8,
+            "name":"Gérant Staff - GenshinFr",
+            "color":"#512e5f"
+        },
+        "878646891355705364": {
+            "strength":8,
+            "name":"Resp Mod - GenshinFr",
+            "color":"#512e5f"
+        },
+        "878646814327332875": {
+            "strength":8,
+            "name":"Resp Helper - GenshinFr",
+            "color":"#512e5f"
+        },
+        "848639530394583040": {
+            "strength":7,
+            "name":"Mods - GenshinFr",
+            "color":"#145a32"
+        },
+        "875032222405636126": {
+            "strength":6,
+            "name":"Modérateur - GenshinFr",
+            "color":"#2ecc71"
+        },
+        "876447302028492800": {
+            "strength":3,
+            "name":"Helpeur - GenshinFr",
+            "color":"#d4ac0d"
         }
     },
     "users":{
