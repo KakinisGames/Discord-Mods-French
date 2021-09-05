@@ -2092,6 +2092,51 @@
             "strength":3,
             "name":"Helpeur - GenshinFr",
             "color":"#d4ac0d"
+        },
+        "703715302399017020": {
+            "strength":10,
+            "name":"Créateur - Publicité FRANCE",
+            "color":"#641e16"
+        },
+        "864626496853245962": {
+            "strength":9,
+            "name":"Admin - Publicité FRANCE",
+            "color":"#7b241c"
+        },
+        "869213229958725653": {
+            "strength":9,
+            "name":"Administration - Publicité FRANCE",
+            "color":"#7b241c"
+        },
+        "866486335955402792": {
+            "strength":9,
+            "name":"Vice Président - Publicité FRANCE",
+            "color":"#7b241c"
+        },
+        "694586295422287893": {
+            "strength":8,
+            "name":"Responsable Staff - Publicité FRANCE",
+            "color":"#512e5f"
+        },
+        "668072490815193098": {
+            "strength":6,
+            "name":"Modérateur - Publicité FRANCE",
+            "color":"#2ecc71"
+        },
+        "699685932269436949": {
+            "strength":6,
+            "name":"ModérateurTest - Publicité FRANCE",
+            "color":"#2ecc71"
+        },
+        "683770833784799471": {
+            "strength":3,
+            "name":"Dev - Publicité FRANCE",
+            "color":"#d4ac0d"
+        },
+        "668071471100461086": {
+            "strength":3,
+            "name":"Staff - Publicité FRANCE",
+            "color":"#d4ac0d"
         }
     },
     "users":{
