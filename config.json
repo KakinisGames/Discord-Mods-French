@@ -1728,11 +1728,6 @@
             "name":"Modérateur - Default",
             "color":"#2ecc71"
         },
-        "anim": {
-            "strength":3,
-            "name":"Animateur - QuavoCrew",
-            "color":"#2e86c1"
-        },
         "872225622036992031": {
             "strength":2,
             "name":"CM - QuavoCrew",
@@ -1742,9 +1737,139 @@
             "strength":1,
             "name":"VIP - QuavoCrew",
             "color":"#2e4053"
+        },
+        "402586934595158027": {
+            "strength":9,
+            "name":"Admin+ - Erazion",
+            "color":"#641e16"
+        },
+        "777653814118580275": {
+            "strength":8,
+            "name":"Admin - Erazion",
+            "color":"#7b241c"
+        },
+        "777654933515272242": {
+            "strength":7,
+            "name":"GameMaster - Erazion",
+            "color":"#512e5f"
+        },
+        "777655393815756840": {
+            "strength":6,
+            "name":"Super-Modérateur - Erazion",
+            "color":"#145a32"
+        },
+        "777656013133840385": {
+            "strength":5,
+            "name":"Modérateur - Erazion",
+            "color":"#2ecc71"
+        },
+        "778696098566242304": {
+            "strength":3,
+            "name":"Builder - Erazion",
+            "color":"#2e86c1"
+        },
+        "777656819526271006": {
+            "strength":2,
+            "name":"Staff - Erazion",
+            "color":"#2e86c1"
+        },
+        "778696104341405696": {
+            "strength":3,
+            "name":"Graphiste - Erazion",
+            "color":"#2e86c1"
+        },
+        "778696106531094569": {
+            "strength":3,
+            "name":"Rédacteur - Erazion",
+            "color":"#2e86c1"
+        },
+        "778696101884198952": {
+            "strength":4,
+            "name":"Dev - Erazion",
+            "color":"#2e86c1"
+        },
+        "778696110550155304": {
+            "strength":3,
+            "name":"Modeler - Erazion",
+            "color":"#2e86c1"
+        },
+        "778696108356141067": {
+            "strength":3,
+            "name":"Trail Maker - Erazion",
+            "color":"#2e86c1"
+        },
+        "778695845872795698": {
+            "strength":3,
+            "name":"Editor - Erazion",
+            "color":"#2e86c1"
+        },
+        "856596130552348702": {
+            "strength":3,
+            "name":"Monteur - Erazion",
+            "color":"#2e86c1"
+        },
+        "777656124211724289": {
+            "strength":3,
+            "name":"Helpeur - Erazion",
+            "color":"#d4ac0d"
+        },
+        "777656650055155772": {
+            "strength":2,
+            "name":"CM - Erazion",
+            "color":"#d4ac0d"
+        },
+        "777683989058027540": {
+            "strength":1,
+            "name":"Friend - Erazion",
+            "color":"#2e4053"
+        },
+        "777661437375283240": {
+            "strength":1,
+            "name":"Partenaire - Erazion",
+            "color":"#2e4053"
         }
     },
     "users":{
+        "830877278317576233":{
+            "guilds":{
+                "402584217004933120":{
+                    "pseudo":"Swardz",
+                    "strength":"2",
+                    "name":"Ancien Staff - Erazion",
+                    "color":"#839192"
+                }
+            }
+        },
+        "424557045933539330":{
+            "guilds":{
+                "402584217004933120":{
+                    "pseudo":"Simba🅄🅆🅄",
+                    "strength":"2",
+                    "name":"Ancien Staff - Erazion",
+                    "color":"#839192"
+                }
+            }
+        },
+        "338783236698275850":{
+            "guilds":{
+                "402584217004933120":{
+                    "pseudo":"Captain",
+                    "strength":"2",
+                    "name":"Ancien Staff - Erazion",
+                    "color":"#839192"
+                }
+            }
+        },
+        "277519812580737024":{
+            "guilds":{
+                "402584217004933120":{
+                    "pseudo":"Swixo",
+                    "strength":"2",
+                    "name":"Ancien Staff - Erazion",
+                    "color":"#839192"
+                }
+            }
+        },
         "254880285747838976":{
             "guilds":{
                 "865283930168360982":{
