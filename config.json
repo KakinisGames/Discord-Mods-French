@@ -2137,9 +2137,69 @@
             "strength":3,
             "name":"Staff - Publicité FRANCE",
             "color":"#d4ac0d"
+        },
+        "478687934351147010": {
+            "strength":9,
+            "name":"Admin - 100% Pub",
+            "color":"#7b241c"
+        },
+        "685527595428872238": {
+            "strength":9,
+            "name":"Marketing - 100% Pub",
+            "color":"#7b241c"
+        },
+        "478688906267852852": {
+            "strength":7,
+            "name":"Modérateur Senior - 100% Pub",
+            "color":"#145a32"
+        },
+        "668927772084797444": {
+            "strength":6,
+            "name":"Modérateur Junior - 100% Pub",
+            "color":"#2ecc71"
+        },
+        "640297080413487114": {
+            "strength":4,
+            "name":"Partenaire Manager - 100% Pub",
+            "color":"#2e86c1"
+        },
+        "852995073134034994": {
+            "strength":3,
+            "name":"Collaborateur - 100% Pub",
+            "color":"#d4ac0d"
         }
     },
     "users":{
+        "356446656407011339":{
+            "guilds":{
+                "478687499137449984":{
+                    "pseudo":"Λngel",
+                    "strength":"2",
+                    "name":"Ancien Staff - 100% Pub",
+                    "color":"#839192"
+                }
+            }
+        },
+        "526930245777883147":{
+            "guilds":{
+                "478687499137449984":{
+                    "pseudo":"Byleth",
+                    "strength":"2",
+                    "name":"Ancien Staff - 100% Pub",
+                    "color":"#839192"
+                }
+            }
+        },
+        "455476176836755468":{
+            "guilds":{
+                "478687499137449984":{
+                    "pseudo":"MaRtIn",
+                    "strength":"2",
+                    "name":"Ancien Staff - 100% Pub",
+                    "color":"#839192"
+                }
+            }
+        },
         "830877278317576233":{
             "guilds":{
                 "402584217004933120":{
