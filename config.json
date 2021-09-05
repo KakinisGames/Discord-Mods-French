@@ -2167,9 +2167,199 @@
             "strength":3,
             "name":"Collaborateur - 100% Pub",
             "color":"#d4ac0d"
+        },
+        "652926254739095583": {
+            "strength":8,
+            "name":"Fondateur - Dymensia",
+            "color":"#641e16"
+        },
+        "614401526399762454": {
+            "strength":8,
+            "name":"Fondateur - Dymensia",
+            "color":"#641e16"
+        },
+        "714806731896520746": {
+            "strength":8,
+            "name":"Fondateur - Dymensia",
+            "color":"#641e16"
+        },
+        "730558667719704576": {
+            "strength":7,
+            "name":"Manager - Dymensia",
+            "color":"#512e5f"
+        },
+        "854096845667434507": {
+            "strength":6,
+            "name":"Responsable - Dymensia",
+            "color":"#512e5f"
+        },
+        "854400632324096000": {
+            "strength":6,
+            "name":"Responsable Anim - Dymensia",
+            "color":"#512e5f"
+        },
+        "808806744326799410": {
+            "strength":6,
+            "name":"Responsable Mods - Dymensia",
+            "color":"#512e5f"
+        },
+        "800152656882565160": {
+            "strength":5,
+            "name":"Modérateur - Dymensia",
+            "color":"#2ecc71"
+        },
+        "720327365032673296": {
+            "strength":5,
+            "name":"Modérateur - Dymensia",
+            "color":"#2ecc71"
+        },
+        "759847330173288448s": {
+            "strength":4,
+            "name":"Animateur - Dymensia",
+            "color":"#2e86c1"
+        },
+        "781636530363695104": {
+            "strength":3,
+            "name":"Guide - Dymensia",
+            "color":"#d4ac0d"
+        },
+        "697697961399943200": {
+            "strength":2,
+            "name":"Staff - Dymensia",
+            "color":"#d4ac0d"
+        },
+        "654651226646118419": {
+            "strength":2,
+            "name":"CM - Dymensia",
+            "color":"#d4ac0d"
+        },
+        "615691191039557666": {
+            "strength":1,
+            "name":"Partenaire - Dymensia",
+            "color":"#2e4053"
         }
     },
     "users":{
+        "246727397595021312":{
+            "guilds":{
+                "614401335080779776":{
+                    "pseudo":"Anti",
+                    "strength":"2",
+                    "name":"Ancien Staff - Dymensia",
+                    "color":"#839192"
+                }
+            }
+        },
+        "242680737181073420":{
+            "guilds":{
+                "614401335080779776":{
+                    "pseudo":"Dany",
+                    "strength":"2",
+                    "name":"Ancien Staff - Dymensia",
+                    "color":"#839192"
+                }
+            }
+        },
+        "181482416748232705":{
+            "guilds":{
+                "614401335080779776":{
+                    "pseudo":"Zapto",
+                    "strength":"2",
+                    "name":"Ancien Staff - Dymensia",
+                    "color":"#839192"
+                }
+            }
+        },
+        "855827694746468353":{
+            "guilds":{
+                "614401335080779776":{
+                    "pseudo":"Okahori",
+                    "strength":"2",
+                    "name":"Ancien Staff - Dymensia",
+                    "color":"#839192"
+                }
+            }
+        },
+        "505377585476141077":{
+            "guilds":{
+                "614401335080779776":{
+                    "pseudo":"Sukreu",
+                    "strength":"2",
+                    "name":"Ancien Staff - Dymensia",
+                    "color":"#839192"
+                }
+            }
+        },
+        "765000708822794242":{
+            "guilds":{
+                "614401335080779776":{
+                    "pseudo":"Aeris",
+                    "strength":"2",
+                    "name":"Ancien Staff - Dymensia",
+                    "color":"#839192"
+                }
+            }
+        },
+        "414842728262795277":{
+            "guilds":{
+                "614401335080779776":{
+                    "pseudo":"Sherly",
+                    "strength":"2",
+                    "name":"Ancien Staff - Dymensia",
+                    "color":"#839192"
+                }
+            }
+        },
+        "476296178984681472":{
+            "guilds":{
+                "614401335080779776":{
+                    "pseudo":"GreenFire",
+                    "strength":"2",
+                    "name":"Ancien Staff - Dymensia",
+                    "color":"#839192"
+                }
+            }
+        },
+        "397349060417421326":{
+            "guilds":{
+                "614401335080779776":{
+                    "pseudo":"L.Nexus",
+                    "strength":"2",
+                    "name":"Ancien Staff - Dymensia",
+                    "color":"#839192"
+                }
+            }
+        },
+        "818850132178632754":{
+            "guilds":{
+                "614401335080779776":{
+                    "pseudo":"BiLuPri",
+                    "strength":"2",
+                    "name":"Ancien Staff - Dymensia",
+                    "color":"#839192"
+                }
+            }
+        },
+        "374277570570616832":{
+            "guilds":{
+                "614401335080779776":{
+                    "pseudo":"Fyfticlose",
+                    "strength":"2",
+                    "name":"Ancien Staff - Dymensia",
+                    "color":"#839192"
+                }
+            }
+        },
+        "303241290785488899":{
+            "guilds":{
+                "614401335080779776":{
+                    "pseudo":"Skay",
+                    "strength":"2",
+                    "name":"Ancien Staff - Dymensia",
+                    "color":"#839192"
+                }
+            }
+        },
         "356446656407011339":{
             "guilds":{
                 "478687499137449984":{
@@ -2643,6 +2833,16 @@
                 }
             }
         },
+        "373840093137600513":{
+            "guilds":{
+                "356386012819226625":{
+                    "strength":"2",
+                    "pseudo":"The_Brioche",
+                    "name":"Ancien Staff - Palladium",
+                    "color":"#839192"
+                }
+            }
+        },
         "368782799928295436":{
             "guilds":{
                 "482631676032319489":{
@@ -2658,6 +2858,12 @@
                     "pseudo":"Biprini",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
+                    "color":"#839192"
+                },
+                "614401335080779776":{
+                    "pseudo":"Biprini",
+                    "strength":"2",
+                    "name":"Ancien Staff - Dymensia",
                     "color":"#839192"
                 }
             }
