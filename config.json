@@ -159,7 +159,12 @@
         },
         "669254922512105482": {
             "strength":8,
-            "name":"Responsable - RedSkyll",
+            "name":"Responsable Staff - RedSkyll",
+            "color":"#512e5f"
+        },
+        "883738129595514890": {
+            "strength":8,
+            "name":"Responsable Twitch - RedSkyll",
             "color":"#512e5f"
         },
         "483919094190702602": {
