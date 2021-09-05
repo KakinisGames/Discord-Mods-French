@@ -2019,27 +2019,27 @@
             "color":"#2e4053"
         },
         "453957083247804437": {
-            "strength":10,
+            "strength":6,
             "name":"Créateur - Art",
             "color":"#641e16"
         },
         "672170122458300496": {
-            "strength":9,
+            "strength":5,
             "name":"Admin - Art",
             "color":"#7b241c"
         },
         "672503720063533086": {
-            "strength":6,
+            "strength":4,
             "name":"Modérateur - Art",
             "color":"#2ecc71"
         },
         "696316291870490634": {
-            "strength":3,
+            "strength":2,
             "name":"CM - Art",
             "color":"#d4ac0d"
         },
         "673222436526751748": {
-            "strength":3,
+            "strength":2,
             "name":"Recruteur Artistique - Art",
             "color":"#d4ac0d"
         },
@@ -2049,82 +2049,82 @@
             "color":"#d4ac0d"
         },
         "822880077930037258": {
-            "strength":3,
+            "strength":2,
             "name":"Ambassadeur - Art",
             "color":"#d4ac0d"
         },
         "876442963310444585": {
-            "strength":10,
+            "strength":8,
             "name":"Créateur - GenshinFr",
             "color":"#641e16"
         },
         "875032220123938819": {
-            "strength":9,
+            "strength":7,
             "name":"Admin - GenshinFr",
             "color":"#7b241c"
         },
         "881842917566738482": {
-            "strength":8,
+            "strength":6,
             "name":"Gérant Staff - GenshinFr",
             "color":"#512e5f"
         },
         "878646891355705364": {
-            "strength":8,
+            "strength":5,
             "name":"Resp Mod - GenshinFr",
             "color":"#512e5f"
         },
         "878646814327332875": {
-            "strength":8,
+            "strength":5,
             "name":"Resp Helper - GenshinFr",
             "color":"#512e5f"
         },
         "848639530394583040": {
-            "strength":7,
+            "strength":4,
             "name":"Mods - GenshinFr",
             "color":"#145a32"
         },
         "875032222405636126": {
-            "strength":6,
+            "strength":3,
             "name":"Modérateur - GenshinFr",
             "color":"#2ecc71"
         },
         "876447302028492800": {
-            "strength":3,
+            "strength":2,
             "name":"Helpeur - GenshinFr",
             "color":"#d4ac0d"
         },
         "703715302399017020": {
-            "strength":10,
+            "strength":8,
             "name":"Créateur - Publicité FRANCE",
             "color":"#641e16"
         },
         "864626496853245962": {
-            "strength":9,
+            "strength":7,
             "name":"Admin - Publicité FRANCE",
             "color":"#7b241c"
         },
         "869213229958725653": {
-            "strength":9,
+            "strength":7,
             "name":"Administration - Publicité FRANCE",
             "color":"#7b241c"
         },
         "866486335955402792": {
-            "strength":9,
+            "strength":6,
             "name":"Vice Président - Publicité FRANCE",
             "color":"#7b241c"
         },
         "694586295422287893": {
-            "strength":8,
+            "strength":5,
             "name":"Responsable Staff - Publicité FRANCE",
             "color":"#512e5f"
         },
         "668072490815193098": {
-            "strength":6,
+            "strength":4,
             "name":"Modérateur - Publicité FRANCE",
             "color":"#2ecc71"
         },
         "699685932269436949": {
-            "strength":6,
+            "strength":3,
             "name":"ModérateurTest - Publicité FRANCE",
             "color":"#2ecc71"
         },
@@ -2134,37 +2134,37 @@
             "color":"#d4ac0d"
         },
         "668071471100461086": {
-            "strength":3,
+            "strength":2,
             "name":"Staff - Publicité FRANCE",
             "color":"#d4ac0d"
         },
         "478687934351147010": {
-            "strength":9,
+            "strength":7,
             "name":"Admin - 100% Pub",
             "color":"#7b241c"
         },
         "685527595428872238": {
-            "strength":9,
+            "strength":6,
             "name":"Marketing - 100% Pub",
             "color":"#7b241c"
         },
         "478688906267852852": {
-            "strength":7,
+            "strength":5,
             "name":"Modérateur Senior - 100% Pub",
             "color":"#145a32"
         },
         "668927772084797444": {
-            "strength":6,
+            "strength":4,
             "name":"Modérateur Junior - 100% Pub",
             "color":"#2ecc71"
         },
         "640297080413487114": {
-            "strength":4,
+            "strength":3,
             "name":"Partenaire Manager - 100% Pub",
             "color":"#2e86c1"
         },
         "852995073134034994": {
-            "strength":3,
+            "strength":2,
             "name":"Collaborateur - 100% Pub",
             "color":"#d4ac0d"
         },
