@@ -1,4 +1,9 @@
 {
+    "description":{
+        "description": {
+            "comment":"Version Complète - Avec Ex Staff / Amis / VIP / Partenaire"
+        }
+    },
     "default":{
         "fond": {
             "strength":10,
