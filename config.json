@@ -1677,6 +1677,36 @@
             "strength":3,
             "name":"CM - BS Esport",
             "color":"#d4ac0d"
+        },
+        "698682176102727720": {
+            "strength":10,
+            "name":"Fondateur - Azuria",
+            "color":"#641e16"
+        },
+        "698682176685998120": {
+            "strength":9,
+            "name":"Technicien - Azuria",
+            "color":"#7b241c"
+        },
+        "717415050092216351": {
+            "strength":9,
+            "name":"Admin - Azuria",
+            "color":"#7b241c"
+        },
+        "698682178019786912": {
+            "strength":6,
+            "name":"Modérateur - Azuria",
+            "color":"#2ecc71"
+        },
+        "698682179277815908": {
+            "strength":4,
+            "name":"Graphiste - Azuria",
+            "color":"#2e86c1"
+        },
+        "698682179927932978": {
+            "strength":3,
+            "name":"Staff - Azuria",
+            "color":"#d4ac0d"
         }
     },
     "users":{
