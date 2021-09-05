@@ -618,6 +618,11 @@
             "name":"Admin - TalentDiscord",
             "color":"#7b241c"
         },
+        "548813790741921792": {
+            "strength":7,
+            "name":"Admin - TalentDiscord",
+            "color":"#7b241c"
+        },
         "838434687578931222": {
             "strength":6,
             "name":"Dev Bot - TalentDiscord",
@@ -636,6 +641,16 @@
         "833288298356015104": {
             "strength":5,
             "name":"Staff - TalentDiscord",
+            "color":"#2ecc71"
+        },
+        "839263157477703700": {
+            "strength":5,
+            "name":"Staff - TalentDiscord",
+            "color":"#2ecc71"
+        },
+        "833288297572073472": {
+            "strength":5,
+            "name":"Bot Perm - TalentDiscord",
             "color":"#2ecc71"
         },
         "833288304224501800": {
@@ -697,6 +712,11 @@
             "strength":1,
             "name":"Friend - Multicort",
             "color":"#2e4053"
+        },
+        "689486623884574722": {
+            "strength":9,
+            "name":"Youtube - Mcfly & Carlito",
+            "color":"#641e16"
         },
         "665168424330067969": {
             "strength":8,
@@ -803,9 +823,19 @@
             "name":"Créateur - Chill FR",
             "color":"#7b241c"
         },
+        "842995413384167455": {
+            "strength":8,
+            "name":"Couronne - Chill FR",
+            "color":"#7b241c"
+        },
         "840974642218926091": {
             "strength":7,
             "name":"Responsable - Chill FR",
+            "color":"#512e5f"
+        },
+        "853613397828042782": {
+            "strength":7,
+            "name":"Root - Chill FR",
             "color":"#512e5f"
         },
         "858626634319265793": {
@@ -848,14 +878,34 @@
             "name":"Ancien Staff - Chill FR",
             "color":"#839192"
         },
+        "726535435643519026": {
+            "strength":9,
+            "name":"Admin - Sommet Création",
+            "color":"#7b241c"
+        },
         "840963777088192532": {
             "strength":9,
             "name":"Admin - Sommet Création",
             "color":"#7b241c"
         },
+        "840963782174834758": {
+            "strength":8,
+            "name":"Technicien - Sommet Création",
+            "color":"#7b241c"
+        },
+        "857647958282862592": {
+            "strength":8,
+            "name":"Comptable - Sommet Création",
+            "color":"#7b241c"
+        },
         "840963779764158474": {
             "strength":8,
             "name":"Responsable Staff - Sommet Création",
+            "color":"#512e5f"
+        },
+        "840963783094304800": {
+            "strength":8,
+            "name":"Responsable YT - Sommet Création",
             "color":"#512e5f"
         },
         "857647933747101757": {
@@ -898,6 +948,11 @@
             "name":"Assistant - Sommet Création",
             "color":"#d4ac0d"
         },
+        "843881288700002304": {
+            "strength":3,
+            "name":"Associé - Sommet Création",
+            "color":"#d4ac0d"
+        },
         "840963789553270815": {
             "strength":3,
             "name":"Jury - Sommet Création",
@@ -913,13 +968,18 @@
             "name":"Partenaire - Sommet Création",
             "color":"#2e4053"
         },
-        "606815024216014869": {
+        "606812892003565609": {
             "strength":9,
+            "name":"Gérant - InoxTag",
+            "color":"#7b241c"
+        },
+        "606815024216014869": {
+            "strength":8,
             "name":"Admin - InoxTag",
             "color":"#7b241c"
         },
         "606830953859383306": {
-            "strength":8,
+            "strength":7,
             "name":"Responsable - InoxTag",
             "color":"#512e5f"
         },
@@ -929,7 +989,7 @@
             "color":"#2ecc71"
         },
         "682213201450237990": {
-            "strength":7,
+            "strength":6,
             "name":"Developpeur - InoxTag",
             "color":"#2ecc71"
         },
@@ -1108,6 +1168,11 @@
             "name":"Direction - NightmareFR",
             "color":"#7b241c"
         },
+        "803951240533770291": {
+            "strength":8,
+            "name":"Pilier - NightmareFR",
+            "color":"#7b241c"
+        },
         "817367368636432414": {
             "strength":7,
             "name":"Responsable - NightmareFR",
@@ -1135,7 +1200,7 @@
         },
         "715910377837428776": {
             "strength":1,
-            "name":"Recru - NightmareFR",
+            "name":"Recrue - NightmareFR",
             "color":"#839192"
         },
         "691244933272830032": {
@@ -1166,6 +1231,11 @@
         "693800020805419010": {
             "strength":3,
             "name":"Helpeur - Friend",
+            "color":"#d4ac0d"
+        },
+        "878364297519050893": {
+            "strength":3,
+            "name":"Graphiste - Friend",
             "color":"#d4ac0d"
         },
         "724898306400059479": {
