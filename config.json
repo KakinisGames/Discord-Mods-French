@@ -1132,6 +1132,26 @@
             "strength":1,
             "name":"Recru - NightmareFR",
             "color":"#839192"
+        },
+        "691244933272830032": {
+            "strength":7,
+            "name":"Créatrice - Friend",
+            "color":"#641e16"
+        },
+        "691244940302221322": {
+            "strength":6,
+            "name":"Admin - Friend",
+            "color":"#7b241c"
+        },
+        "691244942135263262": {
+            "strength":4,
+            "name":"Modérateur - Friend",
+            "color":"#2ecc71"
+        },
+        "704725364466778242": {
+            "strength":2,
+            "name":"Animateur - Friend",
+            "color":"#2e86c1"
         }
     },
     "users":{
