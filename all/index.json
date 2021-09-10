@@ -8,2235 +8,3127 @@
         "fond": {
             "strength":10,
             "name":"Fondateur - Default",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":["Founder"]
         },
         "admin": {
             "strength":9,
             "name":"Admin - Default",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":["Admin"]
         },
         "reponsable": {
             "strength":8,
             "name":"Responsable - Default",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":["Mod"]
         },
         "super-mod": {
             "strength":7,
             "name":"Super-Modérateur - Default",
-            "color":"#145a32"
+            "color":"#145a32",
+            "level":"",
+            "tags":["Mod"]
         },
         "mod": {
             "strength":6,
             "name":"Modérateur - Default",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":["Mod"]
         },
         "anim": {
             "strength":4,
             "name":"Animateur - Default",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":["Staff"]
         },
         "helper": {
             "strength":3,
             "name":"Helpeur - Default",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":["Staff"]
         },
         "Ancien Staff": {
             "strength":2,
             "name":"Ancien Staff - Default",
-            "color":"#839192"
+            "color":"#839192",
+            "level":"",
+            "tags":["Ex"]
         },
         "vip/friend": {
             "strength":1,
             "name":"VIP/Friend - Default",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":["Other"]
         }
     },
     "roles":{
         "568899369764388875": {
             "strength":9,
             "name":"Admin - DiscordTesters",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "440322144593772545": {
             "strength":8,
             "name":"Modérateur - DiscordTesters",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "440330249826205696": {
             "strength":6,
             "name":"BugAdmin - DiscordTesters",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "695797931055382549": {
             "strength":4,
             "name":"JRMod - DiscordTesters",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "811276574065950751": {
             "strength":10,
             "name":"Fondateur - Unosial",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "827876186033225790": {
             "strength":8,
             "name":"Responsable - Unosial",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "461950084393861140": {
             "strength":7,
             "name":"Développeur - Unosial",
-            "color":"#145a32"
+            "color":"#145a32",
+            "level":"",
+            "tags":[""]
         },
         "694899379903135754": {
             "strength":7,
             "name":"CM - Unosial",
-            "color":"#145a32"
+            "color":"#145a32",
+            "level":"",
+            "tags":[""]
         },
         "455755103014617098": {
             "strength":6,
             "name":"Staff - Unosial",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "811280970371432486": {
             "strength":1,
             "name":"VIP - Unosial",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "541694284361891962": {
             "strength":1,
             "name":"Trusted - Unosial",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "779019376870686740": {
             "strength":9,
             "name":"Admin - 0Rion Project",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "796479084154716180": {
             "strength":8,
             "name":"Responsable - 0Rion Project",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "796479711194644581": {
             "strength":6,
             "name":"Staff - 0Rion Project",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "790528546384510986": {
             "strength":1,
             "name":"Partenaire - 0Rion Project",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "619894831283568665": {
             "strength":9,
             "name":"Bot Owner - InvitLogger",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "770290209668464660": {
             "strength":6,
             "name":"Modérateur - InvitLogger",
-            "color":"#145a32"
+            "color":"#145a32",
+            "level":"",
+            "tags":[""]
         },
         "620635611946024960": {
             "strength":4,
             "name":"SupportTeam - InvitLogger",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "621764566837231621": {
             "strength":3,
             "name":"Traducteur - InvitLogger",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "652635342545092618": {
             "strength":1,
             "name":"VIP - InvitLogger",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "495508740896718849": {
             "strength":9,
             "name":"Admin - RedSkyll",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "669254922512105482": {
             "strength":8,
             "name":"Responsable Staff - RedSkyll",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "883738129595514890": {
             "strength":8,
             "name":"Responsable Twitch - RedSkyll",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "483919094190702602": {
             "strength":6,
             "name":"Modérateur - RedSkyll",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "0": {
             "info":"ID inconnue - à voir plus tard",
             "strength":4,
             "name":"Animateur - RedSkyll",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "841040373639413831": {
             "strength":6,
             "name":"Modérateur Twitch- RedSkyll",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "720641810761908225": {
             "strength":2,
             "name":"Ancien Staff",
-            "color":"#839192"
+            "color":"#839192",
+            "level":"",
+            "tags":[""]
         },
         "597738737799135232": {
             "strength":1,
             "name":"Friend - RedSkyll",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "699204373414281256": {
             "strength":10,
             "name":"Fondateur - FantaShop",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "699335302002638899": {
             "strength":9,
             "name":"Admin - FantaShop",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "775415608107728937": {
             "strength":8,
             "name":"Responsable - FantaShop",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "772037159464206346": {
             "strength":8,
             "name":"Responsable Dev - FantaShop",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "861370044114141184": {
             "strength":6,
             "name":"Modérateur - FantaShop",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "861370050748219392": {
             "strength":4,
             "name":"Animateur - FantaShop",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "861370046336466954": {
             "strength":3,
             "name":"Helpeur - FantaShop",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "844449292612796426": {
             "strength":2,
             "name":"Dev + - FantaShop",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "861370049763606538": {
             "strength":2,
             "name":"Dev - FantaShop",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "861370051839000596": {
             "strength":2,
             "name":"Créateur - FantaShop",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "861370048161120267": {
             "strength":2,
             "name":"Rédacteur - FantaShop",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "304659595304108035": {
             "strength":9,
             "name":"Admin - Slash FR",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "581212419318218856": {
             "strength":8,
             "name":"Responsable - Slash FR",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "285718015121686528": {
             "strength":6,
             "name":"Modérateur - Slash FR",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "751110495070847056": {
             "strength":4,
             "name":"Animateur - Slash FR",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "532949924749377546": {
             "strength":3,
             "name":"Helpeur - Slash FR",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "883270184327053342": {
             "strength":2,
             "name":"Rédacteur - Slash FR",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "640990966622191626": {
             "strength":2,
             "name":"Développeur - Slash FR",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "754289559747166249": {
             "strength":1,
             "name":"VIP - Slash FR",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "510099127867146261": {
             "strength":7,
             "name":"Fondateur - Khundar",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "510099576154357780": {
             "strength":9,
             "name":"Admin - Khundar",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "510099158817046558": {
             "strength":8,
             "name":"Responsable - Khundar",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "615521948298117150": {
             "strength":6,
             "name":"Modérateur - Khundar",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "309768938617569291": {
             "strength":10,
             "name":"Fondateur - FlyZ3r",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "824733685398896710": {
             "strength":9,
             "name":"Admin - FlyZ3r",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "611462101734785045": {
             "strength":8,
             "name":"Responsable - FlyZ3r",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "414887589275762689": {
             "strength":6,
             "name":"Modérateur - FlyZ3r",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "688475183173861503": {
             "strength":4,
             "name":"Animateur - FlyZ3r",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "813873752709660723": {
             "strength":3,
             "name":"Dev - FlyZ3r",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "824983888996335618": {
             "strength":2,
             "name":"Staff - FlyZ3r",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "357221088935018500": {
             "strength":1,
             "name":"Amis - FlyZ3r",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "768887341547913226": {
             "strength":10,
             "name":"Fondateur - Kaatsup",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "768887346979930112": {
             "strength":8,
             "name":"Admin - Kaatsup",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "768887345457790996": {
             "strength":9,
             "name":"Manageur - Kaatsup",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "768887347680247809": {
             "strength":7,
             "name":"Modérateur - Kaatsup",
-            "color":"#145a32"
+            "color":"#145a32",
+            "level":"",
+            "tags":[""]
         },
         "768887349421015041": {
             "strength":6,
             "name":"Modérateur-Test - Kaatsup",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "809921917909860363": {
             "strength":4,
             "name":"Animateur - Kaatsup",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "768887348494336001": {
             "strength":3,
             "name":"Mod Twitch - Kaatsup",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "853762966457548860": {
             "strength":2,
             "name":"Mod Twitch Test - Kaatsup",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "768887346283413505": {
             "strength":2,
             "name":"Staff - Kaatsup",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "768887352999149618": {
             "strength":1,
             "name":"VIP/Friend - Kaatsup",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "356395293790437376": {
             "strength":9,
             "name":"Admin - Paladium",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "356395154904449025": {
             "strength":8,
             "name":"Responsable - Paladium",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "772756938731552789": {
             "strength":8,
             "name":"Super-Modérateur Discord - Paladium",
-            "color":"#145a32"
+            "color":"#145a32",
+            "level":"",
+            "tags":[""]
         },
         "393179023074787338": {
             "strength":7,
             "name":"Super-Modérateur - Paladium",
-            "color":"#145a32"
+            "color":"#145a32",
+            "level":"",
+            "tags":[""]
         },
         "476561902076559363": {
             "strength":6,
             "name":"Modérateur Discord - Paladium",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "356390364699164672": {
             "strength":5,
             "name":"Dev - Paladium",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "818167366130204723": {
             "strength":4,
             "name":"Modérateur Forum - Paladium",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "356394765589151747": {
             "strength":4,
             "name":"Modérateur - Paladium",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "818623967732563978": {
             "strength":3,
             "name":"Animateur - Paladium",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "818167369456812083": {
             "strength":3,
             "name":"Builder - Paladium",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "818167390461755422": {
             "strength":3,
             "name":"Graphiste - Paladium",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "818167373109657610": {
             "strength":3,
             "name":"Rédacteur - Paladium",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "818183513006014474": {
             "strength":3,
             "name":"Création - Paladium",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "356399419802779660": {
             "strength":2,
             "name":"Ancien Staff - Paladium",
-            "color":"#839192"
+            "color":"#839192",
+            "level":"",
+            "tags":[""]
         },
         "356426707567378432": {
             "strength":1,
             "name":"Partenaire - Paladium",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "483816830004232222": {
             "strength":7,
             "name":"Fondateur - Diabolofeat35",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "652238629581619212": {
             "strength":6,
             "name":"Admin - Diabolofeat35",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "811701360789422172": {
             "strength":4,
             "name":"Super-Modérateur - Diabolofeat35",
-            "color":"#145a32"
+            "color":"#145a32",
+            "level":"",
+            "tags":[""]
         },
         "483928188196749312": {
             "strength":3,
             "name":"Modérateur - Diabolofeat35",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "879957275735900250": {
             "strength":1,
             "name":"Monteur - Diabolofeat35",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "483817139900514327": {
             "strength":1,
             "name":"Friend - Diabolofeat35",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "350192254885036032": {
             "strength":10,
             "name":"Fondateur - FuzeIII",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "721334170470711357": {
             "strength":9,
             "name":"Superviseur - FuzeIII",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "356175534050508801": {
             "strength":8,
             "name":"Admin - FuzeIII",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "703667054284243094": {
             "strength":8,
             "name":"Dev - FuzeIII",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "719939063712448593": {
             "strength":7,
             "name":"Responsable - FuzeIII",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "401833007427616768": {
             "strength":6,
             "name":"Modérateur Certifié - FuzeIII",
-            "color":"#145a32"
+            "color":"#145a32",
+            "level":"",
+            "tags":[""]
         },
         "350188777232400386": {
             "strength":5,
             "name":"Modérateur Non Certifié - FuzeIII",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "645306953542795279": {
             "strength":4,
             "name":"Animateur - FuzeIII",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "882606791404445727": {
             "strength":3,
             "name":"Pause Staff - FuzeIII",
-            "color":"#839192"
+            "color":"#839192",
+            "level":"",
+            "tags":[""]
         },
         "365210102199877643": {
             "strength":2,
             "name":"Ancien Staff - FuzeIII",
-            "color":"#839192"
+            "color":"#839192",
+            "level":"",
+            "tags":[""]
         },
         "350186062401896460": {
             "strength":1,
             "name":"Friend - FuzeIII",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "434472322796224542": {
             "strength":7,
             "name":"Admin - Squeezie",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "483668946818433024": {
             "strength":5,
             "name":"Modérateur - Squeezie",
-            "color":"#145a32"
+            "color":"#145a32",
+            "level":"",
+            "tags":[""]
         },
         "675115811672686593": {
             "strength":3,
             "name":"Nouveau Modérateur - Squeezie",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "483816962154037282": {
             "strength":1,
             "name":"VIP - Squeezie",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "845268553082601513": {
             "strength":8,
             "name":"Admin - Modération France",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "845246476103712798": {
             "strength":7,
             "name":"Responsable - Modération France",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "845245711838347276": {
             "strength":6,
             "name":"Modérateur - Modération France",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "854776046423769088": {
             "strength":4,
             "name":"Animateur - Modération France",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "845246101812150292": {
             "strength":3,
             "name":"Assistant - Modération France",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "846470210776727582": {
             "strength":3,
             "name":"Dev - Modération France",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "846108382489739304": {
             "strength":1,
             "name":"VIP - Modération France",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "548593331953860619": {
             "strength":7,
             "name":"Admin - TalentDiscord",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "548813790741921792": {
             "strength":7,
             "name":"Admin - TalentDiscord",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "838434687578931222": {
             "strength":6,
             "name":"Dev Bot - TalentDiscord",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "833288302408761365": {
             "strength":5,
             "name":"Responsable Anim - TalentDiscord",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "833288296821161994": {
             "strength":3,
             "name":"Responsable Juré - TalentDiscord",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "833288298356015104": {
             "strength":5,
             "name":"Staff - TalentDiscord",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "839263157477703700": {
             "strength":5,
             "name":"Staff - TalentDiscord",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "833288297572073472": {
             "strength":5,
             "name":"Bot Perm - TalentDiscord",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "833288304224501800": {
             "strength":4,
             "name":"Animateur - TalentDiscord",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "833288306459934720": {
             "strength":2,
             "name":"Juré - TalentDiscord",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "833288340941439047": {
             "strength":1,
             "name":"VIP/Friend - TalentDiscord",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "450336185253101568": {
             "strength":9,
             "name":"Fondateur - Multicort",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "747550096425615521": {
             "strength":8,
             "name":"Resp Discord - Multicort",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "803658438071943238": {
             "strength":7,
             "name":"Responsable Mod - Multicort",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "832370165337161759": {
             "strength":7,
             "name":"Responsable Anim - Multicort",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "721418835764314145": {
             "strength":6,
             "name":"Modérateur + - Multicort",
-            "color":"#145a32"
+            "color":"#145a32",
+            "level":"",
+            "tags":[""]
         },
         "721419253932228669": {
             "strength":5,
             "name":"Modérateur - Multicort",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "747830720793411745": {
             "strength":4,
             "name":"Animateur - Multicort",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "450333778423054336": {
             "strength":3,
             "name":"Modérateur Live - Multicort",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "485717459404324866": {
             "strength":1,
             "name":"Friend - Multicort",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "689486623884574722": {
             "strength":9,
             "name":"Youtube - Mcfly & Carlito",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "665168424330067969": {
             "strength":8,
             "name":"Admin - Mcfly & Carlito",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "672763830278815745": {
             "strength":7,
             "name":"Responsable Mod - Mcfly & Carlito",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "702566875393032352": {
             "strength":7,
             "name":"Responsable Anim - Mcfly & Carlito",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "808860345699270686": {
             "strength":6,
             "name":"Responsable Partenaire - Mcfly & Carlito",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "666616180529692713": {
             "strength":5,
             "name":"Modérateur - Mcfly & Carlito",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "674377124437557302": {
             "strength":4,
             "name":"Animateur - Mcfly & Carlito",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "830089867916214293": {
             "strength":3,
             "name":"Helpeur - Mcfly & Carlito",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "775192836718460938": {
             "strength":3,
             "name":"Illustrateur - Mcfly & Carlito",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "806590090531831808": {
             "strength":2,
             "name":"Ancien Staff - Mcfly & Carlito",
-            "color":"#839192"
+            "color":"#839192",
+            "level":"",
+            "tags":[""]
         },
         "833078829660504095": {
             "strength":7,
             "name":"Fuze - FuzeEvent",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "833067934699749378": {
             "strength":6,
             "name":"Gestion - FuzeEvent",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "853282343064961055": {
             "strength":4,
             "name":"Modérateur - FuzeEvent",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "872635515256602664": {
             "strength":2,
             "name":"Graphiste - FuzeEvent",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "435138673370202123": {
             "strength":8,
             "name":"Admin - Discord France",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "441899345785389058": {
             "strength":7,
             "name":"Responsable Recrutement - Discord France",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "445201298296668161": {
             "strength":7,
             "name":"Responsable Discord - Discord France",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "435139350380937216": {
             "strength":5,
             "name":"Modérateur - Discord France",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "435150177825718294": {
             "strength":3,
             "name":"Rédacteur - Discord France",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "435139591658405908": {
             "strength":4,
             "name":"Développeur - Discord France",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "435140170204053514": {
             "strength":1,
             "name":"Partenaire - Discord France",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "840974640058466304": {
             "strength":8,
             "name":"Créateur - Chill FR",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "842995413384167455": {
             "strength":8,
             "name":"Couronne - Chill FR",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "840974642218926091": {
             "strength":7,
             "name":"Responsable - Chill FR",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "853613397828042782": {
             "strength":7,
             "name":"Root - Chill FR",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "858626634319265793": {
             "strength":6,
             "name":"Conseillé - Chill FR",
-            "color":"#145a32"
+            "color":"#145a32",
+            "level":"",
+            "tags":[""]
         },
         "840974643250069534": {
             "strength":6,
             "name":"Modérateur - Chill FR",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "840974671180070924": {
             "strength":5,
             "name":"Confiance - Chill FR",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "853570414600912906": {
             "strength":4,
             "name":"Animateur - Chill FR",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "840974644013695007": {
             "strength":3,
             "name":"Guide - Chill FR",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "840974667417124894": {
             "strength":1,
             "name":"Partenaire - Chill FR",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "840974667857920081": {
             "strength":1,
             "name":"Célébrité - Chill FR",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "751599299980165250": {
             "strength":2,
             "name":"Ancien Staff - Chill FR",
-            "color":"#839192"
+            "color":"#839192",
+            "level":"",
+            "tags":[""]
         },
         "726535435643519026": {
             "strength":9,
             "name":"Admin - Sommet Création",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "840963777088192532": {
             "strength":9,
             "name":"Admin - Sommet Création",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "840963782174834758": {
             "strength":8,
             "name":"Technicien - Sommet Création",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "857647958282862592": {
             "strength":8,
             "name":"Comptable - Sommet Création",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "840963779764158474": {
             "strength":8,
             "name":"Responsable Staff - Sommet Création",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "840963783094304800": {
             "strength":8,
             "name":"Responsable YT - Sommet Création",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "857647933747101757": {
             "strength":8,
             "name":"Responsable Discord - Sommet Création",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "840963783597752341": {
             "strength":8,
             "name":"Responsable Animation - Sommet Création",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "846061480897544214": {
             "strength":8,
             "name":"Gestion Manager - Sommet Création",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "846059352636653598": {
             "strength":7,
             "name":"Modérateur + - Sommet Création",
-            "color":"#145a32"
+            "color":"#145a32",
+            "level":"",
+            "tags":[""]
         },
         "840963781172920331": {
             "strength":6,
             "name":"Modérateur - Sommet Création",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "846059363033546774": {
             "strength":5,
             "name":"ModérateurTest - Sommet Création",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "840963786919903282": {
             "strength":4,
             "name":"Animateur - Sommet Création",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "840963787695849472": {
             "strength":3,
             "name":"Assistant - Sommet Création",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "843881288700002304": {
             "strength":3,
             "name":"Associé - Sommet Création",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "840963789553270815": {
             "strength":3,
             "name":"Jury - Sommet Création",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "840963805617061908": {
             "strength":1,
             "name":"Amis - Sommet Création",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "842790638737948694": {
             "strength":1,
             "name":"Partenaire - Sommet Création",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "606812892003565609": {
             "strength":9,
             "name":"Gérant - InoxTag",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "606815024216014869": {
             "strength":8,
             "name":"Admin - InoxTag",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "606830953859383306": {
             "strength":7,
             "name":"Responsable - InoxTag",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "606829825054736395": {
             "strength":6,
             "name":"Modérateur - InoxTag",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "682213201450237990": {
             "strength":6,
             "name":"Developpeur - InoxTag",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "606829369591070759": {
             "strength":5,
             "name":"Animateur - InoxTag",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "819274900052901888": {
             "strength":4,
             "name":"Modérateur YT - InoxTag",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "835639812820172831": {
             "strength":4,
             "name":"Modérateur Twitch - InoxTag",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "878910831407005696": {
             "strength":3,
             "name":"Créative Team - InoxTag",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "606830419073302538": {
             "strength":1,
             "name":"Guest - InoxTag",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "409438656206471188": {
             "strength":10,
             "name":"Fondateur - PokeDraco",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "437698430631149569": {
             "strength":9,
             "name":"Admin - PokeDraco",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "527185224858075146": {
             "strength":8,
             "name":"Responsable Staff - PokeDraco",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "839119387734310924": {
             "strength":7,
             "name":"Responsable Twitch - PokeDraco",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "423482279977811969": {
             "strength":6,
             "name":"Staff - PokeDraco",
-            "color":"#145a32"
+            "color":"#145a32",
+            "level":"",
+            "tags":[""]
         },
         "790593706540662785": {
             "strength":5,
             "name":"Staff Test - PokeDraco",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "574969046336929802": {
             "strength":3,
             "name":"Modérateur Twitch - PokeDraco",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "816637760001146880": {
             "strength":3,
             "name":"Modérateur Twitch Test - PokeDraco",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "843594286808956948": {
             "strength":3,
             "name":"Développeur - PokeDraco",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "822161741474431057": {
             "strength":3,
             "name":"Monteur - PokeDraco",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "842120351335841862": {
             "strength":2,
             "name":"Ancien Staff - PokeDraco",
-            "color":"#839192"
+            "color":"#839192",
+            "level":"",
+            "tags":[""]
         },
         "844020915817021460": {
             "strength":1,
             "name":"Friend - PokeDraco",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "409444035413934110": {
             "strength":1,
             "name":"Friend - PokeDraco",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "816426433068269639": {
             "strength":9,
             "name":"Admin - AideJeune",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "816780249500090368": {
             "strength":8,
             "name":"Responsable - AideJeune",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "875468761799491644": {
             "strength":8,
             "name":"RH - AideJeune",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "808949531051425823": {
             "strength":8,
             "name":"Référent Support - AideJeune",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "808989508879908864": {
             "strength":6,
             "name":"Modérateur - AideJeune",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "830809035716165643": {
             "strength":6,
             "name":"Mod Perm - AideJeune",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "810318329667518474": {
             "strength":4,
             "name":"Animateur - AideJeune",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "810538918817562635": {
             "strength":3,
             "name":"Support - AideJeune",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "816441671462027274": {
             "strength":2,
             "name":"Graphiste - AideJeune",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "847155304394522625": {
             "strength":2,
             "name":"Publicité Aide Jeune - AideJeune",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "816637843408814100": {
             "strength":3,
             "name":"Développeur - AideJeune",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "825807465274146827": {
             "strength":1,
             "name":"Partenaire - AideJeune",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "834084841552084992": {
             "strength":1,
             "name":"Ambasadeur - AideJeune",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "817367369155608576": {
             "strength":9,
             "name":"Equipe - NightmareFR",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "648867907597762561": {
             "strength":9,
             "name":"Com Manager - NightmareFR",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "800959519617449995": {
             "strength":10,
             "name":"Fondateur - NightmareFR",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "746874402746007604": {
             "strength":8,
             "name":"Direction - NightmareFR",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "803951240533770291": {
             "strength":8,
             "name":"Pilier - NightmareFR",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "817367368636432414": {
             "strength":7,
             "name":"Responsable - NightmareFR",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "804521137098588170": {
             "strength":6,
             "name":"Adjoint - NightmareFR",
-            "color":"#145a32"
+            "color":"#145a32",
+            "level":"",
+            "tags":[""]
         },
         "817401893025742898": {
             "strength":5,
             "name":"Modérateur - NightmareFR",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "827583541986066472": {
             "strength":3,
             "name":"Animateur - NightmareFR",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "817367364119166988": {
             "strength":2,
             "name":"Helpeur - NightmareFR",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "715910377837428776": {
             "strength":1,
             "name":"Recrue - NightmareFR",
-            "color":"#839192"
+            "color":"#839192",
+            "level":"",
+            "tags":[""]
         },
         "691244933272830032": {
             "strength":7,
             "name":"Créatrice - Friend",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "691244940302221322": {
             "strength":6,
             "name":"Admin - Friend",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "832567762979127326": {
             "strength":5,
             "name":"Responsable - Friend",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "691244942135263262": {
             "strength":4,
             "name":"Modérateur - Friend",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "704725364466778242": {
             "strength":2,
             "name":"Animateur - Friend",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "693800020805419010": {
             "strength":3,
             "name":"Helpeur - Friend",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "878364297519050893": {
             "strength":3,
             "name":"Graphiste - Friend",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "724898306400059479": {
             "strength":10,
             "name":"Fondateur - BalanceTonLien",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "809859484473360437": {
             "strength":9,
             "name":"Admin - BalanceTonLien",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "720581607924432916": {
             "strength":6,
             "name":"Modérateur - BalanceTonLien",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "820232467222757388": {
             "strength":3,
             "name":"Marketing + - BalanceTonLien",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "720584044672450620": {
             "strength":3,
             "name":"Marketing - BalanceTonLien",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "814157779447054446": {
             "strength":1,
             "name":"Partenaire - BalanceTonLien",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "731640603074494575": {
             "strength":9,
             "name":"Roi - Orna'Space",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "800781250302312488": {
             "strength":8,
             "name":"Admin - Orna'Space",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "872208495204761642": {
             "strength":7,
             "name":"Super-Modérateur - Orna'Space",
-            "color":"#145a32"
+            "color":"#145a32",
+            "level":"",
+            "tags":[""]
         },
         "731640259321921647": {
             "strength":6,
             "name":"Modérateur - Orna'Space",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "866033004081315840": {
             "strength":5,
             "name":"Modérateur YT - Orna'Space",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "731912383731204096": {
             "strength":4,
             "name":"Modérateur JR - Orna'Space",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "731913052076638258": {
             "strength":3,
             "name":"Animateur - Orna'Space",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "871037010964529153": {
             "strength":2,
             "name":"CM - Orna'Space",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "858800027328577538": {
             "strength":1,
             "name":"Rédacteur - Orna'Space",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "495922819457089538": {
             "strength":9,
             "name":"Owneur - MysticPub",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "495944316674637864": {
             "strength":8,
             "name":"Admin - MysticPub",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "695351686729957498": {
             "strength":8,
             "name":"Admin - MysticPub",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "776112904541044786": {
             "strength":7,
             "name":"Staff Manager - MysticPub",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "533543095401316352": {
             "strength":6,
             "name":"Partenaire Manager - MysticPub",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "780180209986830337": {
             "strength":5,
             "name":"Super-Modérateur - MysticPub",
-            "color":"#145a32"
+            "color":"#145a32",
+            "level":"",
+            "tags":[""]
         },
         "495944445078929408": {
             "strength":4,
             "name":"Modérateur - MysticPub",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "543572928353009675": {
             "strength":3,
             "name":"Animateur - MysticPub",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "495944557071040512": {
             "strength":2,
             "name":"Helpeur - MysticPub",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "713793601158643732": {
             "strength":2,
             "name":"Dev - MysticPub",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "473431332425433088": {
             "strength":6,
             "name":"Créateur - Eclipse",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "473441009683005452": {
             "strength":4,
             "name":"Modérateur - Eclipse",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "473227573212610561": {
             "strength":3,
             "name":"Staff - Eclipse",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "785948759309025292": {
             "strength":3,
             "name":"CM - Eclipse",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "811577048098668561": {
             "strength":2,
             "name":"Graphiste - Eclipse",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "688727835958837250": {
             "strength":8,
             "name":"Gérant - MiniJeux",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "756483145729179736": {
             "strength":6,
             "name":"Responsable - MiniJeux",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "756483146584817714": {
             "strength":6,
             "name":"Responsable Mods - MiniJeux",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },  
         "756939940230725652": {
             "strength":6,
             "name":"Responsable Anim - MiniJeux",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },  
         "756483149881671730": {
             "strength":6,
             "name":"Responsable Rédaction - MiniJeux",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },  
         "723981613263880222": {
             "strength":5,
             "name":"Permision Jeux - MiniJeux",
-            "color":"#145a32"
+            "color":"#145a32",
+            "level":"",
+            "tags":[""]
         },
         "756483148157550613": {
             "strength":4,
             "name":"Modérateur - MiniJeux",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "594182821329764374": {
             "strength":3,
             "name":"Animateur - MiniJeux",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "745007283288932424": {
             "strength":2,
             "name":"Staff - MiniJeux",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "594866237805428758": {
             "strength":2,
             "name":"Partenaire Manager - MiniJeux",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "696406317199392858": {
             "strength":2,
             "name":"Rédacteur - MiniJeux",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "689112714307829760": {
             "strength":2,
             "name":"Support - MiniJeux",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "740332610613673990": {
             "strength":2,
             "name":"Initiateur - MiniJeux",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "856266911355371521": {
             "strength":8,
             "name":"Fondateur - Assemblé",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "857254879383126017": {
             "strength":8,
             "name":"Fondateur - Assemblé",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "876899342886252564": {
             "strength":8,
             "name":"Co-Fondateur - Assemblé",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "876495261969571870": {
             "strength":7,
             "name":"Admin Network - Assemblé",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "854069450383032391": {
             "strength":7,
             "name":"Admin - Assemblé",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "873611188007731220": {
             "strength":7,
             "name":"Administration - Assemblé",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "856597045670576168": {
             "strength":6,
             "name":"Haut Staff - Assemblé",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "854400299366875137": {
             "strength":5,
             "name":"Resp Anim - Assemblé",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "854332334098612234": {
             "strength":5,
             "name":"Resp CM - Assemblé",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "856560171756158996": {
             "strength":4,
             "name":"Pole Modérateur - Assemblé",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "854070194414551120": {
             "strength":4,
             "name":"Modérateur - Assemblé",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "857609845669625857": {
             "strength":3,
             "name":"Pole Animateur - Assemblé",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "854072291876012032": {
             "strength":2,
             "name":"CM - Assemblé",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "856554225843437579": {
             "strength":2,
             "name":"Pole CM - Assemblé",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "854069581302595614": {
             "strength":2,
             "name":"Staff - Assemblé",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "854324571179712522": {
             "strength":2,
             "name":"Gérant Mudae - Assemblé",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "876781340173938778": {
             "strength":2,
             "name":"Staff Network - Assemblé",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "825454873364529222": {
             "strength":9,
             "name":"Créateur - Paname",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "841019124142571600": {
             "strength":9,
             "name":"JustCréateur - Paname",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "883160817695084564": {
             "strength":8,
             "name":"CoCréateur - Paname",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "862450810424393768": {
             "strength":8,
             "name":"Admin - Paname",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "850316156148383744": {
             "strength":7,
             "name":"Bras Droit - Paname",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "818188805944246273": {
             "strength":6,
             "name":"Responsable - Paname",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "859467699598917683": {
             "strength":7,
             "name":"Manager - Paname",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "784757280117751848": {
             "strength":7,
             "name":"Directeur - Paname",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "869501468032503839": {
             "strength":6,
             "name":"Responsable Staff - Paname",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "831223831217307669": {
             "strength":6,
             "name":"CoResponsable - Paname",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "878962106815361044": {
             "strength":5,
             "name":"Superviseur - Paname",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "857955604764688394": {
             "strength":5,
             "name":"Perm 3 - Paname",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "857955385604440074": {
             "strength":4,
             "name":"Perm 2 - Paname",
-            "color":"#145a32"
+            "color":"#145a32",
+            "level":"",
+            "tags":[""]
         },
         "857918829716176896": {
             "strength":2,
             "name":"Perm 1 - Paname",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "868219716198604880": {
             "strength":3,
             "name":"Modérateur - Paname",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "791681358983462934": {
             "strength":3,
             "name":"Modérateur - Paname",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "772216295940423690": {
             "strength":9,
             "name":"Fondateur - BS Esport",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "708374059913707573": {
             "strength":8,
             "name":"Admin - BS Esport",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "780106507676155928": {
             "strength":7,
             "name":"Responsable Bstar - BS Esport",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "823337178943455272": {
             "strength":7,
             "name":"Responsable Esport - BS Esport",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "843579435213914112": {
             "strength":6,
             "name":"Organisation Event - BS Esport",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "882286122179379344": {
             "strength":6,
             "name":"MCP - BS Esport",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "524528938538500106": {
             "strength":6,
             "name":"Président - BS Esport",
-            "color":"#145a32"
+            "color":"#145a32",
+            "level":"",
+            "tags":[""]
         },
         "524529185688125450": {
             "strength":5,
             "name":"Vice-Président - BS Esport",
-            "color":"#145a32"
+            "color":"#145a32",
+            "level":"",
+            "tags":[""]
         },
         "882285010986627113": {
             "strength":4,
             "name":"Modérateur - BS Esport",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "864484473231376385": {
             "strength":3,
             "name":"Resp Sondage - BS Esport",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "847223940803068015": {
             "strength":2,
             "name":"Staff Esport - BS Esport",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "808289101811810344": {
             "strength":2,
             "name":"CM - BS Esport",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "698682176102727720": {
             "strength":6,
             "name":"Fondateur - Azuria",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "698682176685998120": {
             "strength":5,
             "name":"Technicien - Azuria",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "717415050092216351": {
             "strength":5,
             "name":"Admin - Azuria",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "698682178019786912": {
             "strength":4,
             "name":"Modérateur - Azuria",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "698682179277815908": {
             "strength":2,
             "name":"Graphiste - Azuria",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "698682179927932978": {
             "strength":3,
             "name":"Staff - Azuria",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "868943745125589003": {
             "strength":7,
             "name":"Fondateur - Default",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "881296788026454067": {
             "strength":6,
             "name":"Admin - Default",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "868943746128044153": {
             "strength":5,
             "name":"Responsable - Default",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "872190850724143134": {
             "strength":4,
             "name":"Modérateur - Default",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "872225622036992031": {
             "strength":2,
             "name":"CM - QuavoCrew",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "872203770262614056": {
             "strength":1,
             "name":"VIP - QuavoCrew",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "402586934595158027": {
             "strength":9,
             "name":"Admin+ - Erazion",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "777653814118580275": {
             "strength":8,
             "name":"Admin - Erazion",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "777654933515272242": {
             "strength":7,
             "name":"GameMaster - Erazion",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "777655393815756840": {
             "strength":6,
             "name":"Super-Modérateur - Erazion",
-            "color":"#145a32"
+            "color":"#145a32",
+            "level":"",
+            "tags":[""]
         },
         "777656013133840385": {
             "strength":5,
             "name":"Modérateur - Erazion",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "778696098566242304": {
             "strength":3,
             "name":"Builder - Erazion",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "777656819526271006": {
             "strength":2,
             "name":"Staff - Erazion",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "778696104341405696": {
             "strength":3,
             "name":"Graphiste - Erazion",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "778696106531094569": {
             "strength":3,
             "name":"Rédacteur - Erazion",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "778696101884198952": {
             "strength":4,
             "name":"Dev - Erazion",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "778696110550155304": {
             "strength":3,
             "name":"Modeler - Erazion",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "778696108356141067": {
             "strength":3,
             "name":"Trail Maker - Erazion",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "778695845872795698": {
             "strength":3,
             "name":"Editor - Erazion",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "856596130552348702": {
             "strength":3,
             "name":"Monteur - Erazion",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "777656124211724289": {
             "strength":3,
             "name":"Helpeur - Erazion",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "777656650055155772": {
             "strength":2,
             "name":"CM - Erazion",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "777683989058027540": {
             "strength":1,
             "name":"Friend - Erazion",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "777661437375283240": {
             "strength":1,
             "name":"Partenaire - Erazion",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "551864500911996931": {
             "strength":10,
             "name":"Team Neopolis - Neopolis",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "727538973370744853": {
             "strength":9,
             "name":"Manager - Neopolis",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "689826658802204687": {
             "strength":8,
             "name":"Admin - Neopolis",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "871116123477803081": {
             "strength":7,
             "name":"Responsable Mod- Neopolis",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "845308133512970250": {
             "strength":6,
             "name":"Super-Modérateur - Neopolis",
-            "color":"#145a32"
+            "color":"#145a32",
+            "level":"",
+            "tags":[""]
         },
         "813802522744717332": {
             "strength":5,
             "name":"Modérateur Discord - Neopolis",
-            "color":"#145a32"
+            "color":"#145a32",
+            "level":"",
+            "tags":[""]
         },
         "817394173237788713": {
             "strength":4,
             "name":"Modérateur IG - Neopolis",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "845034836825210880": {
             "strength":3,
             "name":"Staff - Neopolis",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "727437774570913802": {
             "strength":3,
             "name":"Guide - Neopolis",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "631434248481669130": {
             "strength":2,
             "name":"Ancien Staff - Neopolis",
-            "color":"#839192"
+            "color":"#839192",
+            "level":"",
+            "tags":[""]
         },
         "842070761279193138": {
             "strength":1,
             "name":"VIP - Neopolis",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "841764763117289533": {
             "strength":1,
             "name":"Guest - Neopolis",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "756994043283636264": {
             "strength":8,
             "name":"Capitaine - Default",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "448182805755592704": {
             "strength":7,
             "name":"Admin - Erisum",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "756993286991773696": {
             "strength":6,
             "name":"Responsable Staff - Erisum",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "586953966085079060": {
             "strength":5,
             "name":"Responsable Support - Erisum",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "694883096105058325": {
             "strength":5,
             "name":"Responsable COM - Erisum",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "695972424973549608": {
             "strength":5,
             "name":"Directeur Artistique - Erisum",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "756993758901436546": {
             "strength":6,
             "name":"Responsable Gameplay- Erisum",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "721279302888325253": {
             "strength":6,
             "name":"Responsable Dev- Erisum",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "749928769724219432": {
             "strength":6,
             "name":"Responsable Infrastructure - Erisum",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "586952541997105152": {
             "strength":6,
             "name":"Responsable Mods - Erisum",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "626522536296972288": {
             "strength":5,
             "name":"Responsable Traduction - Erisum",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "639129856084279327": {
             "strength":5,
             "name":"Responsable Projet - Erisum",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "586953546856136731": {
             "strength":5,
             "name":"Responsable Rédaction - Erisum",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "678274739344637954": {
             "strength":5,
             "name":"Responsable - Erisum",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "311063414086828032": {
             "strength":4,
             "name":"Modérateur - Erisum",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "586956238731083806": {
             "strength":3,
             "name":"Builder - Erisum",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "678277611801149450": {
             "strength":2,
             "name":"Feedback - Erisum",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "311064091139506177": {
             "strength":2,
             "name":"Gameplay - Erisum",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "678277223882686467": {
             "strength":2,
             "name":"Graphiste - Erisum",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "678278399361548338": {
             "strength":2,
             "name":"Traduction - Erisum",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "678277722845216791": {
             "strength":2,
             "name":"Rédaction - Erisum",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "313264172773277697": {
             "strength":3,
             "name":"Dev - Erisum",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "678267266554396673": {
             "strength":2,
             "name":"Erisum Community - Erisum",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "678613916917694484": {
             "strength":3,
             "name":"Support - Erisum",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "516019582792630317": {
             "strength":2,
             "name":"CM - Erisum",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "438340891430879242": {
             "strength":1,
             "name":"Friend - Erisum",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         },
         "453957083247804437": {
             "strength":6,
             "name":"Créateur - Art",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "672170122458300496": {
             "strength":5,
             "name":"Admin - Art",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "672503720063533086": {
             "strength":4,
             "name":"Modérateur - Art",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "696316291870490634": {
             "strength":2,
             "name":"CM - Art",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "673222436526751748": {
             "strength":2,
             "name":"Recruteur Artistique - Art",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "672170234165067780": {
             "strength":3,
             "name":"Staff - Art",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "822880077930037258": {
             "strength":2,
             "name":"Ambassadeur - Art",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "876442963310444585": {
             "strength":8,
             "name":"Créateur - GenshinFr",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "875032220123938819": {
             "strength":7,
             "name":"Admin - GenshinFr",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "881842917566738482": {
             "strength":6,
             "name":"Gérant Staff - GenshinFr",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "878646891355705364": {
             "strength":5,
             "name":"Resp Mod - GenshinFr",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "878646814327332875": {
             "strength":5,
             "name":"Resp Helper - GenshinFr",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "848639530394583040": {
             "strength":4,
             "name":"Mods - GenshinFr",
-            "color":"#145a32"
+            "color":"#145a32",
+            "level":"",
+            "tags":[""]
         },
         "875032222405636126": {
             "strength":3,
             "name":"Modérateur - GenshinFr",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "876447302028492800": {
             "strength":2,
             "name":"Helpeur - GenshinFr",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "703715302399017020": {
             "strength":8,
             "name":"Créateur - Publicité FRANCE",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "864626496853245962": {
             "strength":7,
             "name":"Admin - Publicité FRANCE",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "869213229958725653": {
             "strength":7,
             "name":"Administration - Publicité FRANCE",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "866486335955402792": {
             "strength":6,
             "name":"Vice Président - Publicité FRANCE",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "694586295422287893": {
             "strength":5,
             "name":"Responsable Staff - Publicité FRANCE",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "668072490815193098": {
             "strength":4,
             "name":"Modérateur - Publicité FRANCE",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "699685932269436949": {
             "strength":3,
             "name":"ModérateurTest - Publicité FRANCE",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "683770833784799471": {
             "strength":3,
             "name":"Dev - Publicité FRANCE",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "668071471100461086": {
             "strength":2,
             "name":"Staff - Publicité FRANCE",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "478687934351147010": {
             "strength":7,
             "name":"Admin - 100% Pub",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "685527595428872238": {
             "strength":6,
             "name":"Marketing - 100% Pub",
-            "color":"#7b241c"
+            "color":"#7b241c",
+            "level":"",
+            "tags":[""]
         },
         "478688906267852852": {
             "strength":5,
             "name":"Modérateur Senior - 100% Pub",
-            "color":"#145a32"
+            "color":"#145a32",
+            "level":"",
+            "tags":[""]
         },
         "668927772084797444": {
             "strength":4,
             "name":"Modérateur Junior - 100% Pub",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "640297080413487114": {
             "strength":3,
             "name":"Partenaire Manager - 100% Pub",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "852995073134034994": {
             "strength":2,
             "name":"Collaborateur - 100% Pub",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "652926254739095583": {
             "strength":8,
             "name":"Fondateur - Dymensia",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "614401526399762454": {
             "strength":8,
             "name":"Fondateur - Dymensia",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "714806731896520746": {
             "strength":8,
             "name":"Fondateur - Dymensia",
-            "color":"#641e16"
+            "color":"#641e16",
+            "level":"",
+            "tags":[""]
         },
         "730558667719704576": {
             "strength":7,
             "name":"Manager - Dymensia",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "854096845667434507": {
             "strength":6,
             "name":"Responsable - Dymensia",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "854400632324096000": {
             "strength":6,
             "name":"Responsable Anim - Dymensia",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "808806744326799410": {
             "strength":6,
             "name":"Responsable Mods - Dymensia",
-            "color":"#512e5f"
+            "color":"#512e5f",
+            "level":"",
+            "tags":[""]
         },
         "800152656882565160": {
             "strength":5,
             "name":"Modérateur - Dymensia",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "720327365032673296": {
             "strength":5,
             "name":"Modérateur - Dymensia",
-            "color":"#2ecc71"
+            "color":"#2ecc71",
+            "level":"",
+            "tags":[""]
         },
         "759847330173288448s": {
             "strength":4,
             "name":"Animateur - Dymensia",
-            "color":"#2e86c1"
+            "color":"#2e86c1",
+            "level":"",
+            "tags":[""]
         },
         "781636530363695104": {
             "strength":3,
             "name":"Guide - Dymensia",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "697697961399943200": {
             "strength":2,
             "name":"Staff - Dymensia",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "654651226646118419": {
             "strength":2,
             "name":"CM - Dymensia",
-            "color":"#d4ac0d"
+            "color":"#d4ac0d",
+            "level":"",
+            "tags":[""]
         },
         "615691191039557666": {
             "strength":1,
             "name":"Partenaire - Dymensia",
-            "color":"#2e4053"
+            "color":"#2e4053",
+            "level":"",
+            "tags":[""]
         }
     },
     "users":{
@@ -2246,7 +3138,9 @@
                     "pseudo":"Anti",
                     "strength":"2",
                     "name":"Ancien Staff - Dymensia",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2256,7 +3150,9 @@
                     "pseudo":"Dany",
                     "strength":"2",
                     "name":"Ancien Staff - Dymensia",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2266,7 +3162,9 @@
                     "pseudo":"Zapto",
                     "strength":"2",
                     "name":"Ancien Staff - Dymensia",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2276,7 +3174,9 @@
                     "pseudo":"Okahori",
                     "strength":"2",
                     "name":"Ancien Staff - Dymensia",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2286,7 +3186,9 @@
                     "pseudo":"Sukreu",
                     "strength":"2",
                     "name":"Ancien Staff - Dymensia",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2296,7 +3198,9 @@
                     "pseudo":"Aeris",
                     "strength":"2",
                     "name":"Ancien Staff - Dymensia",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2306,7 +3210,9 @@
                     "pseudo":"Sherly",
                     "strength":"2",
                     "name":"Ancien Staff - Dymensia",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2316,7 +3222,9 @@
                     "pseudo":"GreenFire",
                     "strength":"2",
                     "name":"Ancien Staff - Dymensia",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2326,7 +3234,9 @@
                     "pseudo":"L.Nexus",
                     "strength":"2",
                     "name":"Ancien Staff - Dymensia",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2336,7 +3246,9 @@
                     "pseudo":"BiLuPri",
                     "strength":"2",
                     "name":"Ancien Staff - Dymensia",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2346,7 +3258,9 @@
                     "pseudo":"Fyfticlose",
                     "strength":"2",
                     "name":"Ancien Staff - Dymensia",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2356,7 +3270,9 @@
                     "pseudo":"Skay",
                     "strength":"2",
                     "name":"Ancien Staff - Dymensia",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2366,7 +3282,9 @@
                     "pseudo":"Λngel",
                     "strength":"2",
                     "name":"Ancien Staff - 100% Pub",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2376,7 +3294,9 @@
                     "pseudo":"Byleth",
                     "strength":"2",
                     "name":"Ancien Staff - 100% Pub",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2386,7 +3306,9 @@
                     "pseudo":"MaRtIn",
                     "strength":"2",
                     "name":"Ancien Staff - 100% Pub",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2396,7 +3318,9 @@
                     "pseudo":"Swardz",
                     "strength":"2",
                     "name":"Ancien Staff - Erazion",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2406,7 +3330,9 @@
                     "pseudo":"Simba🅄🅆🅄",
                     "strength":"2",
                     "name":"Ancien Staff - Erazion",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2416,7 +3342,9 @@
                     "pseudo":"Captain",
                     "strength":"2",
                     "name":"Ancien Staff - Erazion",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2426,7 +3354,9 @@
                     "pseudo":"Swixo",
                     "strength":"2",
                     "name":"Ancien Staff - Erazion",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2436,7 +3366,9 @@
                     "pseudo":"Lanbròuille",
                     "strength":"2",
                     "name":"Ancien Staff - QuavoCrew",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2446,7 +3378,9 @@
                     "pseudo":"Teppp",
                     "strength":"2",
                     "name":"Ancien Staff - QuavoCrew",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2456,7 +3390,9 @@
                     "pseudo":"Slowness",
                     "strength":"2",
                     "name":"Ancien Staff - QuavoCrew",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2466,7 +3402,9 @@
                     "pseudo":"Møõn",
                     "strength":"2",
                     "name":"Ancien Staff - MysticPub",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2476,7 +3414,9 @@
                     "pseudo":"慢化剂",
                     "strength":"2",
                     "name":"Ancien Staff - MysticPub",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2486,7 +3426,9 @@
                     "pseudo":"Emmanuel",
                     "strength":"2",
                     "name":"Ancien Staff - BalanceTonLien",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2496,7 +3438,9 @@
                     "pseudo":"Jus",
                     "strength":"2",
                     "name":"Ancien Staff - BalanceTonLien",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2506,7 +3450,9 @@
                     "pseudo":"-Victor-",
                     "strength":"2",
                     "name":"Ancien Staff - BalanceTonLien",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2516,12 +3462,16 @@
                     "pseudo":"Neptuune's",
                     "strength":"2",
                     "name":"Ancien Staff - BalanceTonLien",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 },
                 "693826034902237214":{
                     "strength":"2",
                     "name":"Ancien Staff - 0Rion Project",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2531,7 +3481,9 @@
                     "pseudo":"Fr0steu",
                     "strength":"2",
                     "name":"Ancien Staff - Aide Jeune",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2541,7 +3493,9 @@
                     "pseudo":"Noa",
                     "strength":"2",
                     "name":"Ancien Staff - Aide Jeune",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2551,7 +3505,9 @@
                     "pseudo":"Noa",
                     "strength":"2",
                     "name":"Ancien Staff - Aide Jeune",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2561,7 +3517,9 @@
                     "pseudo":"Hisato",
                     "strength":"2",
                     "name":"Ancien Staff - PokeDraco",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2571,7 +3529,9 @@
                     "pseudo":"ragnar",
                     "strength":"2",
                     "name":"Ancien Staff - PokeDraco",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2581,7 +3541,9 @@
                     "pseudo":"Diablo_",
                     "strength":"2",
                     "name":"Ancien Staff - PokeDraco",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2591,7 +3553,9 @@
                     "pseudo":"LZ❤Noctix",
                     "strength":"2",
                     "name":"Ancien Staff - PokeDraco",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2601,7 +3565,9 @@
                     "pseudo":"RetalOne",
                     "strength":"2",
                     "name":"Ancien Staff - PokeDraco",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2611,7 +3577,9 @@
                     "pseudo":"Natsu",
                     "strength":"2",
                     "name":"Ancien Staff - PokeDraco",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2621,7 +3589,9 @@
                     "pseudo":"𝙆𝙖𝙢𝙮",
                     "strength":"2",
                     "name":"Ancien Staff - PokeDraco",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2631,7 +3601,9 @@
                     "pseudo":"baba2d9",
                     "strength":"2",
                     "name":"Ancien Staff - PokeDraco",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2641,7 +3613,9 @@
                     "pseudo":"Guigui",
                     "strength":"2",
                     "name":"Ancien Staff - PokeDraco",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2651,7 +3625,9 @@
                     "pseudo":"Mattia",
                     "strength":"2",
                     "name":"Ancien Staff - PokeDraco",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2661,7 +3637,9 @@
                     "pseudo":"Flipatongg_",
                     "strength":"2",
                     "name":"Ancien Staff - PokeDraco",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2671,7 +3649,9 @@
                     "pseudo":"Notos | Jibril",
                     "strength":"2",
                     "name":"Ancien Staff - PokeDraco",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2681,7 +3661,9 @@
                     "pseudo":"Knyzeeer",
                     "strength":"2",
                     "name":"Ancien Staff - PokeDraco",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2691,7 +3673,9 @@
                     "pseudo":"Nakama",
                     "strength":"2",
                     "name":"Ancien Staff - Mcfly & Carlito",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2701,7 +3685,9 @@
                     "pseudo":"Bibi",
                     "strength":"2",
                     "name":"Ancien Staff - Mcfly & Carlito",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2711,7 +3697,9 @@
                     "pseudo":"MaLbaK",
                     "strength":"2",
                     "name":"Ancien Staff - Mcfly & Carlito",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2721,7 +3709,9 @@
                     "pseudo":"Swizzer",
                     "strength":"2",
                     "name":"Ancien Staff - Mcfly & Carlito",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2731,7 +3721,9 @@
                     "pseudo":"Cédric",
                     "strength":"2",
                     "name":"Ancien Staff - Mcfly & Carlito",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2741,7 +3733,9 @@
                     "pseudo":"Louwi",
                     "strength":"2",
                     "name":"Ancien Staff - Mcfly & Carlito",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2751,7 +3745,9 @@
                     "pseudo":"Guizmo5647",
                     "strength":"2",
                     "name":"Ancien Staff - Mcfly & Carlito",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2761,7 +3757,9 @@
                     "pseudo":"Coxibatte",
                     "strength":"2",
                     "name":"Ancien Staff - Mcfly & Carlito",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2771,7 +3769,9 @@
                     "pseudo":"[Melvin]",
                     "strength":"2",
                     "name":"Ancien Staff - Mcfly & Carlito",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2781,7 +3781,9 @@
                     "pseudo":"Sashô",
                     "strength":"2",
                     "name":"Ancien Staff - Mcfly & Carlito",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2791,7 +3793,9 @@
                     "pseudo":"Kodai",
                     "strength":"2",
                     "name":"Ancien Staff - Mcfly & Carlito",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2801,7 +3805,9 @@
                     "pseudo":"ℳ𝒆𝓶𝓹𝓱𝓲𝓼#1111",
                     "strength":"2",
                     "name":"Ancien Staff - Mcfly & Carlito",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2811,7 +3817,9 @@
                     "pseudo":"Robîn",
                     "strength":"2",
                     "name":"Ancien Staff - Mcfly & Carlito",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2820,7 +3828,9 @@
                 "510096798497374225":{
                     "strength":"2",
                     "name":"Ancien Staff - Khundar",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2829,7 +3839,9 @@
                 "356386012819226625":{
                     "strength":"2",
                     "name":"Ancien Staff - Palladium",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2839,7 +3851,9 @@
                     "strength":"2",
                     "pseudo":"The_Brioche",
                     "name":"Ancien Staff - Palladium",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2848,7 +3862,9 @@
                 "482631676032319489":{
                     "strength":"2",
                     "name":"Ancien Staff - Palladium",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2858,13 +3874,17 @@
                     "pseudo":"Biprini",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 },
                 "614401335080779776":{
                     "pseudo":"Biprini",
                     "strength":"2",
                     "name":"Ancien Staff - Dymensia",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2874,7 +3894,9 @@
                     "pseudo":"Esteban",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2884,7 +3906,9 @@
                     "pseudo":"Sir",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2894,7 +3918,9 @@
                     "pseudo":"Zoldru",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2904,7 +3930,9 @@
                     "pseudo":"AlexT",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2914,7 +3942,9 @@
                     "pseudo":"Noctali",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2924,7 +3954,9 @@
                     "pseudo":"Frigiel , ce bg (sayo)",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2934,7 +3966,9 @@
                     "pseudo":"Xederma",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2944,7 +3978,9 @@
                     "pseudo":"Waroth",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2954,7 +3990,9 @@
                     "pseudo":"Fishy",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2964,7 +4002,9 @@
                     "pseudo":"TwiDev",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2974,7 +4014,9 @@
                     "pseudo":"ternetul",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2984,7 +4026,9 @@
                     "pseudo":"Lulla c'est la plus gentille",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -2994,7 +4038,9 @@
                     "pseudo":"Skatestla",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3004,7 +4050,9 @@
                     "pseudo":"ROMAX_M",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3014,7 +4062,9 @@
                     "pseudo":"Meticuleux",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3024,7 +4074,9 @@
                     "pseudo":"Flos",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3034,7 +4086,9 @@
                     "pseudo":"Absent reviens le 21 Août",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3044,7 +4098,9 @@
                     "pseudo":"AstralOpithèque",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3054,7 +4110,9 @@
                     "pseudo":"Léopard",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3064,7 +4122,9 @@
                     "pseudo":"Elsidir",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3074,7 +4134,9 @@
                     "pseudo":"Romain",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3084,7 +4146,9 @@
                     "pseudo":"lara_breizh",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3094,13 +4158,17 @@
                     "pseudo":"Aimliloke",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 },
                 "434471390653972489":{
                     "pseudo":"Aimliloke",
                     "strength":"2",
                     "name":"Ancien Staff - Squeezie",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3110,7 +4178,9 @@
                     "pseudo":"Nekyox",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3120,7 +4190,9 @@
                     "pseudo":"Oka",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3130,7 +4202,9 @@
                     "pseudo":"Crysphène",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3140,7 +4214,9 @@
                     "pseudo":"Arawin",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3150,7 +4226,9 @@
                     "pseudo":"Citronaute",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3160,7 +4238,9 @@
                     "pseudo":"Djjo68",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3170,7 +4250,9 @@
                     "pseudo":"Metaloul",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3180,7 +4262,9 @@
                     "pseudo":"Tatane",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3190,7 +4274,9 @@
                     "pseudo":"charly griveaux",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3200,7 +4286,9 @@
                     "pseudo":"Ruki",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3211,7 +4299,9 @@
                     "pseudo":"papercrak",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3221,7 +4311,9 @@
                     "pseudo":"sugo",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3231,7 +4323,9 @@
                     "pseudo":"SkyWors",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3241,7 +4335,9 @@
                     "pseudo":"Griphyx",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3251,7 +4347,9 @@
                     "pseudo":"Monsieur No/binouze",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3261,7 +4359,9 @@
                     "pseudo":"Jus D'ananas",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3271,7 +4371,9 @@
                     "pseudo":"Viking5754",
                     "strength":"2",
                     "name":"Ancien Staff - Paladium",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3281,7 +4383,9 @@
                     "pseudo":"Mej",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3291,7 +4395,9 @@
                     "pseudo":"Silky",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3301,7 +4407,9 @@
                     "pseudo":"Strikes",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3311,7 +4419,9 @@
                     "pseudo":"Dwreamz",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3321,7 +4431,9 @@
                     "pseudo":"The Kid",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3331,7 +4443,9 @@
                     "pseudo":"Lina~",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3341,7 +4455,9 @@
                     "pseudo":"To8ik_",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3351,7 +4467,9 @@
                     "pseudo":"Noubouille",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3361,7 +4479,9 @@
                     "pseudo":"Shuvi Ram",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3371,7 +4491,9 @@
                     "pseudo":"Tharegorn",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3381,7 +4503,9 @@
                     "pseudo":"Hugo",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3391,7 +4515,9 @@
                     "pseudo":"SugarElement",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3401,7 +4527,9 @@
                     "pseudo":"ReD",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3411,7 +4539,9 @@
                     "pseudo":"Ybu",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3421,7 +4551,9 @@
                     "pseudo":"Bobine",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3431,7 +4563,9 @@
                     "pseudo":"Sirius",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3441,7 +4575,9 @@
                     "pseudo":"Franky1803",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3451,7 +4587,9 @@
                     "pseudo":"Panno",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3461,7 +4599,9 @@
                     "pseudo":"Eni",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3471,7 +4611,9 @@
                     "pseudo":"Victor",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3481,7 +4623,9 @@
                     "pseudo":"Coucoude",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3491,7 +4635,9 @@
                     "pseudo":"Calkhiah",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3501,7 +4647,9 @@
                     "pseudo":"DaGoSei",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3511,7 +4659,9 @@
                     "pseudo":"Dorian",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3521,7 +4671,9 @@
                     "pseudo":"Nitoxym",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3531,7 +4683,9 @@
                     "pseudo":"Chimorin",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3541,7 +4695,9 @@
                     "pseudo":"Vicalf",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3551,7 +4707,9 @@
                     "pseudo":"Biscuiite",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3561,7 +4719,9 @@
                     "pseudo":"MatthisGN",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3571,7 +4731,9 @@
                     "pseudo":"Kant",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3581,7 +4743,9 @@
                     "pseudo":"Sishette",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3591,7 +4755,9 @@
                     "pseudo":"Minotor",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3601,7 +4767,9 @@
                     "pseudo":"TerryTop",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         },
@@ -3611,7 +4779,9 @@
                     "pseudo":"Rockid",
                     "strength":"2",
                     "name":"Ancien Staff - FuzeIII",
-                    "color":"#839192"
+                    "color":"#839192",
+            "level":"",
+            "tags":[""]
                 }
             }
         }
