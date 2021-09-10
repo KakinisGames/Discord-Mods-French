@@ -74,168 +74,168 @@
             "strength":9,
             "name":"Admin - DiscordTesters",
             "color":"#7b241c",
-            "level":"",
-            "tags":[""]
+            "level":"3",
+            "tags":["Admin"]
         },
         "440322144593772545": {
             "strength":8,
             "name":"Modérateur - DiscordTesters",
             "color":"#512e5f",
-            "level":"",
-            "tags":[""]
+            "level":"3",
+            "tags":["Mod"]
         },
         "440330249826205696": {
             "strength":6,
             "name":"BugAdmin - DiscordTesters",
             "color":"#2ecc71",
-            "level":"",
-            "tags":[""]
+            "level":"3",
+            "tags":["Mod"]
         },
         "695797931055382549": {
             "strength":4,
             "name":"JRMod - DiscordTesters",
             "color":"#2e86c1",
-            "level":"",
-            "tags":[""]
+            "level":"3",
+            "tags":["Staff"]
         },
-        "811276574065950751": {
+        "455309991759577100": {
             "strength":10,
-            "name":"Fondateur - Unosial",
+            "name":"LeaderShip - Unosial",
             "color":"#641e16",
-            "level":"",
+            "level":"3",
             "tags":[""]
         },
         "827876186033225790": {
             "strength":8,
             "name":"Responsable - Unosial",
             "color":"#512e5f",
-            "level":"",
+            "level":"3",
             "tags":[""]
         },
         "461950084393861140": {
             "strength":7,
             "name":"Développeur - Unosial",
             "color":"#145a32",
-            "level":"",
+            "level":"3",
             "tags":[""]
         },
         "694899379903135754": {
             "strength":7,
             "name":"CM - Unosial",
             "color":"#145a32",
-            "level":"",
+            "level":"3",
             "tags":[""]
         },
         "455755103014617098": {
             "strength":6,
             "name":"Staff - Unosial",
             "color":"#2ecc71",
-            "level":"",
+            "level":"3",
             "tags":[""]
         },
         "811280970371432486": {
             "strength":1,
             "name":"VIP - Unosial",
             "color":"#2e4053",
-            "level":"",
+            "level":"1",
             "tags":[""]
         },
         "541694284361891962": {
             "strength":1,
             "name":"Trusted - Unosial",
             "color":"#2e4053",
-            "level":"",
+            "level":"1",
             "tags":[""]
         },
         "779019376870686740": {
             "strength":9,
             "name":"Admin - 0Rion Project",
             "color":"#7b241c",
-            "level":"",
+            "level":"3",
             "tags":[""]
         },
         "796479084154716180": {
             "strength":8,
             "name":"Responsable - 0Rion Project",
             "color":"#512e5f",
-            "level":"",
+            "level":"3",
             "tags":[""]
         },
         "796479711194644581": {
             "strength":6,
             "name":"Staff - 0Rion Project",
             "color":"#2ecc71",
-            "level":"",
+            "level":"3",
             "tags":[""]
         },
         "790528546384510986": {
             "strength":1,
             "name":"Partenaire - 0Rion Project",
             "color":"#2e4053",
-            "level":"",
+            "level":"1",
             "tags":[""]
         },
         "619894831283568665": {
             "strength":9,
             "name":"Bot Owner - InvitLogger",
             "color":"#7b241c",
-            "level":"",
+            "level":"3",
             "tags":[""]
         },
         "770290209668464660": {
             "strength":6,
             "name":"Modérateur - InvitLogger",
             "color":"#145a32",
-            "level":"",
+            "level":"3",
             "tags":[""]
         },
         "620635611946024960": {
             "strength":4,
             "name":"SupportTeam - InvitLogger",
             "color":"#2ecc71",
-            "level":"",
+            "level":"3",
             "tags":[""]
         },
         "621764566837231621": {
             "strength":3,
             "name":"Traducteur - InvitLogger",
             "color":"#d4ac0d",
-            "level":"",
+            "level":"3",
             "tags":[""]
         },
         "652635342545092618": {
             "strength":1,
             "name":"VIP - InvitLogger",
             "color":"#2e4053",
-            "level":"",
+            "level":"1",
             "tags":[""]
         },
         "495508740896718849": {
             "strength":9,
             "name":"Admin - RedSkyll",
             "color":"#7b241c",
-            "level":"",
+            "level":"3",
             "tags":[""]
         },
         "669254922512105482": {
             "strength":8,
             "name":"Responsable Staff - RedSkyll",
             "color":"#512e5f",
-            "level":"",
+            "level":"3",
             "tags":[""]
         },
         "883738129595514890": {
             "strength":8,
             "name":"Responsable Twitch - RedSkyll",
             "color":"#512e5f",
-            "level":"",
+            "level":"3",
             "tags":[""]
         },
         "483919094190702602": {
             "strength":6,
             "name":"Modérateur - RedSkyll",
             "color":"#2ecc71",
-            "level":"",
+            "level":"3",
             "tags":[""]
         },
         "0": {
@@ -243,7 +243,7 @@
             "strength":4,
             "name":"Animateur - RedSkyll",
             "color":"#2e86c1",
-            "level":"",
+            "level":"3",
             "tags":[""]
         },
         "841040373639413831": {
