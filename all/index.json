@@ -9,63 +9,63 @@
             "strength":10,
             "name":"Fondateur - Default",
             "color":"#641e16",
-            "level":"",
+            "level":"3",
             "tags":["Founder"]
         },
         "admin": {
             "strength":9,
             "name":"Admin - Default",
             "color":"#7b241c",
-            "level":"",
+            "level":"3",
             "tags":["Admin"]
         },
         "reponsable": {
             "strength":8,
             "name":"Responsable - Default",
             "color":"#512e5f",
-            "level":"",
+            "level":"3",
             "tags":["Mod"]
         },
         "super-mod": {
             "strength":7,
             "name":"Super-Modérateur - Default",
             "color":"#145a32",
-            "level":"",
+            "level":"3",
             "tags":["Mod"]
         },
         "mod": {
             "strength":6,
             "name":"Modérateur - Default",
             "color":"#2ecc71",
-            "level":"",
+            "level":"3",
             "tags":["Mod"]
         },
         "anim": {
             "strength":4,
             "name":"Animateur - Default",
             "color":"#2e86c1",
-            "level":"",
+            "level":"3",
             "tags":["Staff"]
         },
         "helper": {
             "strength":3,
             "name":"Helpeur - Default",
             "color":"#d4ac0d",
-            "level":"",
+            "level":"3",
             "tags":["Staff"]
         },
         "Ancien Staff": {
             "strength":2,
             "name":"Ancien Staff - Default",
             "color":"#839192",
-            "level":"",
+            "level":"2",
             "tags":["Ex"]
         },
         "vip/friend": {
             "strength":1,
             "name":"VIP/Friend - Default",
             "color":"#2e4053",
-            "level":"",
+            "level":"1",
             "tags":["Other"]
         }
     },
